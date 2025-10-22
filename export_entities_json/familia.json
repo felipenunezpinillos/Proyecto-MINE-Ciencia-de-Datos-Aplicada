@@ -1,0 +1,6230 @@
+[
+  {
+    "end": 105,
+    "label": "ORG",
+    "start": 74,
+    "text": "Institución Educativa Atahualpa"
+  },
+  {
+    "end": 126,
+    "label": "ORG",
+    "start": 107,
+    "text": "Taller con Familias"
+  },
+  {
+    "end": 148,
+    "label": "ORG",
+    "start": 129,
+    "text": "Personas Cuidadoras"
+  },
+  {
+    "end": 541,
+    "label": "ORG",
+    "start": 507,
+    "text": "Secretaría de Planeación de Bogotá"
+  },
+  {
+    "end": 581,
+    "label": "MISC",
+    "start": 559,
+    "text": "Economía Urbana S.A.S."
+  },
+  {
+    "end": 733,
+    "label": "MISC",
+    "start": 693,
+    "text": "Estrategia Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 788,
+    "label": "ORG",
+    "start": 755,
+    "text": "Secretaría de Educación Distrital"
+  },
+  {
+    "end": 1837,
+    "label": "ORG",
+    "start": 1780,
+    "text": "Dirección de Evaluación de Políticas Públicas Distritales"
+  },
+  {
+    "end": 1878,
+    "label": "ORG",
+    "start": 1844,
+    "text": "Secretaría Distrital de Planeación"
+  },
+  {
+    "end": 2838,
+    "label": "MISC",
+    "start": 2821,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 2896,
+    "label": "MISC",
+    "start": 2879,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 2927,
+    "label": "MISC",
+    "start": 2910,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 3027,
+    "label": "MISC",
+    "start": 3010,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 3306,
+    "label": "MISC",
+    "start": 3289,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 3374,
+    "label": "MISC",
+    "start": 3357,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 3512,
+    "label": "MISC",
+    "start": 3495,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 3680,
+    "label": "MISC",
+    "start": 3663,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 3772,
+    "label": "MISC",
+    "start": 3755,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 3981,
+    "label": "MISC",
+    "start": 3964,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 4023,
+    "label": "MISC",
+    "start": 4006,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 4082,
+    "label": "MISC",
+    "start": 4065,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 4182,
+    "label": "MISC",
+    "start": 4165,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 4247,
+    "label": "MISC",
+    "start": 4230,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 4313,
+    "label": "MISC",
+    "start": 4296,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 4672,
+    "label": "MISC",
+    "start": 4655,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 4847,
+    "label": "MISC",
+    "start": 4830,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 4897,
+    "label": "MISC",
+    "start": 4880,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 4967,
+    "label": "MISC",
+    "start": 4950,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 5019,
+    "label": "MISC",
+    "start": 5002,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 5144,
+    "label": "MISC",
+    "start": 5127,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 5230,
+    "label": "MISC",
+    "start": 5213,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 5269,
+    "label": "MISC",
+    "start": 5255,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 6732,
+    "label": "MISC",
+    "start": 6715,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 7372,
+    "label": "MISC",
+    "start": 7355,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 9108,
+    "label": "MISC",
+    "start": 9097,
+    "text": "E- Perfecto"
+  },
+  {
+    "end": 10245,
+    "label": "MISC",
+    "start": 10228,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 10879,
+    "label": "MISC",
+    "start": 10862,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 11139,
+    "label": "ORG",
+    "start": 11120,
+    "text": "Sala de Desconexión"
+  },
+  {
+    "end": 11200,
+    "label": "MISC",
+    "start": 11157,
+    "text": "Estrategia de Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 11461,
+    "label": "ORG",
+    "start": 11428,
+    "text": "Secretaría de Educación Distrital"
+  },
+  {
+    "end": 11600,
+    "label": "LOC",
+    "start": 11594,
+    "text": "Bogotá"
+  },
+  {
+    "end": 12138,
+    "label": "MISC",
+    "start": 12133,
+    "text": "E- Ok"
+  },
+  {
+    "end": 12197,
+    "label": "MISC",
+    "start": 12192,
+    "text": "E- Ok"
+  },
+  {
+    "end": 12549,
+    "label": "MISC",
+    "start": 12506,
+    "text": "Estrategia de Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 12590,
+    "label": "MISC",
+    "start": 12573,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 13166,
+    "label": "PER",
+    "start": 13164,
+    "text": "Ay"
+  },
+  {
+    "end": 16966,
+    "label": "PER",
+    "start": 16953,
+    "text": "Juanito Pérez"
+  },
+  {
+    "end": 16984,
+    "label": "PER",
+    "start": 16969,
+    "text": "Pepita Alarango"
+  },
+  {
+    "end": 16993,
+    "label": "PER",
+    "start": 16986,
+    "text": "Juanito"
+  },
+  {
+    "end": 17019,
+    "label": "PER",
+    "start": 17013,
+    "text": "Pepita"
+  },
+  {
+    "end": 17075,
+    "label": "PER",
+    "start": 17068,
+    "text": "Juanito"
+  },
+  {
+    "end": 17084,
+    "label": "PER",
+    "start": 17078,
+    "text": "Pepita"
+  },
+  {
+    "end": 17452,
+    "label": "MISC",
+    "start": 17435,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 18725,
+    "label": "MISC",
+    "start": 18705,
+    "text": "E- NOMBRE DE PERSONA"
+  },
+  {
+    "end": 18752,
+    "label": "MISC",
+    "start": 18735,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 18939,
+    "label": "MISC",
+    "start": 18922,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 18974,
+    "label": "MISC",
+    "start": 18957,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 19829,
+    "label": "MISC",
+    "start": 19823,
+    "text": "Listo!"
+  },
+  {
+    "end": 19849,
+    "label": "MISC",
+    "start": 19831,
+    "text": "NOMBRE DE PERSONA1"
+  },
+  {
+    "end": 20224,
+    "label": "MISC",
+    "start": 20205,
+    "text": "NOMBRE DE PERSONA 3"
+  },
+  {
+    "end": 20294,
+    "label": "MISC",
+    "start": 20275,
+    "text": "NOMBRE DE PERSONA 3"
+  },
+  {
+    "end": 20711,
+    "label": "MISC",
+    "start": 20693,
+    "text": "NOMBRE DE PERSONA1"
+  },
+  {
+    "end": 21022,
+    "label": "MISC",
+    "start": 21004,
+    "text": "NOMBRE DE PERSONA3"
+  },
+  {
+    "end": 21453,
+    "label": "PER",
+    "start": 21446,
+    "text": "Oiganme"
+  },
+  {
+    "end": 22406,
+    "label": "PER",
+    "start": 22397,
+    "text": "Florecita"
+  },
+  {
+    "end": 22783,
+    "label": "MISC",
+    "start": 22766,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 22829,
+    "label": "MISC",
+    "start": 22823,
+    "text": "E- Ojo"
+  },
+  {
+    "end": 23411,
+    "label": "PER",
+    "start": 23407,
+    "text": "Papá"
+  },
+  {
+    "end": 23458,
+    "label": "PER",
+    "start": 23452,
+    "text": "Lolita"
+  },
+  {
+    "end": 23946,
+    "label": "PER",
+    "start": 23938,
+    "text": "Giovanna"
+  },
+  {
+    "end": 24346,
+    "label": "PER",
+    "start": 24342,
+    "text": "Mamá"
+  },
+  {
+    "end": 27955,
+    "label": "MISC",
+    "start": 27947,
+    "text": "E- Listo"
+  },
+  {
+    "end": 28015,
+    "label": "MISC",
+    "start": 27998,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 28269,
+    "label": "MISC",
+    "start": 28250,
+    "text": "NOMBRE DE PERSONA 1"
+  },
+  {
+    "end": 29077,
+    "label": "MISC",
+    "start": 29072,
+    "text": "E- Ok"
+  },
+  {
+    "end": 29105,
+    "label": "MISC",
+    "start": 29088,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 29387,
+    "label": "MISC",
+    "start": 29368,
+    "text": "NOMBRE DE PERSONA 1"
+  },
+  {
+    "end": 30266,
+    "label": "MISC",
+    "start": 30249,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 30702,
+    "label": "MISC",
+    "start": 30683,
+    "text": "NOMBRE DE PERSONA 2"
+  },
+  {
+    "end": 33126,
+    "label": "MISC",
+    "start": 33107,
+    "text": "NOMBRE DE PERSONA 2"
+  },
+  {
+    "end": 33305,
+    "label": "MISC",
+    "start": 33288,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 34694,
+    "label": "MISC",
+    "start": 34690,
+    "text": "Dios"
+  },
+  {
+    "end": 35342,
+    "label": "MISC",
+    "start": 35325,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 37480,
+    "label": "MISC",
+    "start": 37478,
+    "text": "E-"
+  },
+  {
+    "end": 37574,
+    "label": "ORG",
+    "start": 37555,
+    "text": "Convivencia Escolar"
+  },
+  {
+    "end": 39877,
+    "label": "MISC",
+    "start": 39875,
+    "text": "E-"
+  },
+  {
+    "end": 40138,
+    "label": "MISC",
+    "start": 40136,
+    "text": "E-"
+  },
+  {
+    "end": 40586,
+    "label": "MISC",
+    "start": 40578,
+    "text": "E- Bueno"
+  },
+  {
+    "end": 40942,
+    "label": "MISC",
+    "start": 40925,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 41177,
+    "label": "MISC",
+    "start": 41160,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 41223,
+    "label": "MISC",
+    "start": 41204,
+    "text": "NOMBRE DE PERSONA 2"
+  },
+  {
+    "end": 41298,
+    "label": "MISC",
+    "start": 41279,
+    "text": "NOMBRE DE PERSONA 2"
+  },
+  {
+    "end": 41581,
+    "label": "MISC",
+    "start": 41562,
+    "text": "NOMBRE DE PERSONA 1"
+  },
+  {
+    "end": 47470,
+    "label": "MISC",
+    "start": 47468,
+    "text": "P4"
+  },
+  {
+    "end": 48277,
+    "label": "MISC",
+    "start": 48275,
+    "text": "E-"
+  },
+  {
+    "end": 49480,
+    "label": "LOC",
+    "start": 49474,
+    "text": "Bogotá"
+  },
+  {
+    "end": 50291,
+    "label": "MISC",
+    "start": 50279,
+    "text": "E-  Perfecto"
+  },
+  {
+    "end": 51570,
+    "label": "MISC",
+    "start": 51553,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 52020,
+    "label": "MISC",
+    "start": 52003,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 52048,
+    "label": "ORG",
+    "start": 52029,
+    "text": "Casa de los Famosos"
+  },
+  {
+    "end": 52385,
+    "label": "LOC",
+    "start": 52366,
+    "text": "Casa de los Famosos"
+  },
+  {
+    "end": 52416,
+    "label": "ORG",
+    "start": 52394,
+    "text": "La Casa de los Famosos"
+  },
+  {
+    "end": 54367,
+    "label": "MISC",
+    "start": 54350,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 55825,
+    "label": "MISC",
+    "start": 55808,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 56187,
+    "label": "MISC",
+    "start": 56170,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 57158,
+    "label": "MISC",
+    "start": 57141,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 58809,
+    "label": "MISC",
+    "start": 58792,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 60358,
+    "label": "MISC",
+    "start": 60352,
+    "text": "E-  Ok"
+  },
+  {
+    "end": 61479,
+    "label": "MISC",
+    "start": 61462,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 61970,
+    "label": "MISC",
+    "start": 61949,
+    "text": "E-  NOMBRE DE PERSONA"
+  },
+  {
+    "end": 65825,
+    "label": "MISC",
+    "start": 65808,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 65892,
+    "label": "MISC",
+    "start": 65875,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 66600,
+    "label": "PER",
+    "start": 66596,
+    "text": "Ñero"
+  },
+  {
+    "end": 67181,
+    "label": "ORG",
+    "start": 67173,
+    "text": "Fiscalía"
+  },
+  {
+    "end": 67474,
+    "label": "ORG",
+    "start": 67466,
+    "text": "Fiscalía"
+  },
+  {
+    "end": 68409,
+    "label": "MISC",
+    "start": 68392,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 69361,
+    "label": "MISC",
+    "start": 69344,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 71913,
+    "label": "PER",
+    "start": 71909,
+    "text": "Mami"
+  },
+  {
+    "end": 74026,
+    "label": "PER",
+    "start": 74022,
+    "text": "Dios"
+  },
+  {
+    "end": 77462,
+    "label": "MISC",
+    "start": 77451,
+    "text": "E- Perfecto"
+  },
+  {
+    "end": 78560,
+    "label": "PER",
+    "start": 78555,
+    "text": "Diana"
+  },
+  {
+    "end": 78622,
+    "label": "MISC",
+    "start": 78608,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 78672,
+    "label": "MISC",
+    "start": 78658,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 78825,
+    "label": "PER",
+    "start": 78819,
+    "text": "Sandra"
+  },
+  {
+    "end": 78869,
+    "label": "MISC",
+    "start": 78855,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 78966,
+    "label": "MISC",
+    "start": 78952,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79005,
+    "label": "PER",
+    "start": 79000,
+    "text": "Diana"
+  },
+  {
+    "end": 79069,
+    "label": "PER",
+    "start": 79062,
+    "text": "Joaquín"
+  },
+  {
+    "end": 79124,
+    "label": "MISC",
+    "start": 79110,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79165,
+    "label": "MISC",
+    "start": 79151,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79210,
+    "label": "MISC",
+    "start": 79196,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79270,
+    "label": "MISC",
+    "start": 79256,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79311,
+    "label": "MISC",
+    "start": 79297,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79357,
+    "label": "MISC",
+    "start": 79343,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79386,
+    "label": "MISC",
+    "start": 79372,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79451,
+    "label": "MISC",
+    "start": 79437,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79502,
+    "label": "MISC",
+    "start": 79488,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79560,
+    "label": "MISC",
+    "start": 79546,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79599,
+    "label": "MISC",
+    "start": 79585,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79682,
+    "label": "MISC",
+    "start": 79668,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79720,
+    "label": "MISC",
+    "start": 79706,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79791,
+    "label": "MISC",
+    "start": 79777,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79835,
+    "label": "MISC",
+    "start": 79821,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79909,
+    "label": "MISC",
+    "start": 79895,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 79952,
+    "label": "MISC",
+    "start": 79938,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80028,
+    "label": "MISC",
+    "start": 80014,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80098,
+    "label": "MISC",
+    "start": 80084,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80167,
+    "label": "MISC",
+    "start": 80153,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80231,
+    "label": "MISC",
+    "start": 80217,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80315,
+    "label": "MISC",
+    "start": 80301,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80360,
+    "label": "MISC",
+    "start": 80346,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80429,
+    "label": "MISC",
+    "start": 80415,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80469,
+    "label": "MISC",
+    "start": 80455,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80539,
+    "label": "MISC",
+    "start": 80525,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80575,
+    "label": "MISC",
+    "start": 80561,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80671,
+    "label": "MISC",
+    "start": 80657,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80710,
+    "label": "MISC",
+    "start": 80696,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80765,
+    "label": "MISC",
+    "start": 80751,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 80984,
+    "label": "MISC",
+    "start": 80970,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 81650,
+    "label": "MISC",
+    "start": 81636,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 81699,
+    "label": "MISC",
+    "start": 81681,
+    "text": "don NOMBRE PERSONA"
+  },
+  {
+    "end": 84038,
+    "label": "MISC",
+    "start": 84024,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 84065,
+    "label": "MISC",
+    "start": 84051,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 84092,
+    "label": "MISC",
+    "start": 84078,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 84120,
+    "label": "MISC",
+    "start": 84106,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 84147,
+    "label": "MISC",
+    "start": 84133,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 84174,
+    "label": "MISC",
+    "start": 84160,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 84190,
+    "label": "PER",
+    "start": 84187,
+    "text": "Ana"
+  },
+  {
+    "end": 84272,
+    "label": "MISC",
+    "start": 84258,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 84299,
+    "label": "MISC",
+    "start": 84285,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 84326,
+    "label": "MISC",
+    "start": 84312,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 84355,
+    "label": "MISC",
+    "start": 84341,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 84640,
+    "label": "ORG",
+    "start": 84607,
+    "text": "Secretaría de Educación Distrital"
+  },
+  {
+    "end": 85308,
+    "label": "MISC",
+    "start": 85294,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 85528,
+    "label": "LOC",
+    "start": 85522,
+    "text": "Bogotá"
+  },
+  {
+    "end": 85580,
+    "label": "ORG",
+    "start": 85557,
+    "text": "Secretaría de Educación"
+  },
+  {
+    "end": 85765,
+    "label": "MISC",
+    "start": 85733,
+    "text": "Mesas de Conciliación Camilistas"
+  },
+  {
+    "end": 86633,
+    "label": "MISC",
+    "start": 86619,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 86665,
+    "label": "MISC",
+    "start": 86651,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 90894,
+    "label": "MISC",
+    "start": 90880,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 91354,
+    "label": "MISC",
+    "start": 91342,
+    "text": "Transmilenio"
+  },
+  {
+    "end": 94313,
+    "label": "MISC",
+    "start": 94299,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 94611,
+    "label": "MISC",
+    "start": 94597,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 95439,
+    "label": "MISC",
+    "start": 95425,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 96062,
+    "label": "MISC",
+    "start": 96048,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 96079,
+    "label": "MISC",
+    "start": 96065,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 96125,
+    "label": "MISC",
+    "start": 96111,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 96290,
+    "label": "MISC",
+    "start": 96276,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 96331,
+    "label": "MISC",
+    "start": 96317,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 96880,
+    "label": "MISC",
+    "start": 96866,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 96910,
+    "label": "MISC",
+    "start": 96896,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 97082,
+    "label": "MISC",
+    "start": 97068,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 97126,
+    "label": "MISC",
+    "start": 97112,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 97323,
+    "label": "MISC",
+    "start": 97309,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 97432,
+    "label": "MISC",
+    "start": 97418,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 97740,
+    "label": "MISC",
+    "start": 97726,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 97767,
+    "label": "MISC",
+    "start": 97753,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 97888,
+    "label": "ORG",
+    "start": 97874,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 97985,
+    "label": "MISC",
+    "start": 97971,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 98091,
+    "label": "MISC",
+    "start": 98077,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 98212,
+    "label": "MISC",
+    "start": 98198,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 98386,
+    "label": "MISC",
+    "start": 98372,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 98501,
+    "label": "MISC",
+    "start": 98487,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 98539,
+    "label": "MISC",
+    "start": 98525,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 99593,
+    "label": "MISC",
+    "start": 99579,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 100274,
+    "label": "LOC",
+    "start": 100266,
+    "text": "Santa Fe"
+  },
+  {
+    "end": 101580,
+    "label": "MISC",
+    "start": 101575,
+    "text": "Listo"
+  },
+  {
+    "end": 101781,
+    "label": "MISC",
+    "start": 101767,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 102486,
+    "label": "MISC",
+    "start": 102472,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 102629,
+    "label": "ORG",
+    "start": 102615,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 102704,
+    "label": "MISC",
+    "start": 102690,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 102945,
+    "label": "MISC",
+    "start": 102931,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 103310,
+    "label": "LOC",
+    "start": 103296,
+    "text": "Santa Trinidad"
+  },
+  {
+    "end": 103419,
+    "label": "MISC",
+    "start": 103405,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 103586,
+    "label": "MISC",
+    "start": 103572,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 103606,
+    "label": "MISC",
+    "start": 103592,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 103655,
+    "label": "MISC",
+    "start": 103641,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 103675,
+    "label": "MISC",
+    "start": 103661,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 105568,
+    "label": "LOC",
+    "start": 105559,
+    "text": "Venezuela"
+  },
+  {
+    "end": 105989,
+    "label": "LOC",
+    "start": 105981,
+    "text": "Colombia"
+  },
+  {
+    "end": 107334,
+    "label": "PER",
+    "start": 107327,
+    "text": "Joaquín"
+  },
+  {
+    "end": 107390,
+    "label": "MISC",
+    "start": 107373,
+    "text": "NOMBRE PERSONAfue"
+  },
+  {
+    "end": 107463,
+    "label": "ORG",
+    "start": 107449,
+    "text": "Medicina Legal"
+  },
+  {
+    "end": 107493,
+    "label": "MISC",
+    "start": 107479,
+    "text": "Medicina Legal"
+  },
+  {
+    "end": 107513,
+    "label": "ORG",
+    "start": 107499,
+    "text": "Medicina Legal"
+  },
+  {
+    "end": 107645,
+    "label": "MISC",
+    "start": 107631,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 107904,
+    "label": "MISC",
+    "start": 107890,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 107934,
+    "label": "MISC",
+    "start": 107920,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 107989,
+    "label": "MISC",
+    "start": 107981,
+    "text": "Infancia"
+  },
+  {
+    "end": 108004,
+    "label": "MISC",
+    "start": 107992,
+    "text": "Adolescencia"
+  },
+  {
+    "end": 108242,
+    "label": "ORG",
+    "start": 108225,
+    "text": "Fiscalía Cuchillo"
+  },
+  {
+    "end": 108298,
+    "label": "MISC",
+    "start": 108290,
+    "text": "Habituto"
+  },
+  {
+    "end": 108556,
+    "label": "MISC",
+    "start": 108542,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 108705,
+    "label": "LOC",
+    "start": 108697,
+    "text": "Colombia"
+  },
+  {
+    "end": 108983,
+    "label": "MISC",
+    "start": 108969,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 110220,
+    "label": "MISC",
+    "start": 110206,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 110405,
+    "label": "MISC",
+    "start": 110391,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 110688,
+    "label": "MISC",
+    "start": 110674,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 111059,
+    "label": "PER",
+    "start": 111053,
+    "text": "Carlos"
+  },
+  {
+    "end": 112750,
+    "label": "MISC",
+    "start": 112736,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 113123,
+    "label": "MISC",
+    "start": 113109,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 113189,
+    "label": "MISC",
+    "start": 113175,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 114921,
+    "label": "MISC",
+    "start": 114907,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 115202,
+    "label": "MISC",
+    "start": 115188,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 117278,
+    "label": "MISC",
+    "start": 117264,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 117595,
+    "label": "MISC",
+    "start": 117592,
+    "text": "EPS"
+  },
+  {
+    "end": 117746,
+    "label": "ORG",
+    "start": 117725,
+    "text": "SUR de Centro Oriente"
+  },
+  {
+    "end": 118116,
+    "label": "MISC",
+    "start": 118102,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 118147,
+    "label": "MISC",
+    "start": 118133,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 118181,
+    "label": "MISC",
+    "start": 118167,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 118223,
+    "label": "MISC",
+    "start": 118209,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 119045,
+    "label": "MISC",
+    "start": 119041,
+    "text": "DILE"
+  },
+  {
+    "end": 119088,
+    "label": "MISC",
+    "start": 119084,
+    "text": "DILE"
+  },
+  {
+    "end": 119790,
+    "label": "PER",
+    "start": 119785,
+    "text": "Ivana"
+  },
+  {
+    "end": 120903,
+    "label": "ORG",
+    "start": 120889,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 120952,
+    "label": "MISC",
+    "start": 120938,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 122112,
+    "label": "MISC",
+    "start": 122098,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 122131,
+    "label": "MISC",
+    "start": 122117,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 122150,
+    "label": "MISC",
+    "start": 122136,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 122875,
+    "label": "MISC",
+    "start": 122861,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 123684,
+    "label": "MISC",
+    "start": 123670,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 123708,
+    "label": "MISC",
+    "start": 123694,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 124383,
+    "label": "MISC",
+    "start": 124369,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 124477,
+    "label": "MISC",
+    "start": 124463,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 124517,
+    "label": "MISC",
+    "start": 124503,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 124572,
+    "label": "MISC",
+    "start": 124558,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 124598,
+    "label": "MISC",
+    "start": 124584,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 127907,
+    "label": "LOC",
+    "start": 127892,
+    "text": "Parque Nacional"
+  },
+  {
+    "end": 127970,
+    "label": "MISC",
+    "start": 127956,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 128097,
+    "label": "LOC",
+    "start": 128092,
+    "text": "Museo"
+  },
+  {
+    "end": 129331,
+    "label": "MISC",
+    "start": 129317,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 131302,
+    "label": "MISC",
+    "start": 131288,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 133696,
+    "label": "MISC",
+    "start": 133682,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 134402,
+    "label": "ORG",
+    "start": 134383,
+    "text": "Casa de los Famosos"
+  },
+  {
+    "end": 134882,
+    "label": "MISC",
+    "start": 134868,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 135259,
+    "label": "MISC",
+    "start": 135245,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 136019,
+    "label": "MISC",
+    "start": 136005,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 137310,
+    "label": "MISC",
+    "start": 137296,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 139037,
+    "label": "MISC",
+    "start": 139023,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 140284,
+    "label": "MISC",
+    "start": 140282,
+    "text": "Ok"
+  },
+  {
+    "end": 141910,
+    "label": "MISC",
+    "start": 141896,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 142170,
+    "label": "MISC",
+    "start": 142156,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 143665,
+    "label": "MISC",
+    "start": 143645,
+    "text": "NOMBRE PERSONA Verde"
+  },
+  {
+    "end": 145314,
+    "label": "MISC",
+    "start": 145300,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 153300,
+    "label": "ORG",
+    "start": 153276,
+    "text": "Secretaría de Planeación"
+  },
+  {
+    "end": 153518,
+    "label": "MISC",
+    "start": 153504,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 153648,
+    "label": "MISC",
+    "start": 153634,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 154644,
+    "label": "PER",
+    "start": 154633,
+    "text": "Hello Kitty"
+  },
+  {
+    "end": 158518,
+    "label": "ORG",
+    "start": 158515,
+    "text": "JER"
+  },
+  {
+    "end": 159870,
+    "label": "MISC",
+    "start": 159867,
+    "text": "JER"
+  },
+  {
+    "end": 160354,
+    "label": "MISC",
+    "start": 160339,
+    "text": "Economía Urbana"
+  },
+  {
+    "end": 160935,
+    "label": "MISC",
+    "start": 160932,
+    "text": "JER"
+  },
+  {
+    "end": 162759,
+    "label": "MISC",
+    "start": 162756,
+    "text": "JER"
+  },
+  {
+    "end": 163635,
+    "label": "ORG",
+    "start": 163632,
+    "text": "JER"
+  },
+  {
+    "end": 164183,
+    "label": "ORG",
+    "start": 164180,
+    "text": "JER"
+  },
+  {
+    "end": 164479,
+    "label": "PER",
+    "start": 164472,
+    "text": "Cátedra"
+  },
+  {
+    "end": 164494,
+    "label": "MISC",
+    "start": 164485,
+    "text": "Ser Feliz"
+  },
+  {
+    "end": 164511,
+    "label": "LOC",
+    "start": 164508,
+    "text": "Paz"
+  },
+  {
+    "end": 164526,
+    "label": "MISC",
+    "start": 164513,
+    "text": "Sana la Mente"
+  },
+  {
+    "end": 165913,
+    "label": "PER",
+    "start": 165909,
+    "text": "Dios"
+  },
+  {
+    "end": 165990,
+    "label": "MISC",
+    "start": 165987,
+    "text": "JER"
+  },
+  {
+    "end": 166327,
+    "label": "MISC",
+    "start": 166320,
+    "text": "Control"
+  },
+  {
+    "end": 166644,
+    "label": "MISC",
+    "start": 166641,
+    "text": "JER"
+  },
+  {
+    "end": 166903,
+    "label": "MISC",
+    "start": 166900,
+    "text": "JER"
+  },
+  {
+    "end": 167688,
+    "label": "ORG",
+    "start": 167665,
+    "text": "Secretaría de Educación"
+  },
+  {
+    "end": 172604,
+    "label": "PER",
+    "start": 172600,
+    "text": "Ok\nP"
+  },
+  {
+    "end": 172803,
+    "label": "MISC",
+    "start": 172786,
+    "text": "Nombre de persona"
+  },
+  {
+    "end": 173521,
+    "label": "PER",
+    "start": 173508,
+    "text": "Madre de Dios"
+  },
+  {
+    "end": 173541,
+    "label": "MISC",
+    "start": 173524,
+    "text": "Nombre de persona"
+  },
+  {
+    "end": 174037,
+    "label": "MISC",
+    "start": 174032,
+    "text": "Salón"
+  },
+  {
+    "end": 174657,
+    "label": "MISC",
+    "start": 174652,
+    "text": "Salón"
+  },
+  {
+    "end": 175316,
+    "label": "ORG",
+    "start": 175313,
+    "text": "SIE"
+  },
+  {
+    "end": 175356,
+    "label": "ORG",
+    "start": 175321,
+    "text": "Sistema Institucional de Evaluación"
+  },
+  {
+    "end": 178844,
+    "label": "PER",
+    "start": 178840,
+    "text": "Dios"
+  },
+  {
+    "end": 180330,
+    "label": "ORG",
+    "start": 180322,
+    "text": "Whatsapp"
+  },
+  {
+    "end": 182908,
+    "label": "PER",
+    "start": 182903,
+    "text": "Ok.\nP"
+  },
+  {
+    "end": 188507,
+    "label": "MISC",
+    "start": 188502,
+    "text": "Icfes"
+  },
+  {
+    "end": 189161,
+    "label": "MISC",
+    "start": 189156,
+    "text": "Ok.\nP"
+  },
+  {
+    "end": 195159,
+    "label": "LOC",
+    "start": 195151,
+    "text": "Colombia"
+  },
+  {
+    "end": 197329,
+    "label": "MISC",
+    "start": 197326,
+    "text": "JER"
+  },
+  {
+    "end": 203876,
+    "label": "PER",
+    "start": 203871,
+    "text": "Ok.\nP"
+  },
+  {
+    "end": 205239,
+    "label": "PER",
+    "start": 205235,
+    "text": "Dios"
+  },
+  {
+    "end": 205810,
+    "label": "PER",
+    "start": 205806,
+    "text": "Dios"
+  },
+  {
+    "end": 209587,
+    "label": "MISC",
+    "start": 209581,
+    "text": "Nombre"
+  },
+  {
+    "end": 211681,
+    "label": "PER",
+    "start": 211679,
+    "text": "Ok"
+  },
+  {
+    "end": 218578,
+    "label": "PER",
+    "start": 218574,
+    "text": "Dios"
+  },
+  {
+    "end": 219226,
+    "label": "MISC",
+    "start": 219222,
+    "text": "SENA"
+  },
+  {
+    "end": 219241,
+    "label": "MISC",
+    "start": 219236,
+    "text": "Cisco"
+  },
+  {
+    "end": 219511,
+    "label": "MISC",
+    "start": 219507,
+    "text": "TDAH"
+  },
+  {
+    "end": 219857,
+    "label": "LOC",
+    "start": 219853,
+    "text": "SENA"
+  },
+  {
+    "end": 219875,
+    "label": "PER",
+    "start": 219870,
+    "text": "Cisco"
+  },
+  {
+    "end": 220237,
+    "label": "MISC",
+    "start": 220233,
+    "text": "EDIR"
+  },
+  {
+    "end": 220266,
+    "label": "MISC",
+    "start": 220262,
+    "text": "EDIR"
+  },
+  {
+    "end": 221012,
+    "label": "MISC",
+    "start": 221008,
+    "text": "TDAH"
+  },
+  {
+    "end": 221955,
+    "label": "PER",
+    "start": 221945,
+    "text": "doña Luisa"
+  },
+  {
+    "end": 222158,
+    "label": "PER",
+    "start": 222148,
+    "text": "doña Luisa"
+  },
+  {
+    "end": 223229,
+    "label": "MISC",
+    "start": 223226,
+    "text": "PIC"
+  },
+  {
+    "end": 223252,
+    "label": "MISC",
+    "start": 223249,
+    "text": "PIC"
+  },
+  {
+    "end": 223264,
+    "label": "MISC",
+    "start": 223261,
+    "text": "PIC"
+  },
+  {
+    "end": 223279,
+    "label": "MISC",
+    "start": 223276,
+    "text": "PIC"
+  },
+  {
+    "end": 223285,
+    "label": "MISC",
+    "start": 223282,
+    "text": "PIC"
+  },
+  {
+    "end": 223479,
+    "label": "MISC",
+    "start": 223476,
+    "text": "PIC"
+  },
+  {
+    "end": 225996,
+    "label": "MISC",
+    "start": 225992,
+    "text": "TDAH"
+  },
+  {
+    "end": 226009,
+    "label": "MISC",
+    "start": 226005,
+    "text": "TDAH"
+  },
+  {
+    "end": 226027,
+    "label": "MISC",
+    "start": 226023,
+    "text": "TDAH"
+  },
+  {
+    "end": 229476,
+    "label": "PER",
+    "start": 229472,
+    "text": "Dios"
+  },
+  {
+    "end": 230675,
+    "label": "PER",
+    "start": 230671,
+    "text": "Dios"
+  },
+  {
+    "end": 235470,
+    "label": "ORG",
+    "start": 235467,
+    "text": "JER"
+  },
+  {
+    "end": 240641,
+    "label": "MISC",
+    "start": 240627,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 240704,
+    "label": "MISC",
+    "start": 240690,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 240759,
+    "label": "MISC",
+    "start": 240745,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 240821,
+    "label": "MISC",
+    "start": 240807,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 240876,
+    "label": "MISC",
+    "start": 240862,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 240934,
+    "label": "MISC",
+    "start": 240920,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 240997,
+    "label": "MISC",
+    "start": 240983,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 241062,
+    "label": "MISC",
+    "start": 241048,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 241119,
+    "label": "MISC",
+    "start": 241105,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 241238,
+    "label": "MISC",
+    "start": 241224,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 241281,
+    "label": "MISC",
+    "start": 241267,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 241319,
+    "label": "MISC",
+    "start": 241305,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 241363,
+    "label": "MISC",
+    "start": 241349,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 241452,
+    "label": "MISC",
+    "start": 241438,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 241519,
+    "label": "MISC",
+    "start": 241505,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 241599,
+    "label": "MISC",
+    "start": 241585,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 241664,
+    "label": "MISC",
+    "start": 241650,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 241712,
+    "label": "MISC",
+    "start": 241698,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 241761,
+    "label": "MISC",
+    "start": 241747,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 241820,
+    "label": "MISC",
+    "start": 241806,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 242006,
+    "label": "MISC",
+    "start": 241992,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 242073,
+    "label": "MISC",
+    "start": 242059,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 242138,
+    "label": "MISC",
+    "start": 242124,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 242203,
+    "label": "MISC",
+    "start": 242189,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 242253,
+    "label": "MISC",
+    "start": 242239,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 242309,
+    "label": "MISC",
+    "start": 242295,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 244435,
+    "label": "LOC",
+    "start": 244417,
+    "text": "Semillero de Ideas"
+  },
+  {
+    "end": 249687,
+    "label": "ORG",
+    "start": 249673,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 250898,
+    "label": "MISC",
+    "start": 250884,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 251153,
+    "label": "MISC",
+    "start": 251139,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 252808,
+    "label": "MISC",
+    "start": 252794,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 254445,
+    "label": "MISC",
+    "start": 254431,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 254562,
+    "label": "MISC",
+    "start": 254548,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 255740,
+    "label": "MISC",
+    "start": 255726,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 255803,
+    "label": "MISC",
+    "start": 255789,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 255828,
+    "label": "MISC",
+    "start": 255814,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 255851,
+    "label": "MISC",
+    "start": 255837,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 255990,
+    "label": "MISC",
+    "start": 255983,
+    "text": "Laboral"
+  },
+  {
+    "end": 256238,
+    "label": "MISC",
+    "start": 256224,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 256404,
+    "label": "MISC",
+    "start": 256390,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 256699,
+    "label": "MISC",
+    "start": 256685,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 258967,
+    "label": "MISC",
+    "start": 258953,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 259245,
+    "label": "MISC",
+    "start": 259231,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 259295,
+    "label": "MISC",
+    "start": 259281,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 259342,
+    "label": "MISC",
+    "start": 259328,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 259372,
+    "label": "PER",
+    "start": 259350,
+    "text": "Mamá de NOMBRE PERSONA"
+  },
+  {
+    "end": 259432,
+    "label": "PER",
+    "start": 259425,
+    "text": "Hermano"
+  },
+  {
+    "end": 259498,
+    "label": "MISC",
+    "start": 259484,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 260880,
+    "label": "MISC",
+    "start": 260866,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 261057,
+    "label": "MISC",
+    "start": 261043,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 261240,
+    "label": "MISC",
+    "start": 261226,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 262139,
+    "label": "MISC",
+    "start": 262125,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 262176,
+    "label": "MISC",
+    "start": 262162,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 263998,
+    "label": "PER",
+    "start": 263996,
+    "text": "Ok"
+  },
+  {
+    "end": 264455,
+    "label": "MISC",
+    "start": 264441,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 265016,
+    "label": "MISC",
+    "start": 265002,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 265076,
+    "label": "MISC",
+    "start": 265062,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 267058,
+    "label": "PER",
+    "start": 267051,
+    "text": "Sumercé"
+  },
+  {
+    "end": 268358,
+    "label": "MISC",
+    "start": 268355,
+    "text": "EPS"
+  },
+  {
+    "end": 269767,
+    "label": "MISC",
+    "start": 269763,
+    "text": "Dios"
+  },
+  {
+    "end": 270055,
+    "label": "MISC",
+    "start": 270041,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 270904,
+    "label": "MISC",
+    "start": 270890,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 272669,
+    "label": "LOC",
+    "start": 272665,
+    "text": "SENA"
+  },
+  {
+    "end": 272696,
+    "label": "LOC",
+    "start": 272692,
+    "text": "SENA"
+  },
+  {
+    "end": 274126,
+    "label": "MISC",
+    "start": 274112,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 274836,
+    "label": "MISC",
+    "start": 274822,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 275222,
+    "label": "MISC",
+    "start": 275208,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 275281,
+    "label": "MISC",
+    "start": 275277,
+    "text": "Dios"
+  },
+  {
+    "end": 275986,
+    "label": "PER",
+    "start": 275982,
+    "text": "Dios"
+  },
+  {
+    "end": 276593,
+    "label": "LOC",
+    "start": 276589,
+    "text": "SENA"
+  },
+  {
+    "end": 276739,
+    "label": "LOC",
+    "start": 276735,
+    "text": "SENA"
+  },
+  {
+    "end": 277138,
+    "label": "MISC",
+    "start": 277133,
+    "text": "ICFES"
+  },
+  {
+    "end": 277241,
+    "label": "MISC",
+    "start": 277237,
+    "text": "SENA"
+  },
+  {
+    "end": 277363,
+    "label": "ORG",
+    "start": 277340,
+    "text": "Secretaría de Educación"
+  },
+  {
+    "end": 277392,
+    "label": "ORG",
+    "start": 277369,
+    "text": "Ministerio de Educación"
+  },
+  {
+    "end": 277596,
+    "label": "ORG",
+    "start": 277573,
+    "text": "Ministerio de Educación"
+  },
+  {
+    "end": 277806,
+    "label": "ORG",
+    "start": 277783,
+    "text": "Ministerio de Educación"
+  },
+  {
+    "end": 277902,
+    "label": "MISC",
+    "start": 277899,
+    "text": "EPS"
+  },
+  {
+    "end": 280128,
+    "label": "LOC",
+    "start": 280116,
+    "text": "Barranquilla"
+  },
+  {
+    "end": 280203,
+    "label": "LOC",
+    "start": 280197,
+    "text": "Bogotá"
+  },
+  {
+    "end": 283518,
+    "label": "MISC",
+    "start": 283504,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 285481,
+    "label": "MISC",
+    "start": 285467,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 285589,
+    "label": "MISC",
+    "start": 285575,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 286504,
+    "label": "MISC",
+    "start": 286490,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 291438,
+    "label": "MISC",
+    "start": 291424,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 291921,
+    "label": "ORG",
+    "start": 291877,
+    "text": "Secretaría Distrital de Planeación de Bogotá"
+  },
+  {
+    "end": 291954,
+    "label": "MISC",
+    "start": 291939,
+    "text": "Economía Urbana"
+  },
+  {
+    "end": 291959,
+    "label": "ORG",
+    "start": 291956,
+    "text": "SAS"
+  },
+  {
+    "end": 292089,
+    "label": "MISC",
+    "start": 292070,
+    "text": "Estrategia Justicia"
+  },
+  {
+    "end": 292145,
+    "label": "MISC",
+    "start": 292105,
+    "text": "Estrategia Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 292199,
+    "label": "ORG",
+    "start": 292166,
+    "text": "Secretaría de Educación Distrital"
+  },
+  {
+    "end": 293295,
+    "label": "ORG",
+    "start": 293236,
+    "text": "Dirección de Evaluaciones de Políticas Públicas Distritales"
+  },
+  {
+    "end": 293336,
+    "label": "ORG",
+    "start": 293302,
+    "text": "Secretaría Distrital de Planeación"
+  },
+  {
+    "end": 293617,
+    "label": "LOC",
+    "start": 293595,
+    "text": "Colegio Compartir Suba"
+  },
+  {
+    "end": 293800,
+    "label": "MISC",
+    "start": 293772,
+    "text": "Justicia Social Restaurativa"
+  },
+  {
+    "end": 296104,
+    "label": "MISC",
+    "start": 296086,
+    "text": "Población Migrante"
+  },
+  {
+    "end": 296475,
+    "label": "MISC",
+    "start": 296446,
+    "text": "Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 296517,
+    "label": "LOC",
+    "start": 296508,
+    "text": "La Habana"
+  },
+  {
+    "end": 297094,
+    "label": "MISC",
+    "start": 297065,
+    "text": "Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 300962,
+    "label": "PER",
+    "start": 300952,
+    "text": "Pongámosle"
+  },
+  {
+    "end": 301056,
+    "label": "MISC",
+    "start": 301042,
+    "text": "P3- Pongámosle"
+  },
+  {
+    "end": 301193,
+    "label": "PER",
+    "start": 301187,
+    "text": "Pepito"
+  },
+  {
+    "end": 301306,
+    "label": "MISC",
+    "start": 301289,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 301334,
+    "label": "PER",
+    "start": 301331,
+    "text": "Ajá"
+  },
+  {
+    "end": 301559,
+    "label": "MISC",
+    "start": 301542,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 301704,
+    "label": "MISC",
+    "start": 301687,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 301992,
+    "label": "MISC",
+    "start": 301975,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 302423,
+    "label": "MISC",
+    "start": 302406,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 302484,
+    "label": "MISC",
+    "start": 302477,
+    "text": "P3- Ajá"
+  },
+  {
+    "end": 302566,
+    "label": "PER",
+    "start": 302563,
+    "text": "Ajá"
+  },
+  {
+    "end": 302740,
+    "label": "MISC",
+    "start": 302723,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 302891,
+    "label": "PER",
+    "start": 302881,
+    "text": "Venezolano"
+  },
+  {
+    "end": 303256,
+    "label": "PER",
+    "start": 303253,
+    "text": "don"
+  },
+  {
+    "end": 303707,
+    "label": "MISC",
+    "start": 303703,
+    "text": "Dios"
+  },
+  {
+    "end": 303897,
+    "label": "PER",
+    "start": 303893,
+    "text": "Dios"
+  },
+  {
+    "end": 304209,
+    "label": "MISC",
+    "start": 304192,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 304280,
+    "label": "MISC",
+    "start": 304263,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 304571,
+    "label": "ORG",
+    "start": 304569,
+    "text": "E-"
+  },
+  {
+    "end": 304592,
+    "label": "ORG",
+    "start": 304575,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 304702,
+    "label": "MISC",
+    "start": 304685,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 305843,
+    "label": "MISC",
+    "start": 305826,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 306412,
+    "label": "MISC",
+    "start": 306410,
+    "text": "E-"
+  },
+  {
+    "end": 306457,
+    "label": "MISC",
+    "start": 306440,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 306490,
+    "label": "MISC",
+    "start": 306473,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 307716,
+    "label": "MISC",
+    "start": 307699,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 307745,
+    "label": "MISC",
+    "start": 307728,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 308047,
+    "label": "PER",
+    "start": 308043,
+    "text": "Dios"
+  },
+  {
+    "end": 308912,
+    "label": "MISC",
+    "start": 308895,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 309053,
+    "label": "MISC",
+    "start": 309049,
+    "text": "Dios"
+  },
+  {
+    "end": 309064,
+    "label": "MISC",
+    "start": 309059,
+    "text": "RISAS"
+  },
+  {
+    "end": 309360,
+    "label": "MISC",
+    "start": 309343,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 309429,
+    "label": "MISC",
+    "start": 309412,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 310207,
+    "label": "MISC",
+    "start": 310204,
+    "text": "P3-"
+  },
+  {
+    "end": 311410,
+    "label": "MISC",
+    "start": 311407,
+    "text": "P1-"
+  },
+  {
+    "end": 312181,
+    "label": "MISC",
+    "start": 312164,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 312243,
+    "label": "MISC",
+    "start": 312226,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 312263,
+    "label": "MISC",
+    "start": 312246,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 312489,
+    "label": "MISC",
+    "start": 312472,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 313557,
+    "label": "MISC",
+    "start": 313540,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 314173,
+    "label": "MISC",
+    "start": 314156,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 316273,
+    "label": "MISC",
+    "start": 316259,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 316419,
+    "label": "MISC",
+    "start": 316405,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 317095,
+    "label": "MISC",
+    "start": 317081,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 317112,
+    "label": "MISC",
+    "start": 317098,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 317156,
+    "label": "PER",
+    "start": 317152,
+    "text": "José"
+  },
+  {
+    "end": 317214,
+    "label": "MISC",
+    "start": 317200,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 318207,
+    "label": "MISC",
+    "start": 318192,
+    "text": "NOMBRE PERSONAl"
+  },
+  {
+    "end": 318299,
+    "label": "PER",
+    "start": 318297,
+    "text": "E-"
+  },
+  {
+    "end": 319772,
+    "label": "ORG",
+    "start": 319751,
+    "text": "Comité de Convivencia"
+  },
+  {
+    "end": 320422,
+    "label": "MISC",
+    "start": 320408,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 321197,
+    "label": "MISC",
+    "start": 321195,
+    "text": "E-"
+  },
+  {
+    "end": 321544,
+    "label": "MISC",
+    "start": 321541,
+    "text": "P2-"
+  },
+  {
+    "end": 321790,
+    "label": "LOC",
+    "start": 321784,
+    "text": "Bogotá"
+  },
+  {
+    "end": 321992,
+    "label": "PER",
+    "start": 321987,
+    "text": "E-que"
+  },
+  {
+    "end": 322083,
+    "label": "PER",
+    "start": 322069,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 322459,
+    "label": "MISC",
+    "start": 322457,
+    "text": "E-"
+  },
+  {
+    "end": 322488,
+    "label": "MISC",
+    "start": 322474,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 322532,
+    "label": "MISC",
+    "start": 322518,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 322794,
+    "label": "MISC",
+    "start": 322791,
+    "text": "JER"
+  },
+  {
+    "end": 322825,
+    "label": "MISC",
+    "start": 322796,
+    "text": "Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 322909,
+    "label": "MISC",
+    "start": 322878,
+    "text": "P1- Diálogo Reparación Justicia"
+  },
+  {
+    "end": 322986,
+    "label": "MISC",
+    "start": 322979,
+    "text": "Diálogo"
+  },
+  {
+    "end": 323084,
+    "label": "MISC",
+    "start": 323077,
+    "text": "Diálogo"
+  },
+  {
+    "end": 323339,
+    "label": "MISC",
+    "start": 323332,
+    "text": "Diálogo"
+  },
+  {
+    "end": 323687,
+    "label": "MISC",
+    "start": 323685,
+    "text": "E-"
+  },
+  {
+    "end": 324761,
+    "label": "ORG",
+    "start": 324755,
+    "text": "Estado"
+  },
+  {
+    "end": 324933,
+    "label": "ORG",
+    "start": 324927,
+    "text": "Estado"
+  },
+  {
+    "end": 325151,
+    "label": "MISC",
+    "start": 325148,
+    "text": "JER"
+  },
+  {
+    "end": 328952,
+    "label": "MISC",
+    "start": 328950,
+    "text": "P2"
+  },
+  {
+    "end": 331151,
+    "label": "MISC",
+    "start": 331149,
+    "text": "E-"
+  },
+  {
+    "end": 331749,
+    "label": "MISC",
+    "start": 331735,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 333005,
+    "label": "MISC",
+    "start": 332993,
+    "text": "Transmilenio"
+  },
+  {
+    "end": 333023,
+    "label": "MISC",
+    "start": 333011,
+    "text": "Transmilenio"
+  },
+  {
+    "end": 339975,
+    "label": "MISC",
+    "start": 339961,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 343543,
+    "label": "MISC",
+    "start": 343529,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 345236,
+    "label": "MISC",
+    "start": 345229,
+    "text": "E-listo"
+  },
+  {
+    "end": 345393,
+    "label": "MISC",
+    "start": 345379,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 350090,
+    "label": "LOC",
+    "start": 350084,
+    "text": "México"
+  },
+  {
+    "end": 352507,
+    "label": "MISC",
+    "start": 352493,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 352573,
+    "label": "MISC",
+    "start": 352559,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 352655,
+    "label": "MISC",
+    "start": 352641,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 352799,
+    "label": "MISC",
+    "start": 352785,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 352853,
+    "label": "MISC",
+    "start": 352839,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 352927,
+    "label": "MISC",
+    "start": 352913,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 352974,
+    "label": "MISC",
+    "start": 352960,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 353028,
+    "label": "MISC",
+    "start": 353014,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 353099,
+    "label": "MISC",
+    "start": 353085,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 353158,
+    "label": "MISC",
+    "start": 353144,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 353261,
+    "label": "MISC",
+    "start": 353247,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 353321,
+    "label": "MISC",
+    "start": 353307,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 353392,
+    "label": "MISC",
+    "start": 353378,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 353990,
+    "label": "LOC",
+    "start": 353982,
+    "text": "San José"
+  },
+  {
+    "end": 355961,
+    "label": "PER",
+    "start": 355943,
+    "text": "don NOMBRE PERSONA"
+  },
+  {
+    "end": 357031,
+    "label": "MISC",
+    "start": 357017,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 357047,
+    "label": "MISC",
+    "start": 357033,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 357731,
+    "label": "PER",
+    "start": 357725,
+    "text": "Pepito"
+  },
+  {
+    "end": 357739,
+    "label": "PER",
+    "start": 357733,
+    "text": "Pepito"
+  },
+  {
+    "end": 357755,
+    "label": "MISC",
+    "start": 357741,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 357905,
+    "label": "MISC",
+    "start": 357891,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 358128,
+    "label": "PER",
+    "start": 358122,
+    "text": "Pepito"
+  },
+  {
+    "end": 358251,
+    "label": "PER",
+    "start": 358245,
+    "text": "Pepito"
+  },
+  {
+    "end": 358374,
+    "label": "PER",
+    "start": 358368,
+    "text": "Pepito"
+  },
+  {
+    "end": 358615,
+    "label": "PER",
+    "start": 358609,
+    "text": "Pepito"
+  },
+  {
+    "end": 358631,
+    "label": "LOC",
+    "start": 358625,
+    "text": "Bogotá"
+  },
+  {
+    "end": 358690,
+    "label": "LOC",
+    "start": 358684,
+    "text": "Bogotá"
+  },
+  {
+    "end": 358710,
+    "label": "LOC",
+    "start": 358704,
+    "text": "Bogotá"
+  },
+  {
+    "end": 358919,
+    "label": "PER",
+    "start": 358913,
+    "text": "Pepito"
+  },
+  {
+    "end": 359009,
+    "label": "PER",
+    "start": 359003,
+    "text": "Pepito"
+  },
+  {
+    "end": 359466,
+    "label": "PER",
+    "start": 359460,
+    "text": "Pepito"
+  },
+  {
+    "end": 359536,
+    "label": "PER",
+    "start": 359530,
+    "text": "Pepito"
+  },
+  {
+    "end": 359709,
+    "label": "PER",
+    "start": 359703,
+    "text": "Pepito"
+  },
+  {
+    "end": 359723,
+    "label": "PER",
+    "start": 359717,
+    "text": "Pepito"
+  },
+  {
+    "end": 359748,
+    "label": "MISC",
+    "start": 359744,
+    "text": "Dios"
+  },
+  {
+    "end": 359905,
+    "label": "PER",
+    "start": 359899,
+    "text": "Pepito"
+  },
+  {
+    "end": 360209,
+    "label": "PER",
+    "start": 360203,
+    "text": "Pepito"
+  },
+  {
+    "end": 360324,
+    "label": "PER",
+    "start": 360318,
+    "text": "Pepito"
+  },
+  {
+    "end": 360380,
+    "label": "PER",
+    "start": 360374,
+    "text": "Pepito"
+  },
+  {
+    "end": 360622,
+    "label": "PER",
+    "start": 360616,
+    "text": "Pepito"
+  },
+  {
+    "end": 360668,
+    "label": "PER",
+    "start": 360662,
+    "text": "Pepito"
+  },
+  {
+    "end": 361194,
+    "label": "PER",
+    "start": 361188,
+    "text": "Pepito"
+  },
+  {
+    "end": 361268,
+    "label": "PER",
+    "start": 361262,
+    "text": "Pepito"
+  },
+  {
+    "end": 361468,
+    "label": "PER",
+    "start": 361462,
+    "text": "Pepito"
+  },
+  {
+    "end": 361636,
+    "label": "PER",
+    "start": 361630,
+    "text": "Pepito"
+  },
+  {
+    "end": 361684,
+    "label": "PER",
+    "start": 361678,
+    "text": "Pepito"
+  },
+  {
+    "end": 361739,
+    "label": "PER",
+    "start": 361733,
+    "text": "Pepito"
+  },
+  {
+    "end": 361885,
+    "label": "PER",
+    "start": 361879,
+    "text": "Pepito"
+  },
+  {
+    "end": 361981,
+    "label": "PER",
+    "start": 361975,
+    "text": "Pepito"
+  },
+  {
+    "end": 362061,
+    "label": "PER",
+    "start": 362055,
+    "text": "Pepito"
+  },
+  {
+    "end": 362088,
+    "label": "PER",
+    "start": 362082,
+    "text": "Pepito"
+  },
+  {
+    "end": 362095,
+    "label": "PER",
+    "start": 362090,
+    "text": "Bueno"
+  },
+  {
+    "end": 362150,
+    "label": "PER",
+    "start": 362144,
+    "text": "Pepito"
+  },
+  {
+    "end": 362415,
+    "label": "PER",
+    "start": 362409,
+    "text": "Pepito"
+  },
+  {
+    "end": 362474,
+    "label": "PER",
+    "start": 362468,
+    "text": "Pepito"
+  },
+  {
+    "end": 363105,
+    "label": "PER",
+    "start": 363099,
+    "text": "Pepito"
+  },
+  {
+    "end": 363681,
+    "label": "MISC",
+    "start": 363667,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 365529,
+    "label": "PER",
+    "start": 365523,
+    "text": "Pepito"
+  },
+  {
+    "end": 365582,
+    "label": "PER",
+    "start": 365576,
+    "text": "Pepito"
+  },
+  {
+    "end": 365772,
+    "label": "PER",
+    "start": 365766,
+    "text": "Pepito"
+  },
+  {
+    "end": 365893,
+    "label": "PER",
+    "start": 365887,
+    "text": "Pepito"
+  },
+  {
+    "end": 366000,
+    "label": "PER",
+    "start": 365994,
+    "text": "Pepito"
+  },
+  {
+    "end": 366038,
+    "label": "PER",
+    "start": 366032,
+    "text": "Pepito"
+  },
+  {
+    "end": 366241,
+    "label": "PER",
+    "start": 366235,
+    "text": "Pepito"
+  },
+  {
+    "end": 366633,
+    "label": "PER",
+    "start": 366627,
+    "text": "Pepito"
+  },
+  {
+    "end": 366662,
+    "label": "PER",
+    "start": 366656,
+    "text": "Pepito"
+  },
+  {
+    "end": 366825,
+    "label": "PER",
+    "start": 366819,
+    "text": "Pepito"
+  },
+  {
+    "end": 367222,
+    "label": "PER",
+    "start": 367216,
+    "text": "Pepito"
+  },
+  {
+    "end": 367408,
+    "label": "PER",
+    "start": 367402,
+    "text": "Pepito"
+  },
+  {
+    "end": 367531,
+    "label": "MISC",
+    "start": 367527,
+    "text": "Dios"
+  },
+  {
+    "end": 367548,
+    "label": "PER",
+    "start": 367544,
+    "text": "Dios"
+  },
+  {
+    "end": 368071,
+    "label": "PER",
+    "start": 368065,
+    "text": "Pepito"
+  },
+  {
+    "end": 368453,
+    "label": "PER",
+    "start": 368447,
+    "text": "Pepito"
+  },
+  {
+    "end": 368488,
+    "label": "PER",
+    "start": 368482,
+    "text": "Pepito"
+  },
+  {
+    "end": 369772,
+    "label": "MISC",
+    "start": 369758,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 370411,
+    "label": "MISC",
+    "start": 370397,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 370439,
+    "label": "MISC",
+    "start": 370425,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 371338,
+    "label": "PER",
+    "start": 371332,
+    "text": "Pepito"
+  },
+  {
+    "end": 373780,
+    "label": "PER",
+    "start": 373774,
+    "text": "Pepito"
+  },
+  {
+    "end": 377943,
+    "label": "MISC",
+    "start": 377939,
+    "text": "Dios"
+  },
+  {
+    "end": 378031,
+    "label": "MISC",
+    "start": 378027,
+    "text": "Dios"
+  },
+  {
+    "end": 378516,
+    "label": "PER",
+    "start": 378514,
+    "text": "Él"
+  },
+  {
+    "end": 378921,
+    "label": "PER",
+    "start": 378913,
+    "text": "Terrible"
+  },
+  {
+    "end": 378968,
+    "label": "PER",
+    "start": 378966,
+    "text": "Él"
+  },
+  {
+    "end": 379056,
+    "label": "PER",
+    "start": 379054,
+    "text": "Él"
+  },
+  {
+    "end": 379597,
+    "label": "MISC",
+    "start": 379593,
+    "text": "Dios"
+  },
+  {
+    "end": 379605,
+    "label": "PER",
+    "start": 379603,
+    "text": "Él"
+  },
+  {
+    "end": 382468,
+    "label": "MISC",
+    "start": 382464,
+    "text": "Dios"
+  },
+  {
+    "end": 384908,
+    "label": "MISC",
+    "start": 384900,
+    "text": "Facebook"
+  },
+  {
+    "end": 387092,
+    "label": "MISC",
+    "start": 387078,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 388597,
+    "label": "MISC",
+    "start": 388584,
+    "text": "Padre Nuestro"
+  },
+  {
+    "end": 388637,
+    "label": "MISC",
+    "start": 388631,
+    "text": "Biblia"
+  },
+  {
+    "end": 402062,
+    "label": "MISC",
+    "start": 402058,
+    "text": "IDRD"
+  },
+  {
+    "end": 402220,
+    "label": "MISC",
+    "start": 402199,
+    "text": "Juegos de la Juventud"
+  },
+  {
+    "end": 402263,
+    "label": "MISC",
+    "start": 402232,
+    "text": "Juegos Intercolegiados Supérate"
+  },
+  {
+    "end": 402432,
+    "label": "ORG",
+    "start": 402428,
+    "text": "IDRD"
+  },
+  {
+    "end": 403543,
+    "label": "ORG",
+    "start": 403520,
+    "text": "Secretaría de Educación"
+  },
+  {
+    "end": 404577,
+    "label": "LOC",
+    "start": 404569,
+    "text": "Colombia"
+  },
+  {
+    "end": 404899,
+    "label": "MISC",
+    "start": 404885,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 405150,
+    "label": "PER",
+    "start": 405139,
+    "text": "Juan Felipe"
+  },
+  {
+    "end": 405198,
+    "label": "MISC",
+    "start": 405184,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 405267,
+    "label": "MISC",
+    "start": 405253,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 405300,
+    "label": "MISC",
+    "start": 405286,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 405524,
+    "label": "MISC",
+    "start": 405510,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 406432,
+    "label": "MISC",
+    "start": 406429,
+    "text": "JER"
+  },
+  {
+    "end": 406534,
+    "label": "PER",
+    "start": 406527,
+    "text": "Juancho"
+  },
+  {
+    "end": 406618,
+    "label": "MISC",
+    "start": 406599,
+    "text": "Juancho Convivencia"
+  },
+  {
+    "end": 407134,
+    "label": "MISC",
+    "start": 407120,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 407269,
+    "label": "MISC",
+    "start": 407255,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 407522,
+    "label": "MISC",
+    "start": 407508,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 408044,
+    "label": "MISC",
+    "start": 408027,
+    "text": "NOMBRE DE PERSONA"
+  },
+  {
+    "end": 408193,
+    "label": "PER",
+    "start": 408186,
+    "text": "Juancho"
+  },
+  {
+    "end": 408208,
+    "label": "MISC",
+    "start": 408197,
+    "text": "Convivencia"
+  },
+  {
+    "end": 409637,
+    "label": "LOC",
+    "start": 409626,
+    "text": "La Victoria"
+  },
+  {
+    "end": 409958,
+    "label": "PER",
+    "start": 409952,
+    "text": "Aníbal"
+  },
+  {
+    "end": 409983,
+    "label": "LOC",
+    "start": 409975,
+    "text": "Alemania"
+  },
+  {
+    "end": 410583,
+    "label": "MISC",
+    "start": 410580,
+    "text": "SED"
+  },
+  {
+    "end": 413060,
+    "label": "MISC",
+    "start": 413057,
+    "text": "SED"
+  },
+  {
+    "end": 417664,
+    "label": "MISC",
+    "start": 417646,
+    "text": "Bienestar Familiar"
+  },
+  {
+    "end": 417720,
+    "label": "MISC",
+    "start": 417702,
+    "text": "Bienestar Familiar"
+  },
+  {
+    "end": 420819,
+    "label": "PER",
+    "start": 420815,
+    "text": "Dios"
+  },
+  {
+    "end": 422142,
+    "label": "MISC",
+    "start": 422139,
+    "text": "SED"
+  },
+  {
+    "end": 424664,
+    "label": "MISC",
+    "start": 424650,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 427706,
+    "label": "ORG",
+    "start": 427703,
+    "text": "SED"
+  },
+  {
+    "end": 431411,
+    "label": "MISC",
+    "start": 431402,
+    "text": "Free Fire"
+  },
+  {
+    "end": 432131,
+    "label": "MISC",
+    "start": 432122,
+    "text": "Free Fire"
+  },
+  {
+    "end": 432487,
+    "label": "MISC",
+    "start": 432473,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 432789,
+    "label": "MISC",
+    "start": 432775,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 432815,
+    "label": "MISC",
+    "start": 432801,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 432841,
+    "label": "MISC",
+    "start": 432827,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 434581,
+    "label": "PER",
+    "start": 434572,
+    "text": "Sebastián"
+  },
+  {
+    "end": 436037,
+    "label": "MISC",
+    "start": 436023,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 436601,
+    "label": "PER",
+    "start": 436599,
+    "text": "Ay"
+  },
+  {
+    "end": 437480,
+    "label": "MISC",
+    "start": 437466,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 437513,
+    "label": "MISC",
+    "start": 437499,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 438017,
+    "label": "MISC",
+    "start": 438003,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 438071,
+    "label": "MISC",
+    "start": 438057,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 438236,
+    "label": "MISC",
+    "start": 438222,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 438375,
+    "label": "MISC",
+    "start": 438361,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 438922,
+    "label": "MISC",
+    "start": 438908,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 438973,
+    "label": "MISC",
+    "start": 438959,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 439606,
+    "label": "MISC",
+    "start": 439592,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 440510,
+    "label": "MISC",
+    "start": 440496,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 440864,
+    "label": "MISC",
+    "start": 440850,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 440983,
+    "label": "MISC",
+    "start": 440969,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 441023,
+    "label": "MISC",
+    "start": 441009,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 441430,
+    "label": "PER",
+    "start": 441419,
+    "text": "Doña NOMBRE"
+  },
+  {
+    "end": 441476,
+    "label": "MISC",
+    "start": 441462,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 441609,
+    "label": "MISC",
+    "start": 441595,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 443549,
+    "label": "MISC",
+    "start": 443535,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 444112,
+    "label": "MISC",
+    "start": 444098,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 444216,
+    "label": "MISC",
+    "start": 444202,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 444609,
+    "label": "MISC",
+    "start": 444595,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 445148,
+    "label": "MISC",
+    "start": 445134,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 446258,
+    "label": "MISC",
+    "start": 446244,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 447181,
+    "label": "MISC",
+    "start": 447167,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 448387,
+    "label": "MISC",
+    "start": 448373,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 448420,
+    "label": "MISC",
+    "start": 448406,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 449010,
+    "label": "MISC",
+    "start": 449007,
+    "text": "SED"
+  },
+  {
+    "end": 450215,
+    "label": "MISC",
+    "start": 450212,
+    "text": "SED"
+  },
+  {
+    "end": 451071,
+    "label": "LOC",
+    "start": 451063,
+    "text": "Colombia"
+  },
+  {
+    "end": 451105,
+    "label": "LOC",
+    "start": 451097,
+    "text": "Colombia"
+  },
+  {
+    "end": 451186,
+    "label": "LOC",
+    "start": 451178,
+    "text": "Colombia"
+  },
+  {
+    "end": 451969,
+    "label": "MISC",
+    "start": 451966,
+    "text": "GPS"
+  },
+  {
+    "end": 453380,
+    "label": "MISC",
+    "start": 453376,
+    "text": "TDAH"
+  },
+  {
+    "end": 455290,
+    "label": "ORG",
+    "start": 455282,
+    "text": "Facebook"
+  },
+  {
+    "end": 456245,
+    "label": "MISC",
+    "start": 456231,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 457801,
+    "label": "MISC",
+    "start": 457787,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 460613,
+    "label": "PER",
+    "start": 460606,
+    "text": "Juancho"
+  },
+  {
+    "end": 460723,
+    "label": "PER",
+    "start": 460716,
+    "text": "Juancho"
+  },
+  {
+    "end": 460986,
+    "label": "PER",
+    "start": 460979,
+    "text": "Juancho"
+  },
+  {
+    "end": 461666,
+    "label": "PER",
+    "start": 461659,
+    "text": "Juancho"
+  },
+  {
+    "end": 464631,
+    "label": "PER",
+    "start": 464627,
+    "text": "Dios"
+  },
+  {
+    "end": 464677,
+    "label": "PER",
+    "start": 464673,
+    "text": "Dios"
+  },
+  {
+    "end": 465956,
+    "label": "MISC",
+    "start": 465952,
+    "text": "Dios"
+  },
+  {
+    "end": 469950,
+    "label": "PER",
+    "start": 469943,
+    "text": "Sumercé"
+  },
+  {
+    "end": 470074,
+    "label": "PER",
+    "start": 470069,
+    "text": "Jaime"
+  },
+  {
+    "end": 470238,
+    "label": "PER",
+    "start": 470234,
+    "text": "Dios"
+  },
+  {
+    "end": 470344,
+    "label": "PER",
+    "start": 470340,
+    "text": "Dios"
+  },
+  {
+    "end": 473063,
+    "label": "PER",
+    "start": 473059,
+    "text": "Dios"
+  },
+  {
+    "end": 473718,
+    "label": "MISC",
+    "start": 473704,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 475932,
+    "label": "PER",
+    "start": 475928,
+    "text": "Dios"
+  },
+  {
+    "end": 476105,
+    "label": "MISC",
+    "start": 476091,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 476230,
+    "label": "MISC",
+    "start": 476216,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 476322,
+    "label": "PER",
+    "start": 476318,
+    "text": "Dios"
+  },
+  {
+    "end": 477577,
+    "label": "MISC",
+    "start": 477563,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 477630,
+    "label": "MISC",
+    "start": 477616,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 477713,
+    "label": "MISC",
+    "start": 477699,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 478036,
+    "label": "MISC",
+    "start": 478033,
+    "text": "SED"
+  },
+  {
+    "end": 482192,
+    "label": "LOC",
+    "start": 482175,
+    "text": "Ciudadela de Bosa"
+  },
+  {
+    "end": 483025,
+    "label": "MISC",
+    "start": 483011,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 483248,
+    "label": "MISC",
+    "start": 483234,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 483266,
+    "label": "MISC",
+    "start": 483252,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 483284,
+    "label": "MISC",
+    "start": 483270,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 483581,
+    "label": "MISC",
+    "start": 483567,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 483706,
+    "label": "MISC",
+    "start": 483703,
+    "text": "Ah!"
+  },
+  {
+    "end": 484009,
+    "label": "PER",
+    "start": 483995,
+    "text": "Camargo Pulido"
+  },
+  {
+    "end": 484451,
+    "label": "PER",
+    "start": 484449,
+    "text": "Ay"
+  },
+  {
+    "end": 484463,
+    "label": "PER",
+    "start": 484460,
+    "text": "Don"
+  },
+  {
+    "end": 484555,
+    "label": "PER",
+    "start": 484551,
+    "text": "Doña"
+  },
+  {
+    "end": 484571,
+    "label": "MISC",
+    "start": 484557,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 485023,
+    "label": "MISC",
+    "start": 485009,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 485066,
+    "label": "MISC",
+    "start": 485052,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 485123,
+    "label": "MISC",
+    "start": 485109,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 485381,
+    "label": "MISC",
+    "start": 485367,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 486249,
+    "label": "PER",
+    "start": 486244,
+    "text": "Simón"
+  },
+  {
+    "end": 486429,
+    "label": "PER",
+    "start": 486423,
+    "text": "HERMES"
+  },
+  {
+    "end": 486637,
+    "label": "MISC",
+    "start": 486623,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 487876,
+    "label": "MISC",
+    "start": 487870,
+    "text": "HERMES"
+  },
+  {
+    "end": 488003,
+    "label": "MISC",
+    "start": 487989,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 489062,
+    "label": "PER",
+    "start": 489058,
+    "text": "Niño"
+  },
+  {
+    "end": 490216,
+    "label": "MISC",
+    "start": 490210,
+    "text": "Drogas"
+  },
+  {
+    "end": 490254,
+    "label": "PER",
+    "start": 490249,
+    "text": "Armas"
+  },
+  {
+    "end": 490811,
+    "label": "PER",
+    "start": 490803,
+    "text": "Bullying"
+  },
+  {
+    "end": 491941,
+    "label": "PER",
+    "start": 491937,
+    "text": "Dios"
+  },
+  {
+    "end": 492299,
+    "label": "MISC",
+    "start": 492292,
+    "text": "CITI TV"
+  },
+  {
+    "end": 494235,
+    "label": "ORG",
+    "start": 494229,
+    "text": "Estado"
+  },
+  {
+    "end": 495979,
+    "label": "PER",
+    "start": 495967,
+    "text": "Inventémonos"
+  },
+  {
+    "end": 498310,
+    "label": "PER",
+    "start": 498305,
+    "text": "Prado"
+  },
+  {
+    "end": 499450,
+    "label": "PER",
+    "start": 499446,
+    "text": "José"
+  },
+  {
+    "end": 499460,
+    "label": "PER",
+    "start": 499453,
+    "text": "Armando"
+  },
+  {
+    "end": 499469,
+    "label": "PER",
+    "start": 499462,
+    "text": "Armando"
+  },
+  {
+    "end": 500506,
+    "label": "PER",
+    "start": 500502,
+    "text": "José"
+  },
+  {
+    "end": 500516,
+    "label": "PER",
+    "start": 500509,
+    "text": "Armando"
+  },
+  {
+    "end": 500534,
+    "label": "PER",
+    "start": 500527,
+    "text": "Armando"
+  },
+  {
+    "end": 500547,
+    "label": "PER",
+    "start": 500543,
+    "text": "José"
+  },
+  {
+    "end": 502093,
+    "label": "PER",
+    "start": 502091,
+    "text": "Ok"
+  },
+  {
+    "end": 504709,
+    "label": "PER",
+    "start": 504702,
+    "text": "Papitos"
+  },
+  {
+    "end": 505016,
+    "label": "MISC",
+    "start": 505002,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 505722,
+    "label": "MISC",
+    "start": 505708,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 506297,
+    "label": "PER",
+    "start": 506293,
+    "text": "José"
+  },
+  {
+    "end": 506307,
+    "label": "PER",
+    "start": 506300,
+    "text": "Armando"
+  },
+  {
+    "end": 506323,
+    "label": "PER",
+    "start": 506319,
+    "text": "José"
+  },
+  {
+    "end": 506333,
+    "label": "PER",
+    "start": 506326,
+    "text": "Armando"
+  },
+  {
+    "end": 506697,
+    "label": "PER",
+    "start": 506690,
+    "text": "Sumercé"
+  },
+  {
+    "end": 509416,
+    "label": "PER",
+    "start": 509412,
+    "text": "Puño"
+  },
+  {
+    "end": 511554,
+    "label": "PER",
+    "start": 511550,
+    "text": "Sapo"
+  },
+  {
+    "end": 511576,
+    "label": "PER",
+    "start": 511570,
+    "text": "Sapo\nP"
+  },
+  {
+    "end": 511954,
+    "label": "ORG",
+    "start": 511951,
+    "text": "EPS"
+  },
+  {
+    "end": 512249,
+    "label": "ORG",
+    "start": 512246,
+    "text": "EPS"
+  },
+  {
+    "end": 512283,
+    "label": "ORG",
+    "start": 512280,
+    "text": "EPS"
+  },
+  {
+    "end": 516606,
+    "label": "ORG",
+    "start": 516596,
+    "text": "colegio \nP"
+  },
+  {
+    "end": 516752,
+    "label": "MISC",
+    "start": 516749,
+    "text": "EPS"
+  },
+  {
+    "end": 517601,
+    "label": "MISC",
+    "start": 517598,
+    "text": "EPS"
+  },
+  {
+    "end": 518286,
+    "label": "MISC",
+    "start": 518279,
+    "text": "Literal"
+  },
+  {
+    "end": 522989,
+    "label": "PER",
+    "start": 522985,
+    "text": "Rojo"
+  },
+  {
+    "end": 523574,
+    "label": "PER",
+    "start": 523568,
+    "text": "Blanco"
+  },
+  {
+    "end": 523591,
+    "label": "MISC",
+    "start": 523577,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 524034,
+    "label": "MISC",
+    "start": 524031,
+    "text": "JER"
+  },
+  {
+    "end": 524374,
+    "label": "PER",
+    "start": 524368,
+    "text": "Hermes"
+  },
+  {
+    "end": 524877,
+    "label": "MISC",
+    "start": 524863,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 525235,
+    "label": "MISC",
+    "start": 525221,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 526339,
+    "label": "PER",
+    "start": 526333,
+    "text": "Blanco"
+  },
+  {
+    "end": 529008,
+    "label": "PER",
+    "start": 529004,
+    "text": "Mira"
+  },
+  {
+    "end": 530247,
+    "label": "PER",
+    "start": 530243,
+    "text": "Mami"
+  },
+  {
+    "end": 533231,
+    "label": "PER",
+    "start": 533226,
+    "text": "Pilan"
+  },
+  {
+    "end": 534339,
+    "label": "PER",
+    "start": 534335,
+    "text": "Rojo"
+  },
+  {
+    "end": 534486,
+    "label": "MISC",
+    "start": 534472,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 534990,
+    "label": "PER",
+    "start": 534984,
+    "text": "Blanco"
+  },
+  {
+    "end": 535590,
+    "label": "PER",
+    "start": 535583,
+    "text": "Sumercé"
+  },
+  {
+    "end": 536139,
+    "label": "LOC",
+    "start": 536131,
+    "text": "Colombia"
+  },
+  {
+    "end": 536404,
+    "label": "LOC",
+    "start": 536396,
+    "text": "Colombia"
+  },
+  {
+    "end": 538047,
+    "label": "MISC",
+    "start": 538042,
+    "text": "Ok.\nP"
+  },
+  {
+    "end": 540544,
+    "label": "LOC",
+    "start": 540540,
+    "text": "Sena"
+  },
+  {
+    "end": 541831,
+    "label": "ORG",
+    "start": 541808,
+    "text": "Secretaría de Educación"
+  },
+  {
+    "end": 542450,
+    "label": "MISC",
+    "start": 542447,
+    "text": "JER"
+  },
+  {
+    "end": 542822,
+    "label": "LOC",
+    "start": 542805,
+    "text": "Colegio Tom Adams"
+  },
+  {
+    "end": 542850,
+    "label": "LOC",
+    "start": 542843,
+    "text": "Kennedy"
+  },
+  {
+    "end": 543219,
+    "label": "ORG",
+    "start": 543216,
+    "text": "SED"
+  },
+  {
+    "end": 543255,
+    "label": "ORG",
+    "start": 543221,
+    "text": "Secretaría Distrital de Planeación"
+  },
+  {
+    "end": 543288,
+    "label": "MISC",
+    "start": 543273,
+    "text": "Economía Urbana"
+  },
+  {
+    "end": 543410,
+    "label": "MISC",
+    "start": 543400,
+    "text": "Estrategia"
+  },
+  {
+    "end": 543418,
+    "label": "MISC",
+    "start": 543415,
+    "text": "JER"
+  },
+  {
+    "end": 543449,
+    "label": "MISC",
+    "start": 543420,
+    "text": "Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 543493,
+    "label": "ORG",
+    "start": 543470,
+    "text": "Secretaría de Educación"
+  },
+  {
+    "end": 544682,
+    "label": "MISC",
+    "start": 544667,
+    "text": "Economía Urbana"
+  },
+  {
+    "end": 545256,
+    "label": "ORG",
+    "start": 545254,
+    "text": "CC"
+  },
+  {
+    "end": 546557,
+    "label": "MISC",
+    "start": 546543,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 546682,
+    "label": "MISC",
+    "start": 546668,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 546827,
+    "label": "MISC",
+    "start": 546813,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 547112,
+    "label": "MISC",
+    "start": 547098,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 547188,
+    "label": "MISC",
+    "start": 547174,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 547370,
+    "label": "MISC",
+    "start": 547341,
+    "text": "Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 547435,
+    "label": "MISC",
+    "start": 547406,
+    "text": "Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 547569,
+    "label": "MISC",
+    "start": 547540,
+    "text": "Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 547627,
+    "label": "MISC",
+    "start": 547606,
+    "text": "Justicia Restaurativa"
+  },
+  {
+    "end": 547731,
+    "label": "MISC",
+    "start": 547710,
+    "text": "Justicia Restaurativa"
+  },
+  {
+    "end": 547780,
+    "label": "ORG",
+    "start": 547774,
+    "text": "Estado"
+  },
+  {
+    "end": 548057,
+    "label": "MISC",
+    "start": 548028,
+    "text": "Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 548739,
+    "label": "MISC",
+    "start": 548710,
+    "text": "Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 548848,
+    "label": "ORG",
+    "start": 548829,
+    "text": "Museo de la Memoria"
+  },
+  {
+    "end": 548877,
+    "label": "ORG",
+    "start": 548858,
+    "text": "Museo de la Memoria"
+  },
+  {
+    "end": 549957,
+    "label": "PER",
+    "start": 549951,
+    "text": "Ángela"
+  },
+  {
+    "end": 549974,
+    "label": "PER",
+    "start": 549968,
+    "text": "Ángela"
+  },
+  {
+    "end": 550095,
+    "label": "PER",
+    "start": 550089,
+    "text": "Ángela"
+  },
+  {
+    "end": 550607,
+    "label": "MISC",
+    "start": 550592,
+    "text": "Tiempo de Juego"
+  },
+  {
+    "end": 550657,
+    "label": "PER",
+    "start": 550651,
+    "text": "Ángela"
+  },
+  {
+    "end": 551350,
+    "label": "MISC",
+    "start": 551330,
+    "text": "Escolar Restaurativa"
+  },
+  {
+    "end": 551449,
+    "label": "MISC",
+    "start": 551434,
+    "text": "Proyecto Hermes"
+  },
+  {
+    "end": 551519,
+    "label": "MISC",
+    "start": 551504,
+    "text": "Proyecto Hermes"
+  },
+  {
+    "end": 551553,
+    "label": "MISC",
+    "start": 551530,
+    "text": "Proyecto de Convivencia"
+  },
+  {
+    "end": 551751,
+    "label": "MISC",
+    "start": 551735,
+    "text": "Derechos Humanos"
+  },
+  {
+    "end": 551789,
+    "label": "MISC",
+    "start": 551756,
+    "text": "Derecho Internacional Humanitario"
+  },
+  {
+    "end": 551837,
+    "label": "MISC",
+    "start": 551795,
+    "text": "Derecho Internacional del Conflicto Armado"
+  },
+  {
+    "end": 552487,
+    "label": "MISC",
+    "start": 552473,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 552966,
+    "label": "MISC",
+    "start": 552952,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 554907,
+    "label": "PER",
+    "start": 554902,
+    "text": "Profe"
+  },
+  {
+    "end": 555000,
+    "label": "MISC",
+    "start": 554992,
+    "text": "Historia"
+  },
+  {
+    "end": 555016,
+    "label": "MISC",
+    "start": 555002,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 555615,
+    "label": "MISC",
+    "start": 555597,
+    "text": "S. [NOMBRE PERSONA"
+  },
+  {
+    "end": 557450,
+    "label": "MISC",
+    "start": 557444,
+    "text": "Hermes"
+  },
+  {
+    "end": 557488,
+    "label": "MISC",
+    "start": 557482,
+    "text": "Hermes"
+  },
+  {
+    "end": 557600,
+    "label": "LOC",
+    "start": 557581,
+    "text": "Museo de la Memoria"
+  },
+  {
+    "end": 557663,
+    "label": "LOC",
+    "start": 557644,
+    "text": "Museo de la Memoria"
+  },
+  {
+    "end": 557976,
+    "label": "LOC",
+    "start": 557967,
+    "text": "Tom Adams"
+  },
+  {
+    "end": 558259,
+    "label": "LOC",
+    "start": 558250,
+    "text": "Tom Adams"
+  },
+  {
+    "end": 558554,
+    "label": "MISC",
+    "start": 558525,
+    "text": "Justicia Escolar Restaurativa"
+  },
+  {
+    "end": 558598,
+    "label": "MISC",
+    "start": 558595,
+    "text": "JER"
+  },
+  {
+    "end": 558747,
+    "label": "ORG",
+    "start": 558744,
+    "text": "JER"
+  },
+  {
+    "end": 558976,
+    "label": "MISC",
+    "start": 558970,
+    "text": "LA VOZ"
+  },
+  {
+    "end": 559105,
+    "label": "MISC",
+    "start": 559099,
+    "text": "LA VOZ"
+  },
+  {
+    "end": 561695,
+    "label": "PER",
+    "start": 561690,
+    "text": "Tomás"
+  },
+  {
+    "end": 563859,
+    "label": "PER",
+    "start": 563852,
+    "text": "Viviana"
+  },
+  {
+    "end": 566488,
+    "label": "MISC",
+    "start": 566480,
+    "text": "Primaria"
+  },
+  {
+    "end": 567560,
+    "label": "LOC",
+    "start": 567551,
+    "text": "Tom Adams"
+  },
+  {
+    "end": 568351,
+    "label": "MISC",
+    "start": 568337,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 570619,
+    "label": "PER",
+    "start": 570617,
+    "text": "Le"
+  },
+  {
+    "end": 570666,
+    "label": "MISC",
+    "start": 570652,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 571755,
+    "label": "MISC",
+    "start": 571741,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 573167,
+    "label": "PER",
+    "start": 573160,
+    "text": "Gracias"
+  },
+  {
+    "end": 574214,
+    "label": "LOC",
+    "start": 574205,
+    "text": "Halloween"
+  },
+  {
+    "end": 574229,
+    "label": "PER",
+    "start": 574220,
+    "text": "Ah. Bueno"
+  },
+  {
+    "end": 574259,
+    "label": "PER",
+    "start": 574250,
+    "text": "Halloween"
+  },
+  {
+    "end": 574292,
+    "label": "MISC",
+    "start": 574283,
+    "text": "Halloween"
+  },
+  {
+    "end": 576086,
+    "label": "PER",
+    "start": 576084,
+    "text": "Ay"
+  },
+  {
+    "end": 576159,
+    "label": "PER",
+    "start": 576154,
+    "text": "Ok.\nP"
+  },
+  {
+    "end": 576220,
+    "label": "PER",
+    "start": 576216,
+    "text": "Vale"
+  },
+  {
+    "end": 576538,
+    "label": "PER",
+    "start": 576536,
+    "text": "Ok"
+  },
+  {
+    "end": 576705,
+    "label": "PER",
+    "start": 576703,
+    "text": "Ay"
+  },
+  {
+    "end": 577700,
+    "label": "PER",
+    "start": 577694,
+    "text": "Ok. \nP"
+  },
+  {
+    "end": 578912,
+    "label": "MISC",
+    "start": 578898,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 580612,
+    "label": "LOC",
+    "start": 580604,
+    "text": "Mariapaz"
+  },
+  {
+    "end": 581734,
+    "label": "MISC",
+    "start": 581720,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 581877,
+    "label": "PER",
+    "start": 581867,
+    "text": "Luis Amigo"
+  },
+  {
+    "end": 581898,
+    "label": "LOC",
+    "start": 581892,
+    "text": "Cajicá"
+  },
+  {
+    "end": 585265,
+    "label": "MISC",
+    "start": 585251,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 585722,
+    "label": "MISC",
+    "start": 585708,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 588208,
+    "label": "PER",
+    "start": 588206,
+    "text": "Pa"
+  },
+  {
+    "end": 589010,
+    "label": "PER",
+    "start": 589001,
+    "text": "Tom Adams"
+  },
+  {
+    "end": 589954,
+    "label": "LOC",
+    "start": 589935,
+    "text": "estación de Kennedy"
+  },
+  {
+    "end": 590061,
+    "label": "ORG",
+    "start": 590058,
+    "text": "INE"
+  },
+  {
+    "end": 590083,
+    "label": "LOC",
+    "start": 590078,
+    "text": "Japón"
+  },
+  {
+    "end": 590566,
+    "label": "MISC",
+    "start": 590557,
+    "text": "Tom Adams"
+  },
+  {
+    "end": 590631,
+    "label": "ORG",
+    "start": 590618,
+    "text": "colegio Japón"
+  },
+  {
+    "end": 590665,
+    "label": "ORG",
+    "start": 590644,
+    "text": "colegio Nuevo Kennedy"
+  },
+  {
+    "end": 590716,
+    "label": "ORG",
+    "start": 590713,
+    "text": "INE"
+  },
+  {
+    "end": 590835,
+    "label": "LOC",
+    "start": 590815,
+    "text": "Francisco de Miranda"
+  },
+  {
+    "end": 591207,
+    "label": "MISC",
+    "start": 591202,
+    "text": "ESMAD"
+  },
+  {
+    "end": 591283,
+    "label": "MISC",
+    "start": 591278,
+    "text": "ESMAD"
+  },
+  {
+    "end": 591791,
+    "label": "MISC",
+    "start": 591777,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 593945,
+    "label": "MISC",
+    "start": 593937,
+    "text": "Tom Adam"
+  },
+  {
+    "end": 594824,
+    "label": "MISC",
+    "start": 594810,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 595379,
+    "label": "PER",
+    "start": 595377,
+    "text": "Ok"
+  },
+  {
+    "end": 596639,
+    "label": "MISC",
+    "start": 596625,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 596752,
+    "label": "LOC",
+    "start": 596740,
+    "text": "Barranquilla"
+  },
+  {
+    "end": 596954,
+    "label": "LOC",
+    "start": 596948,
+    "text": "Bogotá"
+  },
+  {
+    "end": 598021,
+    "label": "MISC",
+    "start": 598007,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 598478,
+    "label": "ORG",
+    "start": 598477,
+    "text": "E"
+  },
+  {
+    "end": 598698,
+    "label": "MISC",
+    "start": 598684,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 598988,
+    "label": "PER",
+    "start": 598979,
+    "text": "Tom Adams"
+  },
+  {
+    "end": 599925,
+    "label": "LOC",
+    "start": 599915,
+    "text": "Suramérica"
+  },
+  {
+    "end": 599949,
+    "label": "MISC",
+    "start": 599940,
+    "text": "Tom Adams"
+  },
+  {
+    "end": 600907,
+    "label": "MISC",
+    "start": 600901,
+    "text": "Atenea"
+  },
+  {
+    "end": 602258,
+    "label": "MISC",
+    "start": 602257,
+    "text": "D"
+  },
+  {
+    "end": 602261,
+    "label": "MISC",
+    "start": 602260,
+    "text": "E"
+  },
+  {
+    "end": 602264,
+    "label": "MISC",
+    "start": 602263,
+    "text": "F"
+  },
+  {
+    "end": 602267,
+    "label": "ORG",
+    "start": 602266,
+    "text": "G"
+  },
+  {
+    "end": 602270,
+    "label": "ORG",
+    "start": 602269,
+    "text": "H"
+  },
+  {
+    "end": 602273,
+    "label": "PER",
+    "start": 602272,
+    "text": "I"
+  },
+  {
+    "end": 602276,
+    "label": "PER",
+    "start": 602275,
+    "text": "J"
+  },
+  {
+    "end": 602279,
+    "label": "PER",
+    "start": 602278,
+    "text": "K"
+  },
+  {
+    "end": 602367,
+    "label": "PER",
+    "start": 602361,
+    "text": "Pepito"
+  },
+  {
+    "end": 602412,
+    "label": "PER",
+    "start": 602405,
+    "text": "Juanito"
+  },
+  {
+    "end": 604234,
+    "label": "MISC",
+    "start": 604220,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 607463,
+    "label": "MISC",
+    "start": 607461,
+    "text": "Ok"
+  },
+  {
+    "end": 607683,
+    "label": "PER",
+    "start": 607678,
+    "text": "Verde"
+  },
+  {
+    "end": 607689,
+    "label": "PER",
+    "start": 607685,
+    "text": "Doña"
+  },
+  {
+    "end": 607713,
+    "label": "PER",
+    "start": 607707,
+    "text": "Blanco"
+  },
+  {
+    "end": 608927,
+    "label": "PER",
+    "start": 608921,
+    "text": "Blanco"
+  },
+  {
+    "end": 608935,
+    "label": "PER",
+    "start": 608929,
+    "text": "Blanco"
+  },
+  {
+    "end": 608962,
+    "label": "PER",
+    "start": 608954,
+    "text": "Amarillo"
+  },
+  {
+    "end": 609177,
+    "label": "PER",
+    "start": 609173,
+    "text": "Rojo"
+  },
+  {
+    "end": 609210,
+    "label": "PER",
+    "start": 609204,
+    "text": "Blanco"
+  },
+  {
+    "end": 609381,
+    "label": "PER",
+    "start": 609373,
+    "text": "Amarillo"
+  },
+  {
+    "end": 610963,
+    "label": "PER",
+    "start": 610959,
+    "text": "Rojo"
+  },
+  {
+    "end": 610974,
+    "label": "PER",
+    "start": 610968,
+    "text": "Blanco"
+  },
+  {
+    "end": 611088,
+    "label": "PER",
+    "start": 611084,
+    "text": "Doña"
+  },
+  {
+    "end": 611170,
+    "label": "PER",
+    "start": 611161,
+    "text": "Blanco \nP"
+  },
+  {
+    "end": 612266,
+    "label": "PER",
+    "start": 612261,
+    "text": "Profe"
+  },
+  {
+    "end": 612689,
+    "label": "PER",
+    "start": 612682,
+    "text": "Levanto"
+  },
+  {
+    "end": 612808,
+    "label": "PER",
+    "start": 612803,
+    "text": "Pollo"
+  },
+  {
+    "end": 612832,
+    "label": "MISC",
+    "start": 612827,
+    "text": "Pollo"
+  },
+  {
+    "end": 612882,
+    "label": "PER",
+    "start": 612877,
+    "text": "Pollo"
+  },
+  {
+    "end": 612932,
+    "label": "PER",
+    "start": 612927,
+    "text": "Pollo"
+  },
+  {
+    "end": 613016,
+    "label": "PER",
+    "start": 613011,
+    "text": "Pollo"
+  },
+  {
+    "end": 613530,
+    "label": "LOC",
+    "start": 613521,
+    "text": "Tom Adams"
+  },
+  {
+    "end": 614497,
+    "label": "MISC",
+    "start": 614491,
+    "text": "Hermes"
+  },
+  {
+    "end": 616915,
+    "label": "PER",
+    "start": 616907,
+    "text": "Martínez"
+  },
+  {
+    "end": 617500,
+    "label": "MISC",
+    "start": 617486,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 620452,
+    "label": "MISC",
+    "start": 620450,
+    "text": "OK"
+  },
+  {
+    "end": 620733,
+    "label": "MISC",
+    "start": 620719,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 621351,
+    "label": "PER",
+    "start": 621342,
+    "text": "Sebastián"
+  },
+  {
+    "end": 621372,
+    "label": "PER",
+    "start": 621361,
+    "text": "Santiaguito"
+  },
+  {
+    "end": 623790,
+    "label": "PER",
+    "start": 623788,
+    "text": "Pa"
+  },
+  {
+    "end": 623842,
+    "label": "PER",
+    "start": 623837,
+    "text": "Skype"
+  },
+  {
+    "end": 624567,
+    "label": "MISC",
+    "start": 624551,
+    "text": "Taller de Verdad"
+  },
+  {
+    "end": 624761,
+    "label": "MISC",
+    "start": 624746,
+    "text": "Economía Urbana"
+  },
+  {
+    "end": 624883,
+    "label": "ORG",
+    "start": 624860,
+    "text": "Secretaría de Educación"
+  },
+  {
+    "end": 625900,
+    "label": "ORG",
+    "start": 625877,
+    "text": "Secretaría de Educación"
+  },
+  {
+    "end": 626496,
+    "label": "MISC",
+    "start": 626482,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 626522,
+    "label": "MISC",
+    "start": 626507,
+    "text": "Economía Urbana"
+  },
+  {
+    "end": 626587,
+    "label": "PER",
+    "start": 626582,
+    "text": "Heidi"
+  },
+  {
+    "end": 626659,
+    "label": "MISC",
+    "start": 626645,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 626682,
+    "label": "MISC",
+    "start": 626668,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 626716,
+    "label": "MISC",
+    "start": 626701,
+    "text": "Economía Urbana"
+  },
+  {
+    "end": 626764,
+    "label": "PER",
+    "start": 626760,
+    "text": "Vane"
+  },
+  {
+    "end": 626919,
+    "label": "MISC",
+    "start": 626905,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627000,
+    "label": "MISC",
+    "start": 626986,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627015,
+    "label": "PER",
+    "start": 627010,
+    "text": "Zumba"
+  },
+  {
+    "end": 627059,
+    "label": "MISC",
+    "start": 627045,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627154,
+    "label": "MISC",
+    "start": 627140,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627224,
+    "label": "MISC",
+    "start": 627210,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627299,
+    "label": "MISC",
+    "start": 627285,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627367,
+    "label": "MISC",
+    "start": 627353,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627419,
+    "label": "MISC",
+    "start": 627405,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627529,
+    "label": "MISC",
+    "start": 627515,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627590,
+    "label": "MISC",
+    "start": 627576,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627687,
+    "label": "MISC",
+    "start": 627673,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627749,
+    "label": "MISC",
+    "start": 627735,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627837,
+    "label": "MISC",
+    "start": 627823,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627898,
+    "label": "MISC",
+    "start": 627884,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 627988,
+    "label": "MISC",
+    "start": 627974,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 628081,
+    "label": "MISC",
+    "start": 628067,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 628394,
+    "label": "MISC",
+    "start": 628380,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 628459,
+    "label": "MISC",
+    "start": 628445,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 628489,
+    "label": "MISC",
+    "start": 628475,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 628527,
+    "label": "MISC",
+    "start": 628513,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 631443,
+    "label": "ORG",
+    "start": 631426,
+    "text": "Consejo de Padres"
+  },
+  {
+    "end": 633777,
+    "label": "PER",
+    "start": 633771,
+    "text": "Julián"
+  },
+  {
+    "end": 633855,
+    "label": "MISC",
+    "start": 633841,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 636150,
+    "label": "MISC",
+    "start": 636136,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 637641,
+    "label": "PER",
+    "start": 637635,
+    "text": "Julián"
+  },
+  {
+    "end": 637673,
+    "label": "MISC",
+    "start": 637659,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 638946,
+    "label": "MISC",
+    "start": 638932,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 638963,
+    "label": "MISC",
+    "start": 638949,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 639116,
+    "label": "MISC",
+    "start": 639102,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 641166,
+    "label": "PER",
+    "start": 641161,
+    "text": "Cuter"
+  },
+  {
+    "end": 641258,
+    "label": "LOC",
+    "start": 641254,
+    "text": "Roma"
+  },
+  {
+    "end": 641978,
+    "label": "MISC",
+    "start": 641967,
+    "text": "Psicológico"
+  },
+  {
+    "end": 643112,
+    "label": "MISC",
+    "start": 643098,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 645627,
+    "label": "PER",
+    "start": 645621,
+    "text": "Julián"
+  },
+  {
+    "end": 647487,
+    "label": "ORG",
+    "start": 647473,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 650852,
+    "label": "ORG",
+    "start": 650844,
+    "text": "Facebook"
+  },
+  {
+    "end": 650915,
+    "label": "ORG",
+    "start": 650907,
+    "text": "Facebook"
+  },
+  {
+    "end": 650950,
+    "label": "MISC",
+    "start": 650942,
+    "text": "Facebook"
+  },
+  {
+    "end": 651659,
+    "label": "MISC",
+    "start": 651651,
+    "text": "Facebook"
+  },
+  {
+    "end": 652157,
+    "label": "ORG",
+    "start": 652149,
+    "text": "Facebook"
+  },
+  {
+    "end": 654265,
+    "label": "MISC",
+    "start": 654260,
+    "text": "Taser"
+  },
+  {
+    "end": 657585,
+    "label": "ORG",
+    "start": 657568,
+    "text": "Consejo de Padres"
+  },
+  {
+    "end": 657884,
+    "label": "ORG",
+    "start": 657867,
+    "text": "Consejo de Padres"
+  },
+  {
+    "end": 659213,
+    "label": "MISC",
+    "start": 659191,
+    "text": "Convivencia por la Paz"
+  },
+  {
+    "end": 662026,
+    "label": "ORG",
+    "start": 662020,
+    "text": "Estado"
+  },
+  {
+    "end": 662050,
+    "label": "MISC",
+    "start": 662038,
+    "text": "Constitución"
+  },
+  {
+    "end": 662174,
+    "label": "ORG",
+    "start": 662168,
+    "text": "Estado"
+  },
+  {
+    "end": 662263,
+    "label": "ORG",
+    "start": 662257,
+    "text": "Estado"
+  },
+  {
+    "end": 662304,
+    "label": "MISC",
+    "start": 662292,
+    "text": "Constitución"
+  },
+  {
+    "end": 663358,
+    "label": "ORG",
+    "start": 663339,
+    "text": "Millonario Santa Fe"
+  },
+  {
+    "end": 663393,
+    "label": "ORG",
+    "start": 663376,
+    "text": "Unidas Nacionales"
+  },
+  {
+    "end": 663677,
+    "label": "ORG",
+    "start": 663666,
+    "text": "Millonarios"
+  },
+  {
+    "end": 663925,
+    "label": "ORG",
+    "start": 663914,
+    "text": "Millonarios"
+  },
+  {
+    "end": 667814,
+    "label": "ORG",
+    "start": 667796,
+    "text": "Cámara de Comercio"
+  },
+  {
+    "end": 667922,
+    "label": "ORG",
+    "start": 667904,
+    "text": "Cámara de Comercio"
+  },
+  {
+    "end": 667932,
+    "label": "LOC",
+    "start": 667926,
+    "text": "Bogotá"
+  },
+  {
+    "end": 669549,
+    "label": "ORG",
+    "start": 669531,
+    "text": "Cámara de Comercio"
+  },
+  {
+    "end": 674647,
+    "label": "PER",
+    "start": 674636,
+    "text": "Disculpenme"
+  },
+  {
+    "end": 677278,
+    "label": "MISC",
+    "start": 677271,
+    "text": "Derecho"
+  },
+  {
+    "end": 677877,
+    "label": "PER",
+    "start": 677873,
+    "text": "Rojo"
+  },
+  {
+    "end": 679025,
+    "label": "PER",
+    "start": 679017,
+    "text": "Salvador"
+  },
+  {
+    "end": 679041,
+    "label": "LOC",
+    "start": 679033,
+    "text": "Salvador"
+  },
+  {
+    "end": 681089,
+    "label": "PER",
+    "start": 681083,
+    "text": "Hermes"
+  },
+  {
+    "end": 681097,
+    "label": "PER",
+    "start": 681091,
+    "text": "Hermes"
+  },
+  {
+    "end": 681320,
+    "label": "PER",
+    "start": 681314,
+    "text": "Hermes"
+  },
+  {
+    "end": 681452,
+    "label": "PER",
+    "start": 681446,
+    "text": "Hermes"
+  },
+  {
+    "end": 681723,
+    "label": "PER",
+    "start": 681717,
+    "text": "Hermes"
+  },
+  {
+    "end": 682842,
+    "label": "MISC",
+    "start": 682824,
+    "text": "Juegos Intercursos"
+  },
+  {
+    "end": 686805,
+    "label": "MISC",
+    "start": 686800,
+    "text": "Siete"
+  },
+  {
+    "end": 687889,
+    "label": "LOC",
+    "start": 687880,
+    "text": "Venezuela"
+  },
+  {
+    "end": 689915,
+    "label": "MISC",
+    "start": 689901,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 694324,
+    "label": "LOC",
+    "start": 694315,
+    "text": "Venezuela"
+  },
+  {
+    "end": 695520,
+    "label": "ORG",
+    "start": 695499,
+    "text": "Comité de Convivencia"
+  },
+  {
+    "end": 695895,
+    "label": "LOC",
+    "start": 695892,
+    "text": "Ajá"
+  },
+  {
+    "end": 696092,
+    "label": "MISC",
+    "start": 696086,
+    "text": "Noveno"
+  },
+  {
+    "end": 696101,
+    "label": "MISC",
+    "start": 696095,
+    "text": "Noveno"
+  },
+  {
+    "end": 696709,
+    "label": "MISC",
+    "start": 696695,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 697638,
+    "label": "PER",
+    "start": 697632,
+    "text": "Hermes"
+  },
+  {
+    "end": 698562,
+    "label": "MISC",
+    "start": 698548,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 699537,
+    "label": "LOC",
+    "start": 699533,
+    "text": "Perú"
+  },
+  {
+    "end": 700438,
+    "label": "LOC",
+    "start": 700434,
+    "text": "Perú"
+  },
+  {
+    "end": 700800,
+    "label": "PER",
+    "start": 700796,
+    "text": "Dios"
+  },
+  {
+    "end": 702809,
+    "label": "MISC",
+    "start": 702795,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 702851,
+    "label": "MISC",
+    "start": 702837,
+    "text": "NOMBRE PERSONA"
+  },
+  {
+    "end": 706511,
+    "label": "PER",
+    "start": 706490,
+    "text": ".Colegio Paulo Freire"
+  }
+]

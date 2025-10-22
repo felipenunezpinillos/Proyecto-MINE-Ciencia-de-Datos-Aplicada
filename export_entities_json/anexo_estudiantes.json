@@ -1,0 +1,5342 @@
+[
+  {
+    "end": 46,
+    "label": "ORG",
+    "start": 25,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 1182,
+    "label": "MISC",
+    "start": 1176,
+    "text": "Tronco"
+  },
+  {
+    "end": 4775,
+    "label": "PER",
+    "start": 4769,
+    "text": "Rosado"
+  },
+  {
+    "end": 4783,
+    "label": "PER",
+    "start": 4777,
+    "text": "Frutos"
+  },
+  {
+    "end": 4813,
+    "label": "MISC",
+    "start": 4810,
+    "text": "JER"
+  },
+  {
+    "end": 6674,
+    "label": "MISC",
+    "start": 6665,
+    "text": "Conflicto"
+  },
+  {
+    "end": 6684,
+    "label": "MISC",
+    "start": 6676,
+    "text": "Abstract"
+  },
+  {
+    "end": 6785,
+    "label": "PER",
+    "start": 6780,
+    "text": "Yesly"
+  },
+  {
+    "end": 6823,
+    "label": "PER",
+    "start": 6814,
+    "text": "Alexandra"
+  },
+  {
+    "end": 6838,
+    "label": "PER",
+    "start": 6833,
+    "text": "Sofía"
+  },
+  {
+    "end": 6862,
+    "label": "PER",
+    "start": 6853,
+    "text": "Valentina"
+  },
+  {
+    "end": 6951,
+    "label": "MISC",
+    "start": 6940,
+    "text": "Orientación"
+  },
+  {
+    "end": 7089,
+    "label": "PER",
+    "start": 7076,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 7153,
+    "label": "PER",
+    "start": 7147,
+    "text": "Valene"
+  },
+  {
+    "end": 7170,
+    "label": "PER",
+    "start": 7164,
+    "text": "Cheila"
+  },
+  {
+    "end": 7196,
+    "label": "PER",
+    "start": 7190,
+    "text": "Valene"
+  },
+  {
+    "end": 7241,
+    "label": "PER",
+    "start": 7235,
+    "text": "Cheila"
+  },
+  {
+    "end": 7317,
+    "label": "MISC",
+    "start": 7299,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 7329,
+    "label": "MISC",
+    "start": 7319,
+    "text": "Evaluación"
+  },
+  {
+    "end": 7342,
+    "label": "MISC",
+    "start": 7331,
+    "text": "Observadora"
+  },
+  {
+    "end": 7970,
+    "label": "MISC",
+    "start": 7959,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 7976,
+    "label": "MISC",
+    "start": 7972,
+    "text": "Coda"
+  },
+  {
+    "end": 8436,
+    "label": "MISC",
+    "start": 8427,
+    "text": "Conflicto"
+  },
+  {
+    "end": 8446,
+    "label": "MISC",
+    "start": 8438,
+    "text": "Abstract"
+  },
+  {
+    "end": 8681,
+    "label": "MISC",
+    "start": 8670,
+    "text": "Orientación"
+  },
+  {
+    "end": 9093,
+    "label": "MISC",
+    "start": 9075,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 9105,
+    "label": "MISC",
+    "start": 9095,
+    "text": "Evaluación"
+  },
+  {
+    "end": 9169,
+    "label": "ORG",
+    "start": 9157,
+    "text": "Coordinadora"
+  },
+  {
+    "end": 9491,
+    "label": "ORG",
+    "start": 9479,
+    "text": "Coordinadora"
+  },
+  {
+    "end": 9608,
+    "label": "PER",
+    "start": 9601,
+    "text": "Luisa b"
+  },
+  {
+    "end": 9737,
+    "label": "MISC",
+    "start": 9727,
+    "text": "Estudiante"
+  },
+  {
+    "end": 10083,
+    "label": "MISC",
+    "start": 10072,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 10089,
+    "label": "MISC",
+    "start": 10085,
+    "text": "Coda"
+  },
+  {
+    "end": 10759,
+    "label": "ORG",
+    "start": 10738,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 11896,
+    "label": "MISC",
+    "start": 11890,
+    "text": "Tronco"
+  },
+  {
+    "end": 12388,
+    "label": "LOC",
+    "start": 12380,
+    "text": "Colombia"
+  },
+  {
+    "end": 14992,
+    "label": "PER",
+    "start": 14986,
+    "text": "Rosado"
+  },
+  {
+    "end": 15000,
+    "label": "PER",
+    "start": 14994,
+    "text": "Frutos"
+  },
+  {
+    "end": 15030,
+    "label": "MISC",
+    "start": 15027,
+    "text": "JER"
+  },
+  {
+    "end": 16331,
+    "label": "MISC",
+    "start": 16322,
+    "text": "Conflicto"
+  },
+  {
+    "end": 16341,
+    "label": "MISC",
+    "start": 16333,
+    "text": "Abstract"
+  },
+  {
+    "end": 16349,
+    "label": "PER",
+    "start": 16343,
+    "text": "Camila"
+  },
+  {
+    "end": 16361,
+    "label": "PER",
+    "start": 16356,
+    "text": "Danna"
+  },
+  {
+    "end": 16371,
+    "label": "PER",
+    "start": 16364,
+    "text": "Nicolas"
+  },
+  {
+    "end": 16390,
+    "label": "PER",
+    "start": 16384,
+    "text": "Camila"
+  },
+  {
+    "end": 16420,
+    "label": "PER",
+    "start": 16415,
+    "text": "Danna"
+  },
+  {
+    "end": 16432,
+    "label": "PER",
+    "start": 16425,
+    "text": "Nicolas"
+  },
+  {
+    "end": 16440,
+    "label": "PER",
+    "start": 16435,
+    "text": "Danna"
+  },
+  {
+    "end": 16479,
+    "label": "PER",
+    "start": 16474,
+    "text": "Danna"
+  },
+  {
+    "end": 16532,
+    "label": "MISC",
+    "start": 16521,
+    "text": "Orientación"
+  },
+  {
+    "end": 16567,
+    "label": "LOC",
+    "start": 16563,
+    "text": "Sena"
+  },
+  {
+    "end": 16711,
+    "label": "PER",
+    "start": 16704,
+    "text": "Nicolas"
+  },
+  {
+    "end": 16741,
+    "label": "PER",
+    "start": 16728,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 16755,
+    "label": "MISC",
+    "start": 16743,
+    "text": "Complicación"
+  },
+  {
+    "end": 16771,
+    "label": "PER",
+    "start": 16764,
+    "text": "Nicolas"
+  },
+  {
+    "end": 16779,
+    "label": "PER",
+    "start": 16774,
+    "text": "Sofia"
+  },
+  {
+    "end": 16876,
+    "label": "PER",
+    "start": 16871,
+    "text": "Sofía"
+  },
+  {
+    "end": 16961,
+    "label": "MISC",
+    "start": 16943,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 16973,
+    "label": "MISC",
+    "start": 16963,
+    "text": "Evaluación"
+  },
+  {
+    "end": 16979,
+    "label": "PER",
+    "start": 16975,
+    "text": "Juan"
+  },
+  {
+    "end": 17040,
+    "label": "ORG",
+    "start": 17029,
+    "text": "Coordinador"
+  },
+  {
+    "end": 17368,
+    "label": "PER",
+    "start": 17363,
+    "text": "Sofía"
+  },
+  {
+    "end": 17378,
+    "label": "PER",
+    "start": 17371,
+    "text": "Nicolas"
+  },
+  {
+    "end": 17436,
+    "label": "PER",
+    "start": 17430,
+    "text": "Camila"
+  },
+  {
+    "end": 17621,
+    "label": "MISC",
+    "start": 17610,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 17627,
+    "label": "MISC",
+    "start": 17623,
+    "text": "Coda"
+  },
+  {
+    "end": 17711,
+    "label": "PER",
+    "start": 17707,
+    "text": "Juan"
+  },
+  {
+    "end": 17861,
+    "label": "PER",
+    "start": 17855,
+    "text": "Camila"
+  },
+  {
+    "end": 18057,
+    "label": "MISC",
+    "start": 18048,
+    "text": "Conflicto"
+  },
+  {
+    "end": 18067,
+    "label": "MISC",
+    "start": 18059,
+    "text": "Abstract"
+  },
+  {
+    "end": 18168,
+    "label": "MISC",
+    "start": 18156,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 18181,
+    "label": "MISC",
+    "start": 18170,
+    "text": "Orientación"
+  },
+  {
+    "end": 18273,
+    "label": "ORG",
+    "start": 18262,
+    "text": "Coordinador"
+  },
+  {
+    "end": 18473,
+    "label": "MISC",
+    "start": 18455,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 18485,
+    "label": "MISC",
+    "start": 18475,
+    "text": "Evaluación"
+  },
+  {
+    "end": 18498,
+    "label": "MISC",
+    "start": 18487,
+    "text": "Coordinador"
+  },
+  {
+    "end": 18747,
+    "label": "PER",
+    "start": 18737,
+    "text": "Estudiante"
+  },
+  {
+    "end": 19221,
+    "label": "MISC",
+    "start": 19210,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 19227,
+    "label": "MISC",
+    "start": 19223,
+    "text": "Coda"
+  },
+  {
+    "end": 19538,
+    "label": "ORG",
+    "start": 19517,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 19965,
+    "label": "MISC",
+    "start": 19959,
+    "text": "Tronco"
+  },
+  {
+    "end": 21109,
+    "label": "PER",
+    "start": 21103,
+    "text": "Rosado"
+  },
+  {
+    "end": 21117,
+    "label": "PER",
+    "start": 21111,
+    "text": "Frutos"
+  },
+  {
+    "end": 21147,
+    "label": "MISC",
+    "start": 21144,
+    "text": "JER"
+  },
+  {
+    "end": 21555,
+    "label": "MISC",
+    "start": 21546,
+    "text": "Conflicto"
+  },
+  {
+    "end": 21565,
+    "label": "MISC",
+    "start": 21557,
+    "text": "Abstract"
+  },
+  {
+    "end": 21606,
+    "label": "PER",
+    "start": 21601,
+    "text": "Pedra"
+  },
+  {
+    "end": 21613,
+    "label": "PER",
+    "start": 21608,
+    "text": "Juana"
+  },
+  {
+    "end": 21690,
+    "label": "MISC",
+    "start": 21678,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 21703,
+    "label": "MISC",
+    "start": 21692,
+    "text": "Orientación"
+  },
+  {
+    "end": 21823,
+    "label": "PER",
+    "start": 21810,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 21837,
+    "label": "MISC",
+    "start": 21825,
+    "text": "Complicación"
+  },
+  {
+    "end": 21851,
+    "label": "PER",
+    "start": 21846,
+    "text": "Juana"
+  },
+  {
+    "end": 21880,
+    "label": "PER",
+    "start": 21875,
+    "text": "Pedra"
+  },
+  {
+    "end": 21998,
+    "label": "PER",
+    "start": 21993,
+    "text": "Juana"
+  },
+  {
+    "end": 22015,
+    "label": "PER",
+    "start": 22010,
+    "text": "Pedra"
+  },
+  {
+    "end": 22070,
+    "label": "MISC",
+    "start": 22052,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 22290,
+    "label": "PER",
+    "start": 22280,
+    "text": "Intervengo"
+  },
+  {
+    "end": 22608,
+    "label": "MISC",
+    "start": 22597,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 22614,
+    "label": "MISC",
+    "start": 22610,
+    "text": "Coda"
+  },
+  {
+    "end": 23091,
+    "label": "MISC",
+    "start": 23082,
+    "text": "Conflicto"
+  },
+  {
+    "end": 23101,
+    "label": "MISC",
+    "start": 23093,
+    "text": "Abstract"
+  },
+  {
+    "end": 23142,
+    "label": "MISC",
+    "start": 23131,
+    "text": "Orientación"
+  },
+  {
+    "end": 23208,
+    "label": "MISC",
+    "start": 23190,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 23220,
+    "label": "MISC",
+    "start": 23210,
+    "text": "Evaluación"
+  },
+  {
+    "end": 23280,
+    "label": "MISC",
+    "start": 23269,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 23286,
+    "label": "MISC",
+    "start": 23282,
+    "text": "Coda"
+  },
+  {
+    "end": 23307,
+    "label": "MISC",
+    "start": 23288,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 23333,
+    "label": "ORG",
+    "start": 23312,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 23471,
+    "label": "PER",
+    "start": 23466,
+    "text": "Danni"
+  },
+  {
+    "end": 23495,
+    "label": "PER",
+    "start": 23486,
+    "text": "Sebastian"
+  },
+  {
+    "end": 23798,
+    "label": "MISC",
+    "start": 23792,
+    "text": "Tronco"
+  },
+  {
+    "end": 24043,
+    "label": "PER",
+    "start": 24037,
+    "text": "Hermes"
+  },
+  {
+    "end": 24127,
+    "label": "PER",
+    "start": 24121,
+    "text": "Hermes"
+  },
+  {
+    "end": 24831,
+    "label": "LOC",
+    "start": 24817,
+    "text": "Antonia Santos"
+  },
+  {
+    "end": 24855,
+    "label": "MISC",
+    "start": 24852,
+    "text": "PAE"
+  },
+  {
+    "end": 25129,
+    "label": "PER",
+    "start": 25123,
+    "text": "Rosado"
+  },
+  {
+    "end": 25137,
+    "label": "PER",
+    "start": 25131,
+    "text": "Frutos"
+  },
+  {
+    "end": 25167,
+    "label": "MISC",
+    "start": 25164,
+    "text": "JER"
+  },
+  {
+    "end": 25721,
+    "label": "MISC",
+    "start": 25712,
+    "text": "Conflicto"
+  },
+  {
+    "end": 25731,
+    "label": "MISC",
+    "start": 25723,
+    "text": "Abstract"
+  },
+  {
+    "end": 25771,
+    "label": "ORG",
+    "start": 25762,
+    "text": "Venezuela"
+  },
+  {
+    "end": 25821,
+    "label": "MISC",
+    "start": 25809,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 25834,
+    "label": "MISC",
+    "start": 25823,
+    "text": "Orientación"
+  },
+  {
+    "end": 26078,
+    "label": "MISC",
+    "start": 26060,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 26090,
+    "label": "MISC",
+    "start": 26080,
+    "text": "Evaluación"
+  },
+  {
+    "end": 26136,
+    "label": "PER",
+    "start": 26131,
+    "text": "Brava"
+  },
+  {
+    "end": 26402,
+    "label": "MISC",
+    "start": 26391,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 26408,
+    "label": "MISC",
+    "start": 26404,
+    "text": "Coda"
+  },
+  {
+    "end": 26632,
+    "label": "MISC",
+    "start": 26623,
+    "text": "Conflicto"
+  },
+  {
+    "end": 26642,
+    "label": "MISC",
+    "start": 26634,
+    "text": "Abstract"
+  },
+  {
+    "end": 26683,
+    "label": "MISC",
+    "start": 26672,
+    "text": "Orientación"
+  },
+  {
+    "end": 26749,
+    "label": "MISC",
+    "start": 26731,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 26761,
+    "label": "MISC",
+    "start": 26751,
+    "text": "Evaluación"
+  },
+  {
+    "end": 26821,
+    "label": "MISC",
+    "start": 26810,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 26827,
+    "label": "MISC",
+    "start": 26823,
+    "text": "Coda"
+  },
+  {
+    "end": 26848,
+    "label": "MISC",
+    "start": 26829,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 26874,
+    "label": "ORG",
+    "start": 26853,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 27402,
+    "label": "MISC",
+    "start": 27398,
+    "text": "Mesa"
+  },
+  {
+    "end": 27681,
+    "label": "MISC",
+    "start": 27675,
+    "text": "Tronco"
+  },
+  {
+    "end": 27893,
+    "label": "MISC",
+    "start": 27885,
+    "text": "Talleres"
+  },
+  {
+    "end": 28054,
+    "label": "PER",
+    "start": 28049,
+    "text": "Danny"
+  },
+  {
+    "end": 28099,
+    "label": "PER",
+    "start": 28090,
+    "text": "Sebastian"
+  },
+  {
+    "end": 28875,
+    "label": "PER",
+    "start": 28866,
+    "text": "Ana Maria"
+  },
+  {
+    "end": 28942,
+    "label": "PER",
+    "start": 28936,
+    "text": "Rosado"
+  },
+  {
+    "end": 28950,
+    "label": "PER",
+    "start": 28944,
+    "text": "Frutos"
+  },
+  {
+    "end": 28980,
+    "label": "MISC",
+    "start": 28977,
+    "text": "JER"
+  },
+  {
+    "end": 29448,
+    "label": "MISC",
+    "start": 29439,
+    "text": "Educación"
+  },
+  {
+    "end": 29691,
+    "label": "MISC",
+    "start": 29682,
+    "text": "Conflicto"
+  },
+  {
+    "end": 29701,
+    "label": "MISC",
+    "start": 29693,
+    "text": "Abstract"
+  },
+  {
+    "end": 29844,
+    "label": "MISC",
+    "start": 29833,
+    "text": "Orientación"
+  },
+  {
+    "end": 30244,
+    "label": "MISC",
+    "start": 30226,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 30256,
+    "label": "MISC",
+    "start": 30246,
+    "text": "Evaluación"
+  },
+  {
+    "end": 30504,
+    "label": "MISC",
+    "start": 30493,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 30510,
+    "label": "MISC",
+    "start": 30506,
+    "text": "Coda"
+  },
+  {
+    "end": 30565,
+    "label": "MISC",
+    "start": 30556,
+    "text": "Conflicto"
+  },
+  {
+    "end": 30575,
+    "label": "MISC",
+    "start": 30567,
+    "text": "Abstract"
+  },
+  {
+    "end": 30616,
+    "label": "MISC",
+    "start": 30605,
+    "text": "Orientación"
+  },
+  {
+    "end": 30682,
+    "label": "MISC",
+    "start": 30664,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 30694,
+    "label": "MISC",
+    "start": 30684,
+    "text": "Evaluación"
+  },
+  {
+    "end": 30754,
+    "label": "MISC",
+    "start": 30743,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 30760,
+    "label": "MISC",
+    "start": 30756,
+    "text": "Coda"
+  },
+  {
+    "end": 30781,
+    "label": "MISC",
+    "start": 30762,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 30807,
+    "label": "ORG",
+    "start": 30786,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 31250,
+    "label": "MISC",
+    "start": 31244,
+    "text": "Tronco"
+  },
+  {
+    "end": 32300,
+    "label": "PER",
+    "start": 32294,
+    "text": "Rosado"
+  },
+  {
+    "end": 32308,
+    "label": "PER",
+    "start": 32302,
+    "text": "Frutos"
+  },
+  {
+    "end": 32338,
+    "label": "MISC",
+    "start": 32335,
+    "text": "JER"
+  },
+  {
+    "end": 32441,
+    "label": "MISC",
+    "start": 32430,
+    "text": "Orientación"
+  },
+  {
+    "end": 32637,
+    "label": "MISC",
+    "start": 32628,
+    "text": "Conflicto"
+  },
+  {
+    "end": 32647,
+    "label": "MISC",
+    "start": 32639,
+    "text": "Abstract"
+  },
+  {
+    "end": 32675,
+    "label": "MISC",
+    "start": 32663,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 32688,
+    "label": "MISC",
+    "start": 32677,
+    "text": "Orientación"
+  },
+  {
+    "end": 32767,
+    "label": "PER",
+    "start": 32760,
+    "text": "Natalia"
+  },
+  {
+    "end": 32793,
+    "label": "PER",
+    "start": 32787,
+    "text": "Carlos"
+  },
+  {
+    "end": 32865,
+    "label": "PER",
+    "start": 32857,
+    "text": "Cristian"
+  },
+  {
+    "end": 32900,
+    "label": "PER",
+    "start": 32893,
+    "text": "Natalia"
+  },
+  {
+    "end": 32911,
+    "label": "PER",
+    "start": 32905,
+    "text": "Carlos"
+  },
+  {
+    "end": 33034,
+    "label": "PER",
+    "start": 33026,
+    "text": "Cristian"
+  },
+  {
+    "end": 33053,
+    "label": "PER",
+    "start": 33046,
+    "text": "Natalia"
+  },
+  {
+    "end": 33086,
+    "label": "PER",
+    "start": 33079,
+    "text": "Natalia"
+  },
+  {
+    "end": 33094,
+    "label": "PER",
+    "start": 33088,
+    "text": "Carlos"
+  },
+  {
+    "end": 33132,
+    "label": "PER",
+    "start": 33125,
+    "text": "Natalia"
+  },
+  {
+    "end": 33140,
+    "label": "PER",
+    "start": 33134,
+    "text": "Manuel"
+  },
+  {
+    "end": 33184,
+    "label": "MISC",
+    "start": 33171,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 33198,
+    "label": "MISC",
+    "start": 33186,
+    "text": "Complicación"
+  },
+  {
+    "end": 33207,
+    "label": "PER",
+    "start": 33200,
+    "text": "Natalia"
+  },
+  {
+    "end": 33246,
+    "label": "PER",
+    "start": 33240,
+    "text": "Carlos"
+  },
+  {
+    "end": 33268,
+    "label": "PER",
+    "start": 33262,
+    "text": "Carlos"
+  },
+  {
+    "end": 33294,
+    "label": "PER",
+    "start": 33287,
+    "text": "Natalia"
+  },
+  {
+    "end": 33383,
+    "label": "PER",
+    "start": 33376,
+    "text": "Natalia"
+  },
+  {
+    "end": 33414,
+    "label": "PER",
+    "start": 33407,
+    "text": "Natalia"
+  },
+  {
+    "end": 33449,
+    "label": "PER",
+    "start": 33443,
+    "text": "Carlos"
+  },
+  {
+    "end": 33479,
+    "label": "PER",
+    "start": 33473,
+    "text": "Carlos"
+  },
+  {
+    "end": 33522,
+    "label": "MISC",
+    "start": 33504,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 33534,
+    "label": "MISC",
+    "start": 33524,
+    "text": "Evaluación"
+  },
+  {
+    "end": 33588,
+    "label": "PER",
+    "start": 33581,
+    "text": "Natalia"
+  },
+  {
+    "end": 33841,
+    "label": "PER",
+    "start": 33834,
+    "text": "Natalia"
+  },
+  {
+    "end": 33903,
+    "label": "MISC",
+    "start": 33892,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 33909,
+    "label": "MISC",
+    "start": 33905,
+    "text": "Coda"
+  },
+  {
+    "end": 34158,
+    "label": "MISC",
+    "start": 34149,
+    "text": "Conflicto"
+  },
+  {
+    "end": 34168,
+    "label": "MISC",
+    "start": 34160,
+    "text": "Abstract"
+  },
+  {
+    "end": 34210,
+    "label": "MISC",
+    "start": 34199,
+    "text": "Orientación"
+  },
+  {
+    "end": 34278,
+    "label": "MISC",
+    "start": 34260,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 34290,
+    "label": "MISC",
+    "start": 34280,
+    "text": "Evaluación"
+  },
+  {
+    "end": 34352,
+    "label": "MISC",
+    "start": 34341,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 34358,
+    "label": "MISC",
+    "start": 34354,
+    "text": "Coda"
+  },
+  {
+    "end": 34406,
+    "label": "ORG",
+    "start": 34385,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 34833,
+    "label": "MISC",
+    "start": 34827,
+    "text": "Tronco"
+  },
+  {
+    "end": 35053,
+    "label": "LOC",
+    "start": 35045,
+    "text": "Colombia"
+  },
+  {
+    "end": 35217,
+    "label": "LOC",
+    "start": 35209,
+    "text": "Colombia"
+  },
+  {
+    "end": 35729,
+    "label": "ORG",
+    "start": 35726,
+    "text": "PAE"
+  },
+  {
+    "end": 35738,
+    "label": "PER",
+    "start": 35732,
+    "text": "Rosado"
+  },
+  {
+    "end": 35746,
+    "label": "PER",
+    "start": 35740,
+    "text": "Frutos"
+  },
+  {
+    "end": 35776,
+    "label": "MISC",
+    "start": 35773,
+    "text": "JER"
+  },
+  {
+    "end": 35926,
+    "label": "MISC",
+    "start": 35917,
+    "text": "Conflicto"
+  },
+  {
+    "end": 35936,
+    "label": "MISC",
+    "start": 35928,
+    "text": "Abstract"
+  },
+  {
+    "end": 35992,
+    "label": "PER",
+    "start": 35987,
+    "text": "Juana"
+  },
+  {
+    "end": 36102,
+    "label": "PER",
+    "start": 36097,
+    "text": "Juana"
+  },
+  {
+    "end": 36131,
+    "label": "PER",
+    "start": 36127,
+    "text": "Majo"
+  },
+  {
+    "end": 36166,
+    "label": "PER",
+    "start": 36161,
+    "text": "Juana"
+  },
+  {
+    "end": 36195,
+    "label": "PER",
+    "start": 36191,
+    "text": "Majo"
+  },
+  {
+    "end": 36207,
+    "label": "PER",
+    "start": 36202,
+    "text": "Juana"
+  },
+  {
+    "end": 36249,
+    "label": "MISC",
+    "start": 36238,
+    "text": "Orientación"
+  },
+  {
+    "end": 36310,
+    "label": "PER",
+    "start": 36305,
+    "text": "Juana"
+  },
+  {
+    "end": 36344,
+    "label": "PER",
+    "start": 36340,
+    "text": "Majo"
+  },
+  {
+    "end": 36360,
+    "label": "PER",
+    "start": 36355,
+    "text": "Juana"
+  },
+  {
+    "end": 36438,
+    "label": "PER",
+    "start": 36434,
+    "text": "Majo"
+  },
+  {
+    "end": 36554,
+    "label": "PER",
+    "start": 36550,
+    "text": "Majo"
+  },
+  {
+    "end": 36638,
+    "label": "PER",
+    "start": 36625,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 36740,
+    "label": "PER",
+    "start": 36736,
+    "text": "Majo"
+  },
+  {
+    "end": 36789,
+    "label": "PER",
+    "start": 36785,
+    "text": "Majo"
+  },
+  {
+    "end": 36922,
+    "label": "MISC",
+    "start": 36904,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 36975,
+    "label": "PER",
+    "start": 36970,
+    "text": "Rabia"
+  },
+  {
+    "end": 37068,
+    "label": "PER",
+    "start": 37053,
+    "text": "Juana \nSorpresa"
+  },
+  {
+    "end": 37151,
+    "label": "PER",
+    "start": 37146,
+    "text": "Juana"
+  },
+  {
+    "end": 37234,
+    "label": "PER",
+    "start": 37229,
+    "text": "Juana"
+  },
+  {
+    "end": 37263,
+    "label": "PER",
+    "start": 37259,
+    "text": "Majo"
+  },
+  {
+    "end": 37319,
+    "label": "PER",
+    "start": 37314,
+    "text": "Juana"
+  },
+  {
+    "end": 37346,
+    "label": "MISC",
+    "start": 37335,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 37352,
+    "label": "MISC",
+    "start": 37348,
+    "text": "Coda"
+  },
+  {
+    "end": 37623,
+    "label": "MISC",
+    "start": 37614,
+    "text": "Conflicto"
+  },
+  {
+    "end": 37633,
+    "label": "MISC",
+    "start": 37625,
+    "text": "Abstract"
+  },
+  {
+    "end": 37675,
+    "label": "MISC",
+    "start": 37664,
+    "text": "Orientación"
+  },
+  {
+    "end": 37743,
+    "label": "MISC",
+    "start": 37725,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 37755,
+    "label": "MISC",
+    "start": 37745,
+    "text": "Evaluación"
+  },
+  {
+    "end": 37817,
+    "label": "MISC",
+    "start": 37806,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 37823,
+    "label": "MISC",
+    "start": 37819,
+    "text": "Coda"
+  },
+  {
+    "end": 37871,
+    "label": "ORG",
+    "start": 37850,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 38210,
+    "label": "MISC",
+    "start": 38204,
+    "text": "Tronco"
+  },
+  {
+    "end": 39182,
+    "label": "PER",
+    "start": 39176,
+    "text": "Rosado"
+  },
+  {
+    "end": 39190,
+    "label": "PER",
+    "start": 39184,
+    "text": "Frutos"
+  },
+  {
+    "end": 39220,
+    "label": "MISC",
+    "start": 39217,
+    "text": "JER"
+  },
+  {
+    "end": 39772,
+    "label": "MISC",
+    "start": 39763,
+    "text": "Conflicto"
+  },
+  {
+    "end": 39782,
+    "label": "MISC",
+    "start": 39774,
+    "text": "Abstract"
+  },
+  {
+    "end": 39798,
+    "label": "MISC",
+    "start": 39784,
+    "text": "Discriminacion"
+  },
+  {
+    "end": 39840,
+    "label": "LOC",
+    "start": 39835,
+    "text": "Chocó"
+  },
+  {
+    "end": 39988,
+    "label": "MISC",
+    "start": 39977,
+    "text": "Orientación"
+  },
+  {
+    "end": 40061,
+    "label": "PER",
+    "start": 40048,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 40126,
+    "label": "PER",
+    "start": 40119,
+    "text": "Juanita"
+  },
+  {
+    "end": 40183,
+    "label": "PER",
+    "start": 40177,
+    "text": "Pepita"
+  },
+  {
+    "end": 40208,
+    "label": "PER",
+    "start": 40201,
+    "text": "Juanita"
+  },
+  {
+    "end": 40275,
+    "label": "MISC",
+    "start": 40257,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 40287,
+    "label": "MISC",
+    "start": 40277,
+    "text": "Evaluación"
+  },
+  {
+    "end": 40831,
+    "label": "MISC",
+    "start": 40820,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 40837,
+    "label": "MISC",
+    "start": 40833,
+    "text": "Coda"
+  },
+  {
+    "end": 41191,
+    "label": "MISC",
+    "start": 41182,
+    "text": "Conflicto"
+  },
+  {
+    "end": 41201,
+    "label": "MISC",
+    "start": 41193,
+    "text": "Abstract"
+  },
+  {
+    "end": 41208,
+    "label": "PER",
+    "start": 41203,
+    "text": "Rumor"
+  },
+  {
+    "end": 41570,
+    "label": "MISC",
+    "start": 41558,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 41583,
+    "label": "MISC",
+    "start": 41572,
+    "text": "Orientación"
+  },
+  {
+    "end": 41838,
+    "label": "PER",
+    "start": 41825,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 42158,
+    "label": "MISC",
+    "start": 42140,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 42170,
+    "label": "MISC",
+    "start": 42160,
+    "text": "Evaluación"
+  },
+  {
+    "end": 42403,
+    "label": "PER",
+    "start": 42398,
+    "text": "Rabia"
+  },
+  {
+    "end": 42742,
+    "label": "MISC",
+    "start": 42731,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 42748,
+    "label": "MISC",
+    "start": 42744,
+    "text": "Coda"
+  },
+  {
+    "end": 42883,
+    "label": "MISC",
+    "start": 42871,
+    "text": "Comunicación"
+  },
+  {
+    "end": 42935,
+    "label": "MISC",
+    "start": 42916,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 42961,
+    "label": "ORG",
+    "start": 42940,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 43330,
+    "label": "MISC",
+    "start": 43324,
+    "text": "Tronco"
+  },
+  {
+    "end": 44188,
+    "label": "PER",
+    "start": 44182,
+    "text": "Rosado"
+  },
+  {
+    "end": 44196,
+    "label": "PER",
+    "start": 44190,
+    "text": "Frutos"
+  },
+  {
+    "end": 44226,
+    "label": "MISC",
+    "start": 44223,
+    "text": "JER"
+  },
+  {
+    "end": 44556,
+    "label": "MISC",
+    "start": 44547,
+    "text": "Conflicto"
+  },
+  {
+    "end": 44566,
+    "label": "MISC",
+    "start": 44558,
+    "text": "Abstract"
+  },
+  {
+    "end": 44612,
+    "label": "PER",
+    "start": 44606,
+    "text": "Carlos"
+  },
+  {
+    "end": 44621,
+    "label": "PER",
+    "start": 44615,
+    "text": "Jadier"
+  },
+  {
+    "end": 44639,
+    "label": "PER",
+    "start": 44634,
+    "text": "Jimmy"
+  },
+  {
+    "end": 44647,
+    "label": "PER",
+    "start": 44642,
+    "text": "Percy"
+  },
+  {
+    "end": 44667,
+    "label": "PER",
+    "start": 44662,
+    "text": "Bazon"
+  },
+  {
+    "end": 44716,
+    "label": "MISC",
+    "start": 44705,
+    "text": "Orientación"
+  },
+  {
+    "end": 44982,
+    "label": "PER",
+    "start": 44977,
+    "text": "Jimmy"
+  },
+  {
+    "end": 45006,
+    "label": "PER",
+    "start": 45000,
+    "text": "Jaider"
+  },
+  {
+    "end": 45015,
+    "label": "PER",
+    "start": 45009,
+    "text": "Carlos"
+  },
+  {
+    "end": 45032,
+    "label": "PER",
+    "start": 45027,
+    "text": "Jimmy"
+  },
+  {
+    "end": 45078,
+    "label": "MISC",
+    "start": 45060,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 45090,
+    "label": "MISC",
+    "start": 45080,
+    "text": "Evaluación"
+  },
+  {
+    "end": 45098,
+    "label": "PER",
+    "start": 45092,
+    "text": "Jaider"
+  },
+  {
+    "end": 45117,
+    "label": "PER",
+    "start": 45104,
+    "text": "Carlos Rencor"
+  },
+  {
+    "end": 45147,
+    "label": "PER",
+    "start": 45127,
+    "text": "Jimmy culpable Proxy"
+  },
+  {
+    "end": 45180,
+    "label": "PER",
+    "start": 45174,
+    "text": "Liomar"
+  },
+  {
+    "end": 45268,
+    "label": "PER",
+    "start": 45263,
+    "text": "Angel"
+  },
+  {
+    "end": 45307,
+    "label": "PER",
+    "start": 45302,
+    "text": "Mateo"
+  },
+  {
+    "end": 45374,
+    "label": "MISC",
+    "start": 45364,
+    "text": "Resolución"
+  },
+  {
+    "end": 45583,
+    "label": "MISC",
+    "start": 45572,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 45589,
+    "label": "MISC",
+    "start": 45585,
+    "text": "Coda"
+  },
+  {
+    "end": 45597,
+    "label": "PER",
+    "start": 45591,
+    "text": "Jaider"
+  },
+  {
+    "end": 45610,
+    "label": "PER",
+    "start": 45604,
+    "text": "Carlos"
+  },
+  {
+    "end": 45641,
+    "label": "PER",
+    "start": 45629,
+    "text": "Jimmy prexcy"
+  },
+  {
+    "end": 45682,
+    "label": "PER",
+    "start": 45676,
+    "text": "Liomar"
+  },
+  {
+    "end": 45891,
+    "label": "MISC",
+    "start": 45882,
+    "text": "Conflicto"
+  },
+  {
+    "end": 45901,
+    "label": "MISC",
+    "start": 45893,
+    "text": "Abstract"
+  },
+  {
+    "end": 45942,
+    "label": "MISC",
+    "start": 45931,
+    "text": "Orientación"
+  },
+  {
+    "end": 46008,
+    "label": "MISC",
+    "start": 45990,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 46020,
+    "label": "MISC",
+    "start": 46010,
+    "text": "Evaluación"
+  },
+  {
+    "end": 46080,
+    "label": "MISC",
+    "start": 46069,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 46086,
+    "label": "MISC",
+    "start": 46082,
+    "text": "Coda"
+  },
+  {
+    "end": 46107,
+    "label": "MISC",
+    "start": 46088,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 46133,
+    "label": "ORG",
+    "start": 46112,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 46494,
+    "label": "ORG",
+    "start": 46491,
+    "text": "JER"
+  },
+  {
+    "end": 47260,
+    "label": "PER",
+    "start": 47257,
+    "text": "Paz"
+  },
+  {
+    "end": 47950,
+    "label": "MISC",
+    "start": 47942,
+    "text": "Amarillo"
+  },
+  {
+    "end": 47958,
+    "label": "PER",
+    "start": 47952,
+    "text": "Tronco"
+  },
+  {
+    "end": 48433,
+    "label": "MISC",
+    "start": 48430,
+    "text": "JER"
+  },
+  {
+    "end": 48978,
+    "label": "ORG",
+    "start": 48975,
+    "text": "JER"
+  },
+  {
+    "end": 49058,
+    "label": "LOC",
+    "start": 49050,
+    "text": "Colombia"
+  },
+  {
+    "end": 50811,
+    "label": "PER",
+    "start": 50805,
+    "text": "Rosado"
+  },
+  {
+    "end": 50819,
+    "label": "PER",
+    "start": 50813,
+    "text": "Frutos"
+  },
+  {
+    "end": 50849,
+    "label": "MISC",
+    "start": 50846,
+    "text": "JER"
+  },
+  {
+    "end": 51670,
+    "label": "MISC",
+    "start": 51667,
+    "text": "JER"
+  },
+  {
+    "end": 51910,
+    "label": "ORG",
+    "start": 51907,
+    "text": "JER"
+  },
+  {
+    "end": 52340,
+    "label": "MISC",
+    "start": 52337,
+    "text": "JER"
+  },
+  {
+    "end": 52516,
+    "label": "MISC",
+    "start": 52507,
+    "text": "Conflicto"
+  },
+  {
+    "end": 52526,
+    "label": "MISC",
+    "start": 52518,
+    "text": "Abstract"
+  },
+  {
+    "end": 52570,
+    "label": "PER",
+    "start": 52565,
+    "text": "Karen"
+  },
+  {
+    "end": 52611,
+    "label": "PER",
+    "start": 52606,
+    "text": "Surai"
+  },
+  {
+    "end": 52724,
+    "label": "MISC",
+    "start": 52712,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 52737,
+    "label": "MISC",
+    "start": 52726,
+    "text": "Orientación"
+  },
+  {
+    "end": 52779,
+    "label": "MISC",
+    "start": 52770,
+    "text": "Conductas"
+  },
+  {
+    "end": 52842,
+    "label": "PER",
+    "start": 52837,
+    "text": "Savai"
+  },
+  {
+    "end": 52855,
+    "label": "PER",
+    "start": 52850,
+    "text": "Karen"
+  },
+  {
+    "end": 53010,
+    "label": "MISC",
+    "start": 52997,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 53024,
+    "label": "MISC",
+    "start": 53012,
+    "text": "Complicación"
+  },
+  {
+    "end": 53042,
+    "label": "PER",
+    "start": 53035,
+    "text": "Códabas"
+  },
+  {
+    "end": 53049,
+    "label": "PER",
+    "start": 53044,
+    "text": "Sarai"
+  },
+  {
+    "end": 53097,
+    "label": "PER",
+    "start": 53092,
+    "text": "Karen"
+  },
+  {
+    "end": 53105,
+    "label": "PER",
+    "start": 53100,
+    "text": "Karen"
+  },
+  {
+    "end": 53148,
+    "label": "PER",
+    "start": 53143,
+    "text": "Sarai"
+  },
+  {
+    "end": 53174,
+    "label": "LOC",
+    "start": 53165,
+    "text": "Venezuela"
+  },
+  {
+    "end": 53181,
+    "label": "PER",
+    "start": 53176,
+    "text": "Sarai"
+  },
+  {
+    "end": 53194,
+    "label": "PER",
+    "start": 53189,
+    "text": "Karen"
+  },
+  {
+    "end": 53327,
+    "label": "MISC",
+    "start": 53309,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 53339,
+    "label": "MISC",
+    "start": 53329,
+    "text": "Evaluación"
+  },
+  {
+    "end": 54361,
+    "label": "PER",
+    "start": 54356,
+    "text": "Karen"
+  },
+  {
+    "end": 54486,
+    "label": "PER",
+    "start": 54481,
+    "text": "Karen"
+  },
+  {
+    "end": 54591,
+    "label": "MISC",
+    "start": 54580,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 54597,
+    "label": "MISC",
+    "start": 54593,
+    "text": "Coda"
+  },
+  {
+    "end": 54722,
+    "label": "PER",
+    "start": 54717,
+    "text": "Karen"
+  },
+  {
+    "end": 55051,
+    "label": "MISC",
+    "start": 55042,
+    "text": "Conflicto"
+  },
+  {
+    "end": 55061,
+    "label": "MISC",
+    "start": 55053,
+    "text": "Abstract"
+  },
+  {
+    "end": 55238,
+    "label": "LOC",
+    "start": 55229,
+    "text": "Venezuela"
+  },
+  {
+    "end": 55346,
+    "label": "MISC",
+    "start": 55335,
+    "text": "Orientación"
+  },
+  {
+    "end": 55747,
+    "label": "MISC",
+    "start": 55729,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 55759,
+    "label": "MISC",
+    "start": 55749,
+    "text": "Evaluación"
+  },
+  {
+    "end": 56266,
+    "label": "MISC",
+    "start": 56256,
+    "text": "Resolución"
+  },
+  {
+    "end": 56274,
+    "label": "PER",
+    "start": 56268,
+    "text": "Estudi"
+  },
+  {
+    "end": 56624,
+    "label": "MISC",
+    "start": 56613,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 56630,
+    "label": "MISC",
+    "start": 56626,
+    "text": "Coda"
+  },
+  {
+    "end": 56922,
+    "label": "MISC",
+    "start": 56903,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 56948,
+    "label": "ORG",
+    "start": 56927,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 57509,
+    "label": "MISC",
+    "start": 57503,
+    "text": "Tronco"
+  },
+  {
+    "end": 58457,
+    "label": "PER",
+    "start": 58451,
+    "text": "Rosado"
+  },
+  {
+    "end": 58465,
+    "label": "PER",
+    "start": 58459,
+    "text": "Frutos"
+  },
+  {
+    "end": 58495,
+    "label": "MISC",
+    "start": 58492,
+    "text": "JER"
+  },
+  {
+    "end": 59029,
+    "label": "MISC",
+    "start": 59020,
+    "text": "Conflicto"
+  },
+  {
+    "end": 59039,
+    "label": "MISC",
+    "start": 59031,
+    "text": "Abstract"
+  },
+  {
+    "end": 59059,
+    "label": "PER",
+    "start": 59041,
+    "text": "Rumores \nAlejandra"
+  },
+  {
+    "end": 59069,
+    "label": "PER",
+    "start": 59062,
+    "text": "Luciana"
+  },
+  {
+    "end": 59157,
+    "label": "MISC",
+    "start": 59146,
+    "text": "Orientación"
+  },
+  {
+    "end": 59389,
+    "label": "PER",
+    "start": 59380,
+    "text": "Groserías"
+  },
+  {
+    "end": 59419,
+    "label": "PER",
+    "start": 59410,
+    "text": "Alejandra"
+  },
+  {
+    "end": 59481,
+    "label": "PER",
+    "start": 59474,
+    "text": "Luciana"
+  },
+  {
+    "end": 59527,
+    "label": "MISC",
+    "start": 59509,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 59539,
+    "label": "MISC",
+    "start": 59529,
+    "text": "Evaluación"
+  },
+  {
+    "end": 59550,
+    "label": "PER",
+    "start": 59541,
+    "text": "Alejandra"
+  },
+  {
+    "end": 59623,
+    "label": "PER",
+    "start": 59616,
+    "text": "Luciana"
+  },
+  {
+    "end": 60307,
+    "label": "MISC",
+    "start": 60296,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 60313,
+    "label": "MISC",
+    "start": 60309,
+    "text": "Coda"
+  },
+  {
+    "end": 60765,
+    "label": "MISC",
+    "start": 60756,
+    "text": "Conflicto"
+  },
+  {
+    "end": 60775,
+    "label": "MISC",
+    "start": 60767,
+    "text": "Abstract"
+  },
+  {
+    "end": 60875,
+    "label": "MISC",
+    "start": 60868,
+    "text": "Mujeres"
+  },
+  {
+    "end": 61109,
+    "label": "MISC",
+    "start": 61098,
+    "text": "Orientación"
+  },
+  {
+    "end": 61534,
+    "label": "PER",
+    "start": 61521,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 61919,
+    "label": "MISC",
+    "start": 61901,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 61931,
+    "label": "MISC",
+    "start": 61921,
+    "text": "Evaluación"
+  },
+  {
+    "end": 62391,
+    "label": "MISC",
+    "start": 62381,
+    "text": "Resolución"
+  },
+  {
+    "end": 62548,
+    "label": "MISC",
+    "start": 62537,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 62554,
+    "label": "MISC",
+    "start": 62550,
+    "text": "Coda"
+  },
+  {
+    "end": 62847,
+    "label": "ORG",
+    "start": 62826,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 62977,
+    "label": "MISC",
+    "start": 62971,
+    "text": "Tronco"
+  },
+  {
+    "end": 63274,
+    "label": "PER",
+    "start": 63268,
+    "text": "Rosado"
+  },
+  {
+    "end": 63282,
+    "label": "PER",
+    "start": 63276,
+    "text": "Frutos"
+  },
+  {
+    "end": 63312,
+    "label": "MISC",
+    "start": 63309,
+    "text": "JER"
+  },
+  {
+    "end": 63471,
+    "label": "MISC",
+    "start": 63462,
+    "text": "Conflicto"
+  },
+  {
+    "end": 63481,
+    "label": "MISC",
+    "start": 63473,
+    "text": "Abstract"
+  },
+  {
+    "end": 63596,
+    "label": "PER",
+    "start": 63590,
+    "text": "Felipe"
+  },
+  {
+    "end": 63738,
+    "label": "MISC",
+    "start": 63726,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 63751,
+    "label": "MISC",
+    "start": 63740,
+    "text": "Orientación"
+  },
+  {
+    "end": 64001,
+    "label": "PER",
+    "start": 63995,
+    "text": "Felipe"
+  },
+  {
+    "end": 64134,
+    "label": "MISC",
+    "start": 64116,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 64146,
+    "label": "MISC",
+    "start": 64136,
+    "text": "Evaluación"
+  },
+  {
+    "end": 64738,
+    "label": "MISC",
+    "start": 64727,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 64744,
+    "label": "MISC",
+    "start": 64740,
+    "text": "Coda"
+  },
+  {
+    "end": 65069,
+    "label": "MISC",
+    "start": 65060,
+    "text": "Conflicto"
+  },
+  {
+    "end": 65079,
+    "label": "MISC",
+    "start": 65071,
+    "text": "Abstract"
+  },
+  {
+    "end": 65121,
+    "label": "MISC",
+    "start": 65110,
+    "text": "Orientación"
+  },
+  {
+    "end": 65189,
+    "label": "MISC",
+    "start": 65171,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 65201,
+    "label": "MISC",
+    "start": 65191,
+    "text": "Evaluación"
+  },
+  {
+    "end": 65263,
+    "label": "MISC",
+    "start": 65252,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 65269,
+    "label": "MISC",
+    "start": 65265,
+    "text": "Coda"
+  },
+  {
+    "end": 65317,
+    "label": "ORG",
+    "start": 65296,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 66376,
+    "label": "MISC",
+    "start": 66370,
+    "text": "Tronco"
+  },
+  {
+    "end": 67053,
+    "label": "PER",
+    "start": 67040,
+    "text": "Camilo Torres"
+  },
+  {
+    "end": 68130,
+    "label": "PER",
+    "start": 68117,
+    "text": "Camilo Torres"
+  },
+  {
+    "end": 68374,
+    "label": "PER",
+    "start": 68368,
+    "text": "Rosado"
+  },
+  {
+    "end": 68382,
+    "label": "PER",
+    "start": 68376,
+    "text": "Frutos"
+  },
+  {
+    "end": 68412,
+    "label": "MISC",
+    "start": 68409,
+    "text": "JER"
+  },
+  {
+    "end": 69217,
+    "label": "ORG",
+    "start": 69214,
+    "text": "JER"
+  },
+  {
+    "end": 69504,
+    "label": "MISC",
+    "start": 69495,
+    "text": "Conflicto"
+  },
+  {
+    "end": 69514,
+    "label": "MISC",
+    "start": 69506,
+    "text": "Abstract"
+  },
+  {
+    "end": 69529,
+    "label": "MISC",
+    "start": 69516,
+    "text": "Ciberbullying"
+  },
+  {
+    "end": 69647,
+    "label": "PER",
+    "start": 69624,
+    "text": "Curtiendo Camilo Torres"
+  },
+  {
+    "end": 69847,
+    "label": "MISC",
+    "start": 69835,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 69860,
+    "label": "MISC",
+    "start": 69849,
+    "text": "Orientación"
+  },
+  {
+    "end": 69870,
+    "label": "MISC",
+    "start": 69862,
+    "text": "Bullying"
+  },
+  {
+    "end": 70290,
+    "label": "PER",
+    "start": 70277,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 70561,
+    "label": "MISC",
+    "start": 70543,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 70573,
+    "label": "MISC",
+    "start": 70563,
+    "text": "Evaluación"
+  },
+  {
+    "end": 71586,
+    "label": "MISC",
+    "start": 71575,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 71592,
+    "label": "MISC",
+    "start": 71588,
+    "text": "Coda"
+  },
+  {
+    "end": 71750,
+    "label": "MISC",
+    "start": 71741,
+    "text": "Conflicto"
+  },
+  {
+    "end": 71760,
+    "label": "MISC",
+    "start": 71752,
+    "text": "Abstract"
+  },
+  {
+    "end": 71802,
+    "label": "MISC",
+    "start": 71791,
+    "text": "Orientación"
+  },
+  {
+    "end": 71870,
+    "label": "MISC",
+    "start": 71852,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 71882,
+    "label": "MISC",
+    "start": 71872,
+    "text": "Evaluación"
+  },
+  {
+    "end": 71944,
+    "label": "MISC",
+    "start": 71933,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 71950,
+    "label": "MISC",
+    "start": 71946,
+    "text": "Coda"
+  },
+  {
+    "end": 71998,
+    "label": "ORG",
+    "start": 71977,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 72638,
+    "label": "MISC",
+    "start": 72632,
+    "text": "Tronco"
+  },
+  {
+    "end": 74318,
+    "label": "PER",
+    "start": 74312,
+    "text": "Rosado"
+  },
+  {
+    "end": 74326,
+    "label": "PER",
+    "start": 74320,
+    "text": "Frutos"
+  },
+  {
+    "end": 74356,
+    "label": "MISC",
+    "start": 74353,
+    "text": "JER"
+  },
+  {
+    "end": 74542,
+    "label": "LOC",
+    "start": 74530,
+    "text": "colegio Juan"
+  },
+  {
+    "end": 75061,
+    "label": "MISC",
+    "start": 75052,
+    "text": "Conflicto"
+  },
+  {
+    "end": 75071,
+    "label": "MISC",
+    "start": 75063,
+    "text": "Abstract"
+  },
+  {
+    "end": 75079,
+    "label": "PER",
+    "start": 75073,
+    "text": "Ramona"
+  },
+  {
+    "end": 75109,
+    "label": "PER",
+    "start": 75101,
+    "text": "Florinda"
+  },
+  {
+    "end": 75118,
+    "label": "PER",
+    "start": 75112,
+    "text": "Yurany"
+  },
+  {
+    "end": 75165,
+    "label": "PER",
+    "start": 75157,
+    "text": "Florinda"
+  },
+  {
+    "end": 75199,
+    "label": "PER",
+    "start": 75193,
+    "text": "Yurany"
+  },
+  {
+    "end": 75228,
+    "label": "MISC",
+    "start": 75216,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 75241,
+    "label": "MISC",
+    "start": 75230,
+    "text": "Orientación"
+  },
+  {
+    "end": 75288,
+    "label": "LOC",
+    "start": 75262,
+    "text": "colegio Juan Pedrito Gómez"
+  },
+  {
+    "end": 75297,
+    "label": "PER",
+    "start": 75291,
+    "text": "Jurany"
+  },
+  {
+    "end": 75308,
+    "label": "PER",
+    "start": 75300,
+    "text": "Florinda"
+  },
+  {
+    "end": 75412,
+    "label": "PER",
+    "start": 75399,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 75465,
+    "label": "PER",
+    "start": 75459,
+    "text": "Jurany"
+  },
+  {
+    "end": 75485,
+    "label": "PER",
+    "start": 75477,
+    "text": "Florinda"
+  },
+  {
+    "end": 75511,
+    "label": "PER",
+    "start": 75505,
+    "text": "Jurany"
+  },
+  {
+    "end": 75625,
+    "label": "PER",
+    "start": 75617,
+    "text": "Florinda"
+  },
+  {
+    "end": 75723,
+    "label": "MISC",
+    "start": 75705,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 75735,
+    "label": "MISC",
+    "start": 75725,
+    "text": "Evaluación"
+  },
+  {
+    "end": 75745,
+    "label": "PER",
+    "start": 75737,
+    "text": "Florinda"
+  },
+  {
+    "end": 75754,
+    "label": "PER",
+    "start": 75748,
+    "text": "Jurany"
+  },
+  {
+    "end": 75820,
+    "label": "PER",
+    "start": 75814,
+    "text": "Ramona"
+  },
+  {
+    "end": 76137,
+    "label": "MISC",
+    "start": 76126,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 76143,
+    "label": "MISC",
+    "start": 76139,
+    "text": "Coda"
+  },
+  {
+    "end": 76593,
+    "label": "MISC",
+    "start": 76584,
+    "text": "Conflicto"
+  },
+  {
+    "end": 76603,
+    "label": "MISC",
+    "start": 76595,
+    "text": "Abstract"
+  },
+  {
+    "end": 76623,
+    "label": "MISC",
+    "start": 76605,
+    "text": "Rumores \nSamantha-"
+  },
+  {
+    "end": 76644,
+    "label": "PER",
+    "start": 76636,
+    "text": "Xiomara-"
+  },
+  {
+    "end": 76701,
+    "label": "PER",
+    "start": 76694,
+    "text": "Xiomara"
+  },
+  {
+    "end": 76759,
+    "label": "MISC",
+    "start": 76748,
+    "text": "Orientación"
+  },
+  {
+    "end": 76790,
+    "label": "PER",
+    "start": 76773,
+    "text": "Juancho- Facebook"
+  },
+  {
+    "end": 76812,
+    "label": "PER",
+    "start": 76805,
+    "text": "Xiomara"
+  },
+  {
+    "end": 76866,
+    "label": "PER",
+    "start": 76858,
+    "text": "Samantha"
+  },
+  {
+    "end": 77055,
+    "label": "PER",
+    "start": 77047,
+    "text": "Samantha"
+  },
+  {
+    "end": 77097,
+    "label": "PER",
+    "start": 77090,
+    "text": "Xiomara"
+  },
+  {
+    "end": 77162,
+    "label": "MISC",
+    "start": 77144,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 77174,
+    "label": "MISC",
+    "start": 77164,
+    "text": "Evaluación"
+  },
+  {
+    "end": 77450,
+    "label": "LOC",
+    "start": 77435,
+    "text": "colegio \nSepara"
+  },
+  {
+    "end": 77709,
+    "label": "MISC",
+    "start": 77698,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 77715,
+    "label": "MISC",
+    "start": 77711,
+    "text": "Coda"
+  },
+  {
+    "end": 78062,
+    "label": "ORG",
+    "start": 78041,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 79836,
+    "label": "MISC",
+    "start": 79830,
+    "text": "Tronco"
+  },
+  {
+    "end": 80485,
+    "label": "MISC",
+    "start": 80477,
+    "text": "Comisión"
+  },
+  {
+    "end": 81152,
+    "label": "LOC",
+    "start": 81144,
+    "text": "Colombia"
+  },
+  {
+    "end": 81224,
+    "label": "LOC",
+    "start": 81216,
+    "text": "Colombia"
+  },
+  {
+    "end": 83007,
+    "label": "MISC",
+    "start": 83003,
+    "text": "PRAE"
+  },
+  {
+    "end": 83707,
+    "label": "PER",
+    "start": 83701,
+    "text": "Rosado"
+  },
+  {
+    "end": 83715,
+    "label": "PER",
+    "start": 83709,
+    "text": "Frutos"
+  },
+  {
+    "end": 83745,
+    "label": "MISC",
+    "start": 83742,
+    "text": "JER"
+  },
+  {
+    "end": 84354,
+    "label": "ORG",
+    "start": 84351,
+    "text": "JER"
+  },
+  {
+    "end": 84440,
+    "label": "LOC",
+    "start": 84424,
+    "text": "colegio “Juancho"
+  },
+  {
+    "end": 85365,
+    "label": "MISC",
+    "start": 85356,
+    "text": "Conflicto"
+  },
+  {
+    "end": 85375,
+    "label": "MISC",
+    "start": 85367,
+    "text": "Abstract"
+  },
+  {
+    "end": 85583,
+    "label": "MISC",
+    "start": 85572,
+    "text": "Orientación"
+  },
+  {
+    "end": 85794,
+    "label": "PER",
+    "start": 85781,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 85922,
+    "label": "MISC",
+    "start": 85904,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 85934,
+    "label": "MISC",
+    "start": 85924,
+    "text": "Evaluación"
+  },
+  {
+    "end": 85965,
+    "label": "PER",
+    "start": 85960,
+    "text": "Rabia"
+  },
+  {
+    "end": 86551,
+    "label": "MISC",
+    "start": 86540,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 86557,
+    "label": "MISC",
+    "start": 86553,
+    "text": "Coda"
+  },
+  {
+    "end": 86852,
+    "label": "MISC",
+    "start": 86843,
+    "text": "Conflicto"
+  },
+  {
+    "end": 86862,
+    "label": "MISC",
+    "start": 86854,
+    "text": "Abstract"
+  },
+  {
+    "end": 86972,
+    "label": "PER",
+    "start": 86966,
+    "text": "Julian"
+  },
+  {
+    "end": 87053,
+    "label": "MISC",
+    "start": 87042,
+    "text": "Orientación"
+  },
+  {
+    "end": 87423,
+    "label": "PER",
+    "start": 87410,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 87806,
+    "label": "MISC",
+    "start": 87788,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 88482,
+    "label": "MISC",
+    "start": 88471,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 88488,
+    "label": "MISC",
+    "start": 88484,
+    "text": "Coda"
+  },
+  {
+    "end": 88920,
+    "label": "ORG",
+    "start": 88899,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 90316,
+    "label": "MISC",
+    "start": 90310,
+    "text": "Tronco"
+  },
+  {
+    "end": 91546,
+    "label": "PER",
+    "start": 91533,
+    "text": "Pablo Escobar"
+  },
+  {
+    "end": 93183,
+    "label": "PER",
+    "start": 93177,
+    "text": "Rosado"
+  },
+  {
+    "end": 93191,
+    "label": "PER",
+    "start": 93185,
+    "text": "Frutos"
+  },
+  {
+    "end": 93221,
+    "label": "MISC",
+    "start": 93218,
+    "text": "JER"
+  },
+  {
+    "end": 93978,
+    "label": "MISC",
+    "start": 93969,
+    "text": "Conflicto"
+  },
+  {
+    "end": 93988,
+    "label": "MISC",
+    "start": 93980,
+    "text": "Abstract"
+  },
+  {
+    "end": 94055,
+    "label": "PER",
+    "start": 94051,
+    "text": "Sara"
+  },
+  {
+    "end": 94084,
+    "label": "PER",
+    "start": 94075,
+    "text": "Alexandra"
+  },
+  {
+    "end": 94184,
+    "label": "MISC",
+    "start": 94173,
+    "text": "Orientación"
+  },
+  {
+    "end": 94229,
+    "label": "PER",
+    "start": 94225,
+    "text": "Sara"
+  },
+  {
+    "end": 94237,
+    "label": "PER",
+    "start": 94232,
+    "text": "Sofía"
+  },
+  {
+    "end": 94257,
+    "label": "PER",
+    "start": 94252,
+    "text": "Alexa"
+  },
+  {
+    "end": 94268,
+    "label": "PER",
+    "start": 94260,
+    "text": "Fernanda"
+  },
+  {
+    "end": 94417,
+    "label": "PER",
+    "start": 94408,
+    "text": "Alexandra"
+  },
+  {
+    "end": 94428,
+    "label": "PER",
+    "start": 94420,
+    "text": "Fernanda"
+  },
+  {
+    "end": 94441,
+    "label": "PER",
+    "start": 94437,
+    "text": "Sara"
+  },
+  {
+    "end": 94449,
+    "label": "PER",
+    "start": 94444,
+    "text": "Sofía"
+  },
+  {
+    "end": 94507,
+    "label": "MISC",
+    "start": 94489,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 94531,
+    "label": "MISC",
+    "start": 94521,
+    "text": "Adrenalina"
+  },
+  {
+    "end": 95169,
+    "label": "MISC",
+    "start": 95158,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 95175,
+    "label": "MISC",
+    "start": 95171,
+    "text": "Coda"
+  },
+  {
+    "end": 95488,
+    "label": "MISC",
+    "start": 95479,
+    "text": "Conflicto"
+  },
+  {
+    "end": 95498,
+    "label": "MISC",
+    "start": 95490,
+    "text": "Abstract"
+  },
+  {
+    "end": 95539,
+    "label": "MISC",
+    "start": 95528,
+    "text": "Orientación"
+  },
+  {
+    "end": 95605,
+    "label": "MISC",
+    "start": 95587,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 95617,
+    "label": "MISC",
+    "start": 95607,
+    "text": "Evaluación"
+  },
+  {
+    "end": 95677,
+    "label": "MISC",
+    "start": 95666,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 95683,
+    "label": "MISC",
+    "start": 95679,
+    "text": "Coda"
+  },
+  {
+    "end": 95704,
+    "label": "MISC",
+    "start": 95685,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 95730,
+    "label": "ORG",
+    "start": 95709,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 96339,
+    "label": "MISC",
+    "start": 96333,
+    "text": "Tronco"
+  },
+  {
+    "end": 98672,
+    "label": "PER",
+    "start": 98666,
+    "text": "Rosado"
+  },
+  {
+    "end": 98680,
+    "label": "PER",
+    "start": 98674,
+    "text": "Frutos"
+  },
+  {
+    "end": 98710,
+    "label": "MISC",
+    "start": 98707,
+    "text": "JER"
+  },
+  {
+    "end": 99659,
+    "label": "MISC",
+    "start": 99650,
+    "text": "Conflicto"
+  },
+  {
+    "end": 99669,
+    "label": "MISC",
+    "start": 99661,
+    "text": "Abstract"
+  },
+  {
+    "end": 99839,
+    "label": "MISC",
+    "start": 99827,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 99852,
+    "label": "MISC",
+    "start": 99841,
+    "text": "Orientación"
+  },
+  {
+    "end": 100008,
+    "label": "PER",
+    "start": 99995,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 100129,
+    "label": "MISC",
+    "start": 100111,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 100141,
+    "label": "MISC",
+    "start": 100131,
+    "text": "Evaluación"
+  },
+  {
+    "end": 100630,
+    "label": "MISC",
+    "start": 100619,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 100636,
+    "label": "MISC",
+    "start": 100632,
+    "text": "Coda"
+  },
+  {
+    "end": 100904,
+    "label": "MISC",
+    "start": 100895,
+    "text": "Conflicto"
+  },
+  {
+    "end": 100914,
+    "label": "MISC",
+    "start": 100906,
+    "text": "Abstract"
+  },
+  {
+    "end": 100955,
+    "label": "MISC",
+    "start": 100944,
+    "text": "Orientación"
+  },
+  {
+    "end": 101021,
+    "label": "MISC",
+    "start": 101003,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 101033,
+    "label": "MISC",
+    "start": 101023,
+    "text": "Evaluación"
+  },
+  {
+    "end": 101093,
+    "label": "MISC",
+    "start": 101082,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 101099,
+    "label": "MISC",
+    "start": 101095,
+    "text": "Coda"
+  },
+  {
+    "end": 101120,
+    "label": "MISC",
+    "start": 101101,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 101146,
+    "label": "ORG",
+    "start": 101125,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 101295,
+    "label": "MISC",
+    "start": 101289,
+    "text": "Hermes"
+  },
+  {
+    "end": 101802,
+    "label": "MISC",
+    "start": 101796,
+    "text": "Hermes"
+  },
+  {
+    "end": 101987,
+    "label": "MISC",
+    "start": 101981,
+    "text": "Tronco"
+  },
+  {
+    "end": 102197,
+    "label": "LOC",
+    "start": 102189,
+    "text": "Colombia"
+  },
+  {
+    "end": 102257,
+    "label": "LOC",
+    "start": 102249,
+    "text": "Colombia"
+  },
+  {
+    "end": 103408,
+    "label": "PER",
+    "start": 103402,
+    "text": "Rosado"
+  },
+  {
+    "end": 103416,
+    "label": "PER",
+    "start": 103410,
+    "text": "Frutos"
+  },
+  {
+    "end": 103446,
+    "label": "MISC",
+    "start": 103443,
+    "text": "JER"
+  },
+  {
+    "end": 104031,
+    "label": "MISC",
+    "start": 104022,
+    "text": "Conflicto"
+  },
+  {
+    "end": 104041,
+    "label": "MISC",
+    "start": 104033,
+    "text": "Abstract"
+  },
+  {
+    "end": 104064,
+    "label": "PER",
+    "start": 104055,
+    "text": "Francisco"
+  },
+  {
+    "end": 104182,
+    "label": "MISC",
+    "start": 104170,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 104195,
+    "label": "MISC",
+    "start": 104184,
+    "text": "Orientación"
+  },
+  {
+    "end": 104355,
+    "label": "PER",
+    "start": 104342,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 104552,
+    "label": "MISC",
+    "start": 104534,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 104635,
+    "label": "PER",
+    "start": 104630,
+    "text": "Profe"
+  },
+  {
+    "end": 105334,
+    "label": "MISC",
+    "start": 105323,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 105340,
+    "label": "MISC",
+    "start": 105336,
+    "text": "Coda"
+  },
+  {
+    "end": 105814,
+    "label": "MISC",
+    "start": 105805,
+    "text": "Conflicto"
+  },
+  {
+    "end": 105824,
+    "label": "MISC",
+    "start": 105816,
+    "text": "Abstract"
+  },
+  {
+    "end": 105865,
+    "label": "MISC",
+    "start": 105854,
+    "text": "Orientación"
+  },
+  {
+    "end": 105931,
+    "label": "MISC",
+    "start": 105913,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 105943,
+    "label": "MISC",
+    "start": 105933,
+    "text": "Evaluación"
+  },
+  {
+    "end": 106003,
+    "label": "MISC",
+    "start": 105992,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 106009,
+    "label": "MISC",
+    "start": 106005,
+    "text": "Coda"
+  },
+  {
+    "end": 106030,
+    "label": "MISC",
+    "start": 106011,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 106056,
+    "label": "ORG",
+    "start": 106035,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 106309,
+    "label": "PER",
+    "start": 106303,
+    "text": "Hermes"
+  },
+  {
+    "end": 106380,
+    "label": "PER",
+    "start": 106374,
+    "text": "Hermes"
+  },
+  {
+    "end": 106525,
+    "label": "MISC",
+    "start": 106519,
+    "text": "Hermes"
+  },
+  {
+    "end": 106670,
+    "label": "MISC",
+    "start": 106664,
+    "text": "Hermes"
+  },
+  {
+    "end": 106725,
+    "label": "MISC",
+    "start": 106719,
+    "text": "Tronco"
+  },
+  {
+    "end": 107149,
+    "label": "LOC",
+    "start": 107143,
+    "text": "Bogotá"
+  },
+  {
+    "end": 107196,
+    "label": "LOC",
+    "start": 107188,
+    "text": "Colombia"
+  },
+  {
+    "end": 107776,
+    "label": "MISC",
+    "start": 107768,
+    "text": "Biología"
+  },
+  {
+    "end": 107858,
+    "label": "PER",
+    "start": 107852,
+    "text": "Rosado"
+  },
+  {
+    "end": 107866,
+    "label": "PER",
+    "start": 107860,
+    "text": "Frutos"
+  },
+  {
+    "end": 107896,
+    "label": "MISC",
+    "start": 107893,
+    "text": "JER"
+  },
+  {
+    "end": 108531,
+    "label": "MISC",
+    "start": 108525,
+    "text": "Hermes"
+  },
+  {
+    "end": 108663,
+    "label": "MISC",
+    "start": 108654,
+    "text": "Conflicto"
+  },
+  {
+    "end": 108673,
+    "label": "MISC",
+    "start": 108665,
+    "text": "Abstract"
+  },
+  {
+    "end": 108700,
+    "label": "PER",
+    "start": 108696,
+    "text": "Juan"
+  },
+  {
+    "end": 108739,
+    "label": "PER",
+    "start": 108732,
+    "text": "Natalia"
+  },
+  {
+    "end": 108806,
+    "label": "PER",
+    "start": 108800,
+    "text": "Andrea"
+  },
+  {
+    "end": 108854,
+    "label": "MISC",
+    "start": 108842,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 108867,
+    "label": "MISC",
+    "start": 108856,
+    "text": "Orientación"
+  },
+  {
+    "end": 108876,
+    "label": "PER",
+    "start": 108869,
+    "text": "Natalia"
+  },
+  {
+    "end": 108885,
+    "label": "PER",
+    "start": 108879,
+    "text": "Andrea"
+  },
+  {
+    "end": 108941,
+    "label": "PER",
+    "start": 108934,
+    "text": "Natalia"
+  },
+  {
+    "end": 108992,
+    "label": "PER",
+    "start": 108986,
+    "text": "Andrea"
+  },
+  {
+    "end": 109049,
+    "label": "PER",
+    "start": 109042,
+    "text": "Natalia"
+  },
+  {
+    "end": 109066,
+    "label": "LOC",
+    "start": 109059,
+    "text": "Palermo"
+  },
+  {
+    "end": 109075,
+    "label": "PER",
+    "start": 109069,
+    "text": "Andrea"
+  },
+  {
+    "end": 109085,
+    "label": "LOC",
+    "start": 109079,
+    "text": "Aurora"
+  },
+  {
+    "end": 109115,
+    "label": "MISC",
+    "start": 109102,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 109129,
+    "label": "MISC",
+    "start": 109117,
+    "text": "Complicación"
+  },
+  {
+    "end": 109138,
+    "label": "PER",
+    "start": 109131,
+    "text": "Natalia"
+  },
+  {
+    "end": 109168,
+    "label": "PER",
+    "start": 109164,
+    "text": "Juan"
+  },
+  {
+    "end": 109179,
+    "label": "PER",
+    "start": 109173,
+    "text": "Andrea"
+  },
+  {
+    "end": 109229,
+    "label": "PER",
+    "start": 109222,
+    "text": "Natalia"
+  },
+  {
+    "end": 109246,
+    "label": "PER",
+    "start": 109240,
+    "text": "Andrea"
+  },
+  {
+    "end": 109303,
+    "label": "PER",
+    "start": 109297,
+    "text": "Andrea"
+  },
+  {
+    "end": 109415,
+    "label": "MISC",
+    "start": 109397,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 109710,
+    "label": "PER",
+    "start": 109706,
+    "text": "Juan"
+  },
+  {
+    "end": 110198,
+    "label": "MISC",
+    "start": 110192,
+    "text": "Hermes"
+  },
+  {
+    "end": 110242,
+    "label": "MISC",
+    "start": 110231,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 110248,
+    "label": "MISC",
+    "start": 110244,
+    "text": "Coda"
+  },
+  {
+    "end": 110330,
+    "label": "PER",
+    "start": 110326,
+    "text": "Juan"
+  },
+  {
+    "end": 110629,
+    "label": "PER",
+    "start": 110623,
+    "text": "Andrea"
+  },
+  {
+    "end": 110773,
+    "label": "MISC",
+    "start": 110764,
+    "text": "Conflicto"
+  },
+  {
+    "end": 110783,
+    "label": "MISC",
+    "start": 110775,
+    "text": "Abstract"
+  },
+  {
+    "end": 110824,
+    "label": "MISC",
+    "start": 110813,
+    "text": "Orientación"
+  },
+  {
+    "end": 110890,
+    "label": "MISC",
+    "start": 110872,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 110902,
+    "label": "MISC",
+    "start": 110892,
+    "text": "Evaluación"
+  },
+  {
+    "end": 110962,
+    "label": "MISC",
+    "start": 110951,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 110968,
+    "label": "MISC",
+    "start": 110964,
+    "text": "Coda"
+  },
+  {
+    "end": 110989,
+    "label": "MISC",
+    "start": 110970,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 111015,
+    "label": "ORG",
+    "start": 110994,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 112350,
+    "label": "MISC",
+    "start": 112344,
+    "text": "Tronco"
+  },
+  {
+    "end": 112824,
+    "label": "PER",
+    "start": 112821,
+    "text": "Ana"
+  },
+  {
+    "end": 114003,
+    "label": "PER",
+    "start": 113997,
+    "text": "Rosado"
+  },
+  {
+    "end": 114011,
+    "label": "PER",
+    "start": 114005,
+    "text": "Frutos"
+  },
+  {
+    "end": 114041,
+    "label": "MISC",
+    "start": 114038,
+    "text": "JER"
+  },
+  {
+    "end": 114764,
+    "label": "MISC",
+    "start": 114755,
+    "text": "Conflicto"
+  },
+  {
+    "end": 114774,
+    "label": "MISC",
+    "start": 114766,
+    "text": "Abstract"
+  },
+  {
+    "end": 115179,
+    "label": "MISC",
+    "start": 115168,
+    "text": "Orientación"
+  },
+  {
+    "end": 115223,
+    "label": "MISC",
+    "start": 115220,
+    "text": "IED"
+  },
+  {
+    "end": 115574,
+    "label": "MISC",
+    "start": 115556,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 115586,
+    "label": "MISC",
+    "start": 115576,
+    "text": "Evaluación"
+  },
+  {
+    "end": 116528,
+    "label": "MISC",
+    "start": 116517,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 116534,
+    "label": "MISC",
+    "start": 116530,
+    "text": "Coda"
+  },
+  {
+    "end": 117111,
+    "label": "MISC",
+    "start": 117102,
+    "text": "Conflicto"
+  },
+  {
+    "end": 117121,
+    "label": "MISC",
+    "start": 117113,
+    "text": "Abstract"
+  },
+  {
+    "end": 117162,
+    "label": "MISC",
+    "start": 117151,
+    "text": "Orientación"
+  },
+  {
+    "end": 117228,
+    "label": "MISC",
+    "start": 117210,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 117240,
+    "label": "MISC",
+    "start": 117230,
+    "text": "Evaluación"
+  },
+  {
+    "end": 117300,
+    "label": "MISC",
+    "start": 117289,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 117306,
+    "label": "MISC",
+    "start": 117302,
+    "text": "Coda"
+  },
+  {
+    "end": 117327,
+    "label": "MISC",
+    "start": 117308,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 117353,
+    "label": "ORG",
+    "start": 117332,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 117568,
+    "label": "PER",
+    "start": 117562,
+    "text": "Hermes"
+  },
+  {
+    "end": 117812,
+    "label": "PER",
+    "start": 117806,
+    "text": "Hermes"
+  },
+  {
+    "end": 118319,
+    "label": "PER",
+    "start": 118313,
+    "text": "Hermes"
+  },
+  {
+    "end": 118403,
+    "label": "MISC",
+    "start": 118397,
+    "text": "Tronco"
+  },
+  {
+    "end": 119030,
+    "label": "LOC",
+    "start": 119022,
+    "text": "Colombia"
+  },
+  {
+    "end": 119260,
+    "label": "LOC",
+    "start": 119252,
+    "text": "Colombia"
+  },
+  {
+    "end": 121205,
+    "label": "PER",
+    "start": 121199,
+    "text": "Rosado"
+  },
+  {
+    "end": 121213,
+    "label": "PER",
+    "start": 121207,
+    "text": "Frutos"
+  },
+  {
+    "end": 121243,
+    "label": "MISC",
+    "start": 121240,
+    "text": "JER"
+  },
+  {
+    "end": 121991,
+    "label": "MISC",
+    "start": 121982,
+    "text": "Conflicto"
+  },
+  {
+    "end": 122001,
+    "label": "MISC",
+    "start": 121993,
+    "text": "Abstract"
+  },
+  {
+    "end": 122009,
+    "label": "PER",
+    "start": 122003,
+    "text": "Felipe"
+  },
+  {
+    "end": 122064,
+    "label": "PER",
+    "start": 122056,
+    "text": "Santiago"
+  },
+  {
+    "end": 122072,
+    "label": "PER",
+    "start": 122067,
+    "text": "David"
+  },
+  {
+    "end": 122237,
+    "label": "PER",
+    "start": 122231,
+    "text": "Felipe"
+  },
+  {
+    "end": 122294,
+    "label": "MISC",
+    "start": 122283,
+    "text": "Orientación"
+  },
+  {
+    "end": 122334,
+    "label": "PER",
+    "start": 122328,
+    "text": "Felipe"
+  },
+  {
+    "end": 122402,
+    "label": "MISC",
+    "start": 122389,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 122416,
+    "label": "MISC",
+    "start": 122404,
+    "text": "Complicación"
+  },
+  {
+    "end": 122424,
+    "label": "PER",
+    "start": 122418,
+    "text": "Felipe"
+  },
+  {
+    "end": 122630,
+    "label": "PER",
+    "start": 122624,
+    "text": "Felipe"
+  },
+  {
+    "end": 122675,
+    "label": "PER",
+    "start": 122669,
+    "text": "Felipe"
+  },
+  {
+    "end": 122827,
+    "label": "MISC",
+    "start": 122809,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 123302,
+    "label": "PER",
+    "start": 123296,
+    "text": "Felipe"
+  },
+  {
+    "end": 123341,
+    "label": "PER",
+    "start": 123329,
+    "text": "Amigo Felipe"
+  },
+  {
+    "end": 123494,
+    "label": "PER",
+    "start": 123488,
+    "text": "Felipe"
+  },
+  {
+    "end": 123917,
+    "label": "MISC",
+    "start": 123906,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 123923,
+    "label": "MISC",
+    "start": 123919,
+    "text": "Coda"
+  },
+  {
+    "end": 124456,
+    "label": "PER",
+    "start": 124451,
+    "text": "Amigo"
+  },
+  {
+    "end": 124581,
+    "label": "MISC",
+    "start": 124572,
+    "text": "Conflicto"
+  },
+  {
+    "end": 124591,
+    "label": "MISC",
+    "start": 124583,
+    "text": "Abstract"
+  },
+  {
+    "end": 124632,
+    "label": "MISC",
+    "start": 124621,
+    "text": "Orientación"
+  },
+  {
+    "end": 124698,
+    "label": "MISC",
+    "start": 124680,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 124710,
+    "label": "MISC",
+    "start": 124700,
+    "text": "Evaluación"
+  },
+  {
+    "end": 124770,
+    "label": "MISC",
+    "start": 124759,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 124776,
+    "label": "MISC",
+    "start": 124772,
+    "text": "Coda"
+  },
+  {
+    "end": 124797,
+    "label": "MISC",
+    "start": 124778,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 124823,
+    "label": "ORG",
+    "start": 124802,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 124981,
+    "label": "PER",
+    "start": 124975,
+    "text": "Hermes"
+  },
+  {
+    "end": 125463,
+    "label": "PER",
+    "start": 125454,
+    "text": "Tom Adams"
+  },
+  {
+    "end": 125614,
+    "label": "MISC",
+    "start": 125608,
+    "text": "Hermes"
+  },
+  {
+    "end": 125818,
+    "label": "MISC",
+    "start": 125812,
+    "text": "Hermes"
+  },
+  {
+    "end": 126040,
+    "label": "PER",
+    "start": 126031,
+    "text": "Tom Adams"
+  },
+  {
+    "end": 126343,
+    "label": "PER",
+    "start": 126335,
+    "text": "Tom Adam"
+  },
+  {
+    "end": 126557,
+    "label": "MISC",
+    "start": 126551,
+    "text": "Tronco"
+  },
+  {
+    "end": 126932,
+    "label": "PER",
+    "start": 126923,
+    "text": "Tom Adams"
+  },
+  {
+    "end": 127262,
+    "label": "LOC",
+    "start": 127256,
+    "text": "Soacha"
+  },
+  {
+    "end": 128996,
+    "label": "MISC",
+    "start": 128992,
+    "text": "PRAE"
+  },
+  {
+    "end": 129822,
+    "label": "PER",
+    "start": 129816,
+    "text": "Rosado"
+  },
+  {
+    "end": 129830,
+    "label": "PER",
+    "start": 129824,
+    "text": "Frutos"
+  },
+  {
+    "end": 129860,
+    "label": "MISC",
+    "start": 129857,
+    "text": "JER"
+  },
+  {
+    "end": 129978,
+    "label": "ORG",
+    "start": 129975,
+    "text": "JER"
+  },
+  {
+    "end": 130137,
+    "label": "ORG",
+    "start": 130125,
+    "text": "colegio Adam"
+  },
+  {
+    "end": 130593,
+    "label": "PER",
+    "start": 130587,
+    "text": "Hermes"
+  },
+  {
+    "end": 131203,
+    "label": "PER",
+    "start": 131197,
+    "text": "Hermes"
+  },
+  {
+    "end": 131274,
+    "label": "ORG",
+    "start": 131271,
+    "text": "JER"
+  },
+  {
+    "end": 131497,
+    "label": "MISC",
+    "start": 131488,
+    "text": "Conflicto"
+  },
+  {
+    "end": 131507,
+    "label": "MISC",
+    "start": 131499,
+    "text": "Abstract"
+  },
+  {
+    "end": 131514,
+    "label": "PER",
+    "start": 131509,
+    "text": "Emily"
+  },
+  {
+    "end": 131566,
+    "label": "PER",
+    "start": 131561,
+    "text": "Jenny"
+  },
+  {
+    "end": 131574,
+    "label": "PER",
+    "start": 131569,
+    "text": "Maria"
+  },
+  {
+    "end": 131594,
+    "label": "PER",
+    "start": 131589,
+    "text": "Maria"
+  },
+  {
+    "end": 131602,
+    "label": "PER",
+    "start": 131597,
+    "text": "Jenny"
+  },
+  {
+    "end": 131628,
+    "label": "PER",
+    "start": 131623,
+    "text": "Emely"
+  },
+  {
+    "end": 131657,
+    "label": "MISC",
+    "start": 131645,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 131670,
+    "label": "MISC",
+    "start": 131659,
+    "text": "Orientación"
+  },
+  {
+    "end": 131736,
+    "label": "PER",
+    "start": 131731,
+    "text": "Emely"
+  },
+  {
+    "end": 131829,
+    "label": "PER",
+    "start": 131816,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 131922,
+    "label": "PER",
+    "start": 131917,
+    "text": "Emely"
+  },
+  {
+    "end": 131974,
+    "label": "PER",
+    "start": 131969,
+    "text": "Emely"
+  },
+  {
+    "end": 132020,
+    "label": "PER",
+    "start": 132015,
+    "text": "Emely"
+  },
+  {
+    "end": 132169,
+    "label": "MISC",
+    "start": 132151,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 132896,
+    "label": "MISC",
+    "start": 132886,
+    "text": "Resolución"
+  },
+  {
+    "end": 132914,
+    "label": "PER",
+    "start": 132909,
+    "text": "Emily"
+  },
+  {
+    "end": 133131,
+    "label": "MISC",
+    "start": 133120,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 133137,
+    "label": "MISC",
+    "start": 133133,
+    "text": "Coda"
+  },
+  {
+    "end": 133408,
+    "label": "PER",
+    "start": 133403,
+    "text": "Emely"
+  },
+  {
+    "end": 133800,
+    "label": "MISC",
+    "start": 133791,
+    "text": "Conflicto"
+  },
+  {
+    "end": 133810,
+    "label": "MISC",
+    "start": 133802,
+    "text": "Abstract"
+  },
+  {
+    "end": 133851,
+    "label": "MISC",
+    "start": 133840,
+    "text": "Orientación"
+  },
+  {
+    "end": 133917,
+    "label": "MISC",
+    "start": 133899,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 133929,
+    "label": "MISC",
+    "start": 133919,
+    "text": "Evaluación"
+  },
+  {
+    "end": 133989,
+    "label": "MISC",
+    "start": 133978,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 133995,
+    "label": "MISC",
+    "start": 133991,
+    "text": "Coda"
+  },
+  {
+    "end": 134016,
+    "label": "MISC",
+    "start": 133997,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 134042,
+    "label": "ORG",
+    "start": 134021,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 134342,
+    "label": "ORG",
+    "start": 134336,
+    "text": "Hermes"
+  },
+  {
+    "end": 134574,
+    "label": "MISC",
+    "start": 134568,
+    "text": "Hermes"
+  },
+  {
+    "end": 134891,
+    "label": "MISC",
+    "start": 134885,
+    "text": "Hermes"
+  },
+  {
+    "end": 134955,
+    "label": "ORG",
+    "start": 134949,
+    "text": "Hermes"
+  },
+  {
+    "end": 135295,
+    "label": "MISC",
+    "start": 135289,
+    "text": "Tronco"
+  },
+  {
+    "end": 135781,
+    "label": "LOC",
+    "start": 135773,
+    "text": "Colombia"
+  },
+  {
+    "end": 136618,
+    "label": "PER",
+    "start": 136612,
+    "text": "Angela"
+  },
+  {
+    "end": 137293,
+    "label": "MISC",
+    "start": 137289,
+    "text": "PRAE"
+  },
+  {
+    "end": 138236,
+    "label": "PER",
+    "start": 138230,
+    "text": "Rosado"
+  },
+  {
+    "end": 138244,
+    "label": "PER",
+    "start": 138238,
+    "text": "Frutos"
+  },
+  {
+    "end": 138274,
+    "label": "MISC",
+    "start": 138271,
+    "text": "JER"
+  },
+  {
+    "end": 138404,
+    "label": "PER",
+    "start": 138398,
+    "text": "Hermes"
+  },
+  {
+    "end": 139400,
+    "label": "ORG",
+    "start": 139394,
+    "text": "Hermes"
+  },
+  {
+    "end": 139730,
+    "label": "MISC",
+    "start": 139721,
+    "text": "Conflicto"
+  },
+  {
+    "end": 139740,
+    "label": "MISC",
+    "start": 139732,
+    "text": "Abstract"
+  },
+  {
+    "end": 139768,
+    "label": "PER",
+    "start": 139762,
+    "text": "Samuel"
+  },
+  {
+    "end": 139844,
+    "label": "MISC",
+    "start": 139832,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 139857,
+    "label": "MISC",
+    "start": 139846,
+    "text": "Orientación"
+  },
+  {
+    "end": 139957,
+    "label": "PER",
+    "start": 139944,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 140021,
+    "label": "PER",
+    "start": 140016,
+    "text": "Frank"
+  },
+  {
+    "end": 140081,
+    "label": "PER",
+    "start": 140073,
+    "text": "Jeronimo"
+  },
+  {
+    "end": 140092,
+    "label": "PER",
+    "start": 140084,
+    "text": "Jeronimo"
+  },
+  {
+    "end": 140156,
+    "label": "MISC",
+    "start": 140138,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 140168,
+    "label": "MISC",
+    "start": 140158,
+    "text": "Evaluación"
+  },
+  {
+    "end": 140175,
+    "label": "PER",
+    "start": 140170,
+    "text": "Rabia"
+  },
+  {
+    "end": 140535,
+    "label": "MISC",
+    "start": 140525,
+    "text": "Resolución"
+  },
+  {
+    "end": 140659,
+    "label": "MISC",
+    "start": 140648,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 140665,
+    "label": "MISC",
+    "start": 140661,
+    "text": "Coda"
+  },
+  {
+    "end": 141142,
+    "label": "MISC",
+    "start": 141133,
+    "text": "Conflicto"
+  },
+  {
+    "end": 141152,
+    "label": "MISC",
+    "start": 141144,
+    "text": "Abstract"
+  },
+  {
+    "end": 141193,
+    "label": "MISC",
+    "start": 141182,
+    "text": "Orientación"
+  },
+  {
+    "end": 141259,
+    "label": "MISC",
+    "start": 141241,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 141271,
+    "label": "MISC",
+    "start": 141261,
+    "text": "Evaluación"
+  },
+  {
+    "end": 141331,
+    "label": "MISC",
+    "start": 141320,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 141337,
+    "label": "MISC",
+    "start": 141333,
+    "text": "Coda"
+  },
+  {
+    "end": 141358,
+    "label": "MISC",
+    "start": 141339,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 141384,
+    "label": "ORG",
+    "start": 141363,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 142051,
+    "label": "MISC",
+    "start": 142045,
+    "text": "Tronco"
+  },
+  {
+    "end": 144050,
+    "label": "MISC",
+    "start": 144044,
+    "text": "Rosado"
+  },
+  {
+    "end": 144088,
+    "label": "MISC",
+    "start": 144085,
+    "text": "JER"
+  },
+  {
+    "end": 145533,
+    "label": "MISC",
+    "start": 145524,
+    "text": "Conflicto"
+  },
+  {
+    "end": 145543,
+    "label": "MISC",
+    "start": 145535,
+    "text": "Abstract"
+  },
+  {
+    "end": 145571,
+    "label": "PER",
+    "start": 145566,
+    "text": "Karol"
+  },
+  {
+    "end": 145664,
+    "label": "MISC",
+    "start": 145652,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 145677,
+    "label": "MISC",
+    "start": 145666,
+    "text": "Orientación"
+  },
+  {
+    "end": 145845,
+    "label": "PER",
+    "start": 145840,
+    "text": "Saray"
+  },
+  {
+    "end": 146086,
+    "label": "ORG",
+    "start": 146083,
+    "text": "VAE"
+  },
+  {
+    "end": 146280,
+    "label": "MISC",
+    "start": 146262,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 146292,
+    "label": "MISC",
+    "start": 146282,
+    "text": "Evaluación"
+  },
+  {
+    "end": 146299,
+    "label": "PER",
+    "start": 146294,
+    "text": "Rabia"
+  },
+  {
+    "end": 146730,
+    "label": "PER",
+    "start": 146725,
+    "text": "Saray"
+  },
+  {
+    "end": 146865,
+    "label": "MISC",
+    "start": 146854,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 146871,
+    "label": "MISC",
+    "start": 146867,
+    "text": "Coda"
+  },
+  {
+    "end": 147177,
+    "label": "MISC",
+    "start": 147168,
+    "text": "Conflicto"
+  },
+  {
+    "end": 147187,
+    "label": "MISC",
+    "start": 147179,
+    "text": "Abstract"
+  },
+  {
+    "end": 147612,
+    "label": "MISC",
+    "start": 147601,
+    "text": "Orientación"
+  },
+  {
+    "end": 148150,
+    "label": "MISC",
+    "start": 148132,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 148162,
+    "label": "MISC",
+    "start": 148152,
+    "text": "Evaluación"
+  },
+  {
+    "end": 148831,
+    "label": "MISC",
+    "start": 148820,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 148837,
+    "label": "MISC",
+    "start": 148833,
+    "text": "Coda"
+  },
+  {
+    "end": 149306,
+    "label": "ORG",
+    "start": 149285,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 150161,
+    "label": "MISC",
+    "start": 150155,
+    "text": "Tronco"
+  },
+  {
+    "end": 150435,
+    "label": "MISC",
+    "start": 150429,
+    "text": "Darién"
+  },
+  {
+    "end": 150573,
+    "label": "LOC",
+    "start": 150565,
+    "text": "Colombia"
+  },
+  {
+    "end": 152036,
+    "label": "PER",
+    "start": 152030,
+    "text": "Rosado"
+  },
+  {
+    "end": 152044,
+    "label": "PER",
+    "start": 152038,
+    "text": "Frutos"
+  },
+  {
+    "end": 152074,
+    "label": "MISC",
+    "start": 152071,
+    "text": "JER"
+  },
+  {
+    "end": 152807,
+    "label": "MISC",
+    "start": 152798,
+    "text": "Conflicto"
+  },
+  {
+    "end": 152817,
+    "label": "MISC",
+    "start": 152809,
+    "text": "Abstract"
+  },
+  {
+    "end": 152823,
+    "label": "PER",
+    "start": 152819,
+    "text": "Jhon"
+  },
+  {
+    "end": 152831,
+    "label": "PER",
+    "start": 152826,
+    "text": "Messi"
+  },
+  {
+    "end": 152840,
+    "label": "PER",
+    "start": 152833,
+    "text": "Ronaldo"
+  },
+  {
+    "end": 152865,
+    "label": "PER",
+    "start": 152859,
+    "text": "Popeye"
+  },
+  {
+    "end": 152899,
+    "label": "PER",
+    "start": 152886,
+    "text": "Messi Ronaldo"
+  },
+  {
+    "end": 153012,
+    "label": "MISC",
+    "start": 153001,
+    "text": "Orientación"
+  },
+  {
+    "end": 153065,
+    "label": "PER",
+    "start": 153059,
+    "text": "Popeye"
+  },
+  {
+    "end": 153202,
+    "label": "PER",
+    "start": 153189,
+    "text": "Messi Ronaldo"
+  },
+  {
+    "end": 153227,
+    "label": "PER",
+    "start": 153221,
+    "text": "Popeye"
+  },
+  {
+    "end": 153377,
+    "label": "MISC",
+    "start": 153359,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 153389,
+    "label": "MISC",
+    "start": 153379,
+    "text": "Evaluación"
+  },
+  {
+    "end": 153930,
+    "label": "MISC",
+    "start": 153919,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 153936,
+    "label": "MISC",
+    "start": 153932,
+    "text": "Coda"
+  },
+  {
+    "end": 154344,
+    "label": "MISC",
+    "start": 154335,
+    "text": "Conflicto"
+  },
+  {
+    "end": 154354,
+    "label": "MISC",
+    "start": 154346,
+    "text": "Abstract"
+  },
+  {
+    "end": 154366,
+    "label": "MISC",
+    "start": 154356,
+    "text": "Ciberacoso"
+  },
+  {
+    "end": 154551,
+    "label": "PER",
+    "start": 154546,
+    "text": "Sofía"
+  },
+  {
+    "end": 154559,
+    "label": "PER",
+    "start": 154554,
+    "text": "Laura"
+  },
+  {
+    "end": 154624,
+    "label": "MISC",
+    "start": 154612,
+    "text": "Antecedentes"
+  },
+  {
+    "end": 154637,
+    "label": "MISC",
+    "start": 154626,
+    "text": "Orientación"
+  },
+  {
+    "end": 154806,
+    "label": "PER",
+    "start": 154801,
+    "text": "Vizca"
+  },
+  {
+    "end": 154827,
+    "label": "PER",
+    "start": 154822,
+    "text": "Laura"
+  },
+  {
+    "end": 154944,
+    "label": "PER",
+    "start": 154939,
+    "text": "Sofía"
+  },
+  {
+    "end": 155005,
+    "label": "PER",
+    "start": 154992,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 155196,
+    "label": "PER",
+    "start": 155191,
+    "text": "Sofía"
+  },
+  {
+    "end": 155235,
+    "label": "PER",
+    "start": 155229,
+    "text": "Renata"
+  },
+  {
+    "end": 155253,
+    "label": "PER",
+    "start": 155248,
+    "text": "Sofía"
+  },
+  {
+    "end": 155368,
+    "label": "MISC",
+    "start": 155350,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 155483,
+    "label": "PER",
+    "start": 155478,
+    "text": "Rabia"
+  },
+  {
+    "end": 156059,
+    "label": "MISC",
+    "start": 156048,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 156065,
+    "label": "MISC",
+    "start": 156061,
+    "text": "Coda"
+  },
+  {
+    "end": 156424,
+    "label": "MISC",
+    "start": 156405,
+    "text": "Información Escrita"
+  },
+  {
+    "end": 156450,
+    "label": "ORG",
+    "start": 156429,
+    "text": "Taller de Estudiantes"
+  },
+  {
+    "end": 157128,
+    "label": "MISC",
+    "start": 157125,
+    "text": "ABP"
+  },
+  {
+    "end": 158150,
+    "label": "MISC",
+    "start": 158144,
+    "text": "Tronco"
+  },
+  {
+    "end": 158610,
+    "label": "LOC",
+    "start": 158602,
+    "text": "Colombia"
+  },
+  {
+    "end": 159137,
+    "label": "LOC",
+    "start": 159129,
+    "text": "Colombia"
+  },
+  {
+    "end": 162036,
+    "label": "PER",
+    "start": 162030,
+    "text": "Rosado"
+  },
+  {
+    "end": 162044,
+    "label": "PER",
+    "start": 162038,
+    "text": "Frutos"
+  },
+  {
+    "end": 162074,
+    "label": "MISC",
+    "start": 162071,
+    "text": "JER"
+  },
+  {
+    "end": 163935,
+    "label": "MISC",
+    "start": 163926,
+    "text": "Conflicto"
+  },
+  {
+    "end": 163945,
+    "label": "MISC",
+    "start": 163937,
+    "text": "Abstract"
+  },
+  {
+    "end": 164359,
+    "label": "MISC",
+    "start": 164348,
+    "text": "Orientación"
+  },
+  {
+    "end": 164722,
+    "label": "PER",
+    "start": 164709,
+    "text": "Mayor Tensión"
+  },
+  {
+    "end": 164953,
+    "label": "MISC",
+    "start": 164935,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 164965,
+    "label": "MISC",
+    "start": 164955,
+    "text": "Evaluación"
+  },
+  {
+    "end": 165525,
+    "label": "MISC",
+    "start": 165515,
+    "text": "Resolución"
+  },
+  {
+    "end": 165662,
+    "label": "MISC",
+    "start": 165651,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 165668,
+    "label": "MISC",
+    "start": 165664,
+    "text": "Coda"
+  },
+  {
+    "end": 165723,
+    "label": "MISC",
+    "start": 165714,
+    "text": "Conflicto"
+  },
+  {
+    "end": 165733,
+    "label": "MISC",
+    "start": 165725,
+    "text": "Abstract"
+  },
+  {
+    "end": 165854,
+    "label": "PER",
+    "start": 165847,
+    "text": "Natasha"
+  },
+  {
+    "end": 165863,
+    "label": "PER",
+    "start": 165857,
+    "text": "Isabel"
+  },
+  {
+    "end": 165972,
+    "label": "MISC",
+    "start": 165961,
+    "text": "Orientación"
+  },
+  {
+    "end": 166081,
+    "label": "MISC",
+    "start": 166063,
+    "text": "Reflexión Personal"
+  },
+  {
+    "end": 166093,
+    "label": "MISC",
+    "start": 166083,
+    "text": "Evaluación"
+  },
+  {
+    "end": 166101,
+    "label": "PER",
+    "start": 166095,
+    "text": "Isabel"
+  },
+  {
+    "end": 166262,
+    "label": "MISC",
+    "start": 166251,
+    "text": "Aprendizaje"
+  },
+  {
+    "end": 166268,
+    "label": "MISC",
+    "start": 166264,
+    "text": "Coda"
+  }
+]

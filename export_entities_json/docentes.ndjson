@@ -1,0 +1,1403 @@
+{"end": 316, "label": "MISC", "start": 301, "text": "NOMBRE PERSONA”"}
+{"end": 407, "label": "ORG", "start": 390, "text": "Colegio Atahualpa"}
+{"end": 1219, "label": "MISC", "start": 1205, "text": "NOMBRE PERSONA"}
+{"end": 1256, "label": "MISC", "start": 1240, "text": "Educación Física"}
+{"end": 1281, "label": "ORG", "start": 1278, "text": "SED"}
+{"end": 1343, "label": "MISC", "start": 1327, "text": "Educación Física"}
+{"end": 2171, "label": "ORG", "start": 2168, "text": "JER"}
+{"end": 2242, "label": "MISC", "start": 2239, "text": "JER"}
+{"end": 2546, "label": "MISC", "start": 2543, "text": "JER"}
+{"end": 2687, "label": "ORG", "start": 2684, "text": "JER"}
+{"end": 4215, "label": "ORG", "start": 4196, "text": "Sala de Desconexión"}
+{"end": 5003, "label": "MISC", "start": 4989, "text": "NOMBRE PERSONA"}
+{"end": 5013, "label": "LOC", "start": 5007, "text": "Inglés"}
+{"end": 5041, "label": "MISC", "start": 5026, "text": "“NOMBRE PERSONA"}
+{"end": 5061, "label": "MISC", "start": 5045, "text": "Educación Física"}
+{"end": 5141, "label": "MISC", "start": 5138, "text": "JER"}
+{"end": 6010, "label": "LOC", "start": 5991, "text": "Sala de Desconexión"}
+{"end": 6553, "label": "MISC", "start": 6549, "text": "Sala"}
+{"end": 6961, "label": "ORG", "start": 6942, "text": "Sala de Desconexión"}
+{"end": 7059, "label": "ORG", "start": 7056, "text": "JER"}
+{"end": 7446, "label": "MISC", "start": 7443, "text": "JER"}
+{"end": 9059, "label": "MISC", "start": 9056, "text": "JER"}
+{"end": 10020, "label": "MISC", "start": 10017, "text": "JER"}
+{"end": 11669, "label": "MISC", "start": 11666, "text": "SED"}
+{"end": 15182, "label": "PER", "start": 15176, "text": "Rector"}
+{"end": 15440, "label": "MISC", "start": 15435, "text": "COVID"}
+{"end": 15529, "label": "ORG", "start": 15524, "text": "COVID"}
+{"end": 16015, "label": "ORG", "start": 16012, "text": "SED"}
+{"end": 16224, "label": "ORG", "start": 16221, "text": "SED"}
+{"end": 29922, "label": "MISC", "start": 29919, "text": "JER"}
+{"end": 30370, "label": "PER", "start": 30365, "text": "Pedro"}
+{"end": 30407, "label": "MISC", "start": 30391, "text": "“NOMBRE PERSONA”"}
+{"end": 31329, "label": "ORG", "start": 31299, "text": "Oficina de Convivencia Escolar"}
+{"end": 31407, "label": "MISC", "start": 31404, "text": "SED"}
+{"end": 31569, "label": "ORG", "start": 31541, "text": "Dirección Local de Educación"}
+{"end": 31583, "label": "ORG", "start": 31580, "text": "SED"}
+{"end": 31655, "label": "ORG", "start": 31639, "text": "Policía Nacional"}
+{"end": 31669, "label": "MISC", "start": 31660, "text": "Seguridad"}
+{"end": 32456, "label": "ORG", "start": 32451, "text": "SESPA"}
+{"end": 32466, "label": "ORG", "start": 32458, "text": "Fiscalía"}
+{"end": 32473, "label": "ORG", "start": 32468, "text": "SESPA"}
+{"end": 32483, "label": "ORG", "start": 32475, "text": "Fiscalía"}
+{"end": 32504, "label": "ORG", "start": 32500, "text": "ICBF"}
+{"end": 32972, "label": "MISC", "start": 32963, "text": "Ok. Listo"}
+{"end": 33084, "label": "MISC", "start": 33081, "text": "JER"}
+{"end": 39839, "label": "MISC", "start": 39834, "text": "Ok.\nP"}
+{"end": 39884, "label": "PER", "start": 39879, "text": "Bueno"}
+{"end": 40289, "label": "LOC", "start": 40285, "text": "Sena"}
+{"end": 41927, "label": "ORG", "start": 41924, "text": "JER"}
+{"end": 43661, "label": "PER", "start": 43657, "text": "Pong"}
+{"end": 45554, "label": "MISC", "start": 45551, "text": "JER"}
+{"end": 45755, "label": "ORG", "start": 45752, "text": "JER"}
+{"end": 48886, "label": "ORG", "start": 48883, "text": "JER"}
+{"end": 49831, "label": "MISC", "start": 49819, "text": "Conveniencia"}
+{"end": 51740, "label": "MISC", "start": 51737, "text": "JER"}
+{"end": 54032, "label": "MISC", "start": 54029, "text": "JER"}
+{"end": 54961, "label": "MISC", "start": 54960, "text": "E"}
+{"end": 55455, "label": "ORG", "start": 55452, "text": "JER"}
+{"end": 55879, "label": "MISC", "start": 55876, "text": "PEI"}
+{"end": 55903, "label": "ORG", "start": 55900, "text": "PEI"}
+{"end": 56569, "label": "MISC", "start": 56566, "text": "JER"}
+{"end": 56641, "label": "LOC", "start": 56635, "text": "Bogotá"}
+{"end": 57099, "label": "MISC", "start": 57096, "text": "SED"}
+{"end": 57598, "label": "MISC", "start": 57595, "text": "SED"}
+{"end": 57846, "label": "MISC", "start": 57843, "text": "SED"}
+{"end": 59546, "label": "ORG", "start": 59528, "text": "Cámara de Comercio"}
+{"end": 59660, "label": "MISC", "start": 59657, "text": "SED"}
+{"end": 59687, "label": "ORG", "start": 59684, "text": "SED"}
+{"end": 59709, "label": "ORG", "start": 59706, "text": "SED"}
+{"end": 60639, "label": "ORG", "start": 60636, "text": "JER"}
+{"end": 60688, "label": "MISC", "start": 60685, "text": "JER"}
+{"end": 60759, "label": "MISC", "start": 60756, "text": "JER"}
+{"end": 62851, "label": "ORG", "start": 62848, "text": "JER"}
+{"end": 63354, "label": "ORG", "start": 63351, "text": "SED"}
+{"end": 63858, "label": "ORG", "start": 63855, "text": "SED"}
+{"end": 63950, "label": "MISC", "start": 63933, "text": "Estrategia de JER"}
+{"end": 64776, "label": "MISC", "start": 64773, "text": "JER"}
+{"end": 64840, "label": "PER", "start": 64837, "text": "JER"}
+{"end": 67174, "label": "MISC", "start": 67171, "text": "SED"}
+{"end": 69161, "label": "LOC", "start": 69155, "text": "Bogotá"}
+{"end": 70925, "label": "MISC", "start": 70911, "text": "NOMBRE PERSONA"}
+{"end": 71473, "label": "MISC", "start": 71459, "text": "NOMBRE PERSONA"}
+{"end": 71968, "label": "ORG", "start": 71945, "text": "Secretaría de Educación"}
+{"end": 72007, "label": "MISC", "start": 71978, "text": "Justicia Escolar Restaurativa"}
+{"end": 72103, "label": "MISC", "start": 72074, "text": "Justicia Escolar Restaurativa"}
+{"end": 72183, "label": "MISC", "start": 72154, "text": "Justicia Escolar Restaurativa"}
+{"end": 72528, "label": "MISC", "start": 72499, "text": "Justicia Escolar Restaurativa"}
+{"end": 73074, "label": "MISC", "start": 73045, "text": "Justicia Escolar Restaurativa"}
+{"end": 73613, "label": "MISC", "start": 73599, "text": "NOMBRE PERSONA"}
+{"end": 74075, "label": "PER", "start": 74068, "text": "Adriana"}
+{"end": 75297, "label": "PER", "start": 75293, "text": "Dale"}
+{"end": 75950, "label": "MISC", "start": 75921, "text": "Justicia Escolar Restaurativa"}
+{"end": 76181, "label": "PER", "start": 76178, "text": "JER"}
+{"end": 76428, "label": "MISC", "start": 76425, "text": "JER"}
+{"end": 76885, "label": "MISC", "start": 76856, "text": "Justicia Escolar Restaurativa"}
+{"end": 77970, "label": "MISC", "start": 77954, "text": "Justicia Escolar"}
+{"end": 78966, "label": "PER", "start": 78961, "text": "Tomás"}
+{"end": 85184, "label": "LOC", "start": 85176, "text": "Colombia"}
+{"end": 85203, "label": "LOC", "start": 85194, "text": "Venezuela"}
+{"end": 95309, "label": "MISC", "start": 95280, "text": "Justicia Escolar Restaurativa"}
+{"end": 98230, "label": "ORG", "start": 98197, "text": "Secretaría de Educación Distrital"}
+{"end": 98351, "label": "ORG", "start": 98330, "text": "Comité de Convivencia"}
+{"end": 102622, "label": "PER", "start": 102615, "text": "Ahorita"}
+{"end": 104551, "label": "MISC", "start": 104537, "text": "NOMBRE PERSONA"}
+{"end": 107450, "label": "ORG", "start": 107427, "text": "Secretaría de Educación"}
+{"end": 108733, "label": "ORG", "start": 108723, "text": "Secretaría"}
+{"end": 108849, "label": "MISC", "start": 108835, "text": "NOMBRE PERSONA"}
+{"end": 110362, "label": "MISC", "start": 110348, "text": "NOMBRE PERSONA"}
+{"end": 112929, "label": "ORG", "start": 112919, "text": "Secretaría"}
+{"end": 114730, "label": "ORG", "start": 114720, "text": "Secretaría"}
+{"end": 116070, "label": "MISC", "start": 116056, "text": "NOMBRE PERSONA"}
+{"end": 117050, "label": "MISC", "start": 117048, "text": "PI"}
+{"end": 119011, "label": "ORG", "start": 119008, "text": "PEI"}
+{"end": 119207, "label": "ORG", "start": 119183, "text": "Secretaría de Planeación"}
+{"end": 119792, "label": "MISC", "start": 119778, "text": "NOMBRE PERSONA"}
+{"end": 119899, "label": "MISC", "start": 119885, "text": "NOMBRE PERSONA"}
+{"end": 119934, "label": "MISC", "start": 119917, "text": "Ciencias Sociales"}
+{"end": 119953, "label": "MISC", "start": 119936, "text": "Dirección General"}
+{"end": 119968, "label": "PER", "start": 119954, "text": "Antonia Santos"}
+{"end": 120012, "label": "MISC", "start": 120006, "text": "JER \nP"}
+{"end": 120086, "label": "MISC", "start": 120072, "text": "NOMBRE PERSONA"}
+{"end": 120188, "label": "MISC", "start": 120183, "text": "Nas\nP"}
+{"end": 120261, "label": "MISC", "start": 120247, "text": "NOMBRE PERSONA"}
+{"end": 120300, "label": "ORG", "start": 120287, "text": "Colegio Liceo"}
+{"end": 120347, "label": "MISC", "start": 120333, "text": "NOMBRE PERSONA"}
+{"end": 120384, "label": "MISC", "start": 120368, "text": "Apoyo Pedagógico"}
+{"end": 120396, "label": "ORG", "start": 120389, "text": "Colegio"}
+{"end": 120444, "label": "MISC", "start": 120430, "text": "NOMBRE PERSONA"}
+{"end": 120492, "label": "MISC", "start": 120487, "text": "Tarde"}
+{"end": 121087, "label": "MISC", "start": 121084, "text": "JER"}
+{"end": 121138, "label": "MISC", "start": 121124, "text": "NOMBRE PERSONA"}
+{"end": 121389, "label": "MISC", "start": 121384, "text": "Ruido"}
+{"end": 121537, "label": "PER", "start": 121532, "text": "Baldr"}
+{"end": 121564, "label": "PER", "start": 121557, "text": "Baldr\nP"}
+{"end": 121582, "label": "PER", "start": 121575, "text": "Sinaria"}
+{"end": 121624, "label": "MISC", "start": 121610, "text": "NOMBRE PERSONA"}
+{"end": 121894, "label": "PER", "start": 121889, "text": "Baldr"}
+{"end": 121923, "label": "MISC", "start": 121922, "text": "E"}
+{"end": 121974, "label": "PER", "start": 121969, "text": "Baldr"}
+{"end": 122004, "label": "MISC", "start": 121997, "text": "E. \nP:¿"}
+{"end": 122123, "label": "ORG", "start": 122113, "text": "Secretaría"}
+{"end": 122438, "label": "MISC", "start": 122424, "text": "NOMBRE PERSONA"}
+{"end": 123104, "label": "MISC", "start": 123096, "text": "Sociales"}
+{"end": 123134, "label": "MISC", "start": 123120, "text": "NOMBRE PERSONA"}
+{"end": 123151, "label": "MISC", "start": 123137, "text": "NOMBRE PERSONA"}
+{"end": 123806, "label": "ORG", "start": 123788, "text": "Cámara de Comercio"}
+{"end": 123818, "label": "ORG", "start": 123812, "text": "Hermes"}
+{"end": 124201, "label": "PER", "start": 124196, "text": "Baldr"}
+{"end": 124291, "label": "MISC", "start": 124277, "text": "NOMBRE PERSONA"}
+{"end": 124490, "label": "ORG", "start": 124472, "text": "Cámara de Comercio"}
+{"end": 124537, "label": "MISC", "start": 124531, "text": "Hermes"}
+{"end": 124648, "label": "MISC", "start": 124642, "text": "Hermes"}
+{"end": 124707, "label": "ORG", "start": 124684, "text": "Secretaría de Educación"}
+{"end": 124961, "label": "LOC", "start": 124955, "text": "Hermes"}
+{"end": 124973, "label": "MISC", "start": 124970, "text": "JER"}
+{"end": 125163, "label": "MISC", "start": 125160, "text": "JER"}
+{"end": 125174, "label": "PER", "start": 125168, "text": "Hermes"}
+{"end": 125306, "label": "PER", "start": 125300, "text": "Hermes"}
+{"end": 125352, "label": "MISC", "start": 125349, "text": "JER"}
+{"end": 127514, "label": "PER", "start": 127508, "text": "HERMES"}
+{"end": 127525, "label": "ORG", "start": 127522, "text": "JER"}
+{"end": 127835, "label": "ORG", "start": 127813, "text": "Comisión de Evaluación"}
+{"end": 127946, "label": "MISC", "start": 127940, "text": "HERMES"}
+{"end": 128388, "label": "MISC", "start": 128382, "text": "HERMES"}
+{"end": 128624, "label": "MISC", "start": 128618, "text": "HERMES"}
+{"end": 128669, "label": "ORG", "start": 128666, "text": "JER"}
+{"end": 129101, "label": "LOC", "start": 129095, "text": "HERMES"}
+{"end": 129240, "label": "MISC", "start": 129234, "text": "HERMES"}
+{"end": 131639, "label": "MISC", "start": 131625, "text": "NOMBRE PERSONA"}
+{"end": 131811, "label": "LOC", "start": 131805, "text": "Hermes"}
+{"end": 131937, "label": "MISC", "start": 131923, "text": "NOMBRE PERSONA"}
+{"end": 132240, "label": "MISC", "start": 132234, "text": "HERMES"}
+{"end": 132665, "label": "MISC", "start": 132651, "text": "NOMBRE PERSONA"}
+{"end": 133360, "label": "PER", "start": 133355, "text": "Labov"}
+{"end": 133367, "label": "PER", "start": 133362, "text": "Labov"}
+{"end": 133760, "label": "PER", "start": 133755, "text": "Labov"}
+{"end": 133864, "label": "LOC", "start": 133858, "text": "Bogotá"}
+{"end": 134504, "label": "ORG", "start": 134497, "text": "Labov\nP"}
+{"end": 137880, "label": "MISC", "start": 137866, "text": "NOMBRE PERSONA"}
+{"end": 140073, "label": "MISC", "start": 140059, "text": "NOMBRE PERSONA"}
+{"end": 141427, "label": "MISC", "start": 141413, "text": "NOMBRE PERSONA"}
+{"end": 144980, "label": "MISC", "start": 144966, "text": "NOMBRE PERSONA"}
+{"end": 145073, "label": "MISC", "start": 145059, "text": "NOMBRE PERSONA"}
+{"end": 145121, "label": "MISC", "start": 145107, "text": "NOMBRE PERSONA"}
+{"end": 145164, "label": "MISC", "start": 145150, "text": "NOMBRE PERSONA"}
+{"end": 145259, "label": "MISC", "start": 145245, "text": "NOMBRE PERSONA"}
+{"end": 145529, "label": "MISC", "start": 145515, "text": "NOMBRE PERSONA"}
+{"end": 145806, "label": "ORG", "start": 145792, "text": "NOMBRE PERSONA"}
+{"end": 145996, "label": "MISC", "start": 145982, "text": "NOMBRE PERSONA"}
+{"end": 146189, "label": "MISC", "start": 146175, "text": "NOMBRE PERSONA"}
+{"end": 146555, "label": "MISC", "start": 146539, "text": "Educación Física"}
+{"end": 151763, "label": "PER", "start": 151754, "text": "Cuéntenme"}
+{"end": 151846, "label": "MISC", "start": 151843, "text": "Ay!"}
+{"end": 152673, "label": "MISC", "start": 152659, "text": "NOMBRE PERSONA"}
+{"end": 153226, "label": "MISC", "start": 153212, "text": "NOMBRE PERSONA"}
+{"end": 156558, "label": "PER", "start": 156553, "text": "Bueno"}
+{"end": 160300, "label": "MISC", "start": 160286, "text": "NOMBRE PERSONA"}
+{"end": 161243, "label": "PER", "start": 161239, "text": "Dios"}
+{"end": 161357, "label": "MISC", "start": 161353, "text": "Dios"}
+{"end": 161853, "label": "MISC", "start": 161839, "text": "NOMBRE PERSONA"}
+{"end": 163934, "label": "MISC", "start": 163931, "text": "JER"}
+{"end": 164022, "label": "MISC", "start": 164008, "text": "NOMBRE PERSONA"}
+{"end": 164100, "label": "MISC", "start": 164097, "text": "JER"}
+{"end": 164180, "label": "MISC", "start": 164177, "text": "JER"}
+{"end": 165361, "label": "ORG", "start": 165358, "text": "PEI"}
+{"end": 167600, "label": "MISC", "start": 167591, "text": "Halloween"}
+{"end": 170544, "label": "ORG", "start": 170541, "text": "JER"}
+{"end": 170671, "label": "MISC", "start": 170668, "text": "JER"}
+{"end": 171586, "label": "MISC", "start": 171585, "text": "E"}
+{"end": 171823, "label": "LOC", "start": 171812, "text": "Cinco Vecos"}
+{"end": 175089, "label": "PER", "start": 175084, "text": "Baldr"}
+{"end": 175214, "label": "ORG", "start": 175205, "text": "Hermes \nP"}
+{"end": 175385, "label": "PER", "start": 175379, "text": "Hermes"}
+{"end": 175402, "label": "MISC", "start": 175399, "text": "JER"}
+{"end": 175503, "label": "PER", "start": 175497, "text": "Hermes"}
+{"end": 175533, "label": "ORG", "start": 175530, "text": "JER"}
+{"end": 176230, "label": "MISC", "start": 176229, "text": "P"}
+{"end": 177988, "label": "PER", "start": 177983, "text": "Baldr"}
+{"end": 178175, "label": "MISC", "start": 178161, "text": "NOMBRE PERSONA"}
+{"end": 178211, "label": "PER", "start": 178205, "text": "Hermes"}
+{"end": 178273, "label": "PER", "start": 178267, "text": "HERMES"}
+{"end": 179038, "label": "MISC", "start": 179035, "text": "JER"}
+{"end": 180081, "label": "MISC", "start": 180067, "text": "NOMBRE PERSONA"}
+{"end": 180126, "label": "MISC", "start": 180112, "text": "NOMBRE PERSONA"}
+{"end": 180285, "label": "MISC", "start": 180271, "text": "NOMBRE PERSONA"}
+{"end": 180529, "label": "MISC", "start": 180515, "text": "NOMBRE PERSONA"}
+{"end": 181097, "label": "MISC", "start": 181094, "text": "JER"}
+{"end": 181294, "label": "MISC", "start": 181280, "text": "NOMBRE PERSONA"}
+{"end": 182196, "label": "MISC", "start": 182195, "text": "P"}
+{"end": 182931, "label": "LOC", "start": 182923, "text": "Colombia"}
+{"end": 184097, "label": "ORG", "start": 184094, "text": "JER"}
+{"end": 184132, "label": "ORG", "start": 184129, "text": "PEI"}
+{"end": 184192, "label": "ORG", "start": 184189, "text": "PEI"}
+{"end": 184228, "label": "ORG", "start": 184225, "text": "PEI"}
+{"end": 184661, "label": "MISC", "start": 184647, "text": "NOMBRE PERSONA"}
+{"end": 184788, "label": "ORG", "start": 184785, "text": "PEI"}
+{"end": 184884, "label": "ORG", "start": 184878, "text": "PEI \nP"}
+{"end": 184892, "label": "ORG", "start": 184889, "text": "PEI"}
+{"end": 184923, "label": "ORG", "start": 184920, "text": "PEI"}
+{"end": 185254, "label": "PER", "start": 185247, "text": "Baldr\nP"}
+{"end": 185415, "label": "MISC", "start": 185412, "text": "JER"}
+{"end": 185424, "label": "MISC", "start": 185418, "text": "HERMES"}
+{"end": 186377, "label": "MISC", "start": 186376, "text": "P"}
+{"end": 186800, "label": "MISC", "start": 186786, "text": "NOMBRE PERSONA"}
+{"end": 186947, "label": "MISC", "start": 186933, "text": "NOMBRE PERSONA"}
+{"end": 186972, "label": "MISC", "start": 186958, "text": "NOMBRE PERSONA"}
+{"end": 187020, "label": "MISC", "start": 187006, "text": "NOMBRE PERSONA"}
+{"end": 187037, "label": "MISC", "start": 187023, "text": "NOMBRE PERSONA"}
+{"end": 187407, "label": "MISC", "start": 187393, "text": "NOMBRE PERSONA"}
+{"end": 187537, "label": "MISC", "start": 187523, "text": "NOMBRE PERSONA"}
+{"end": 188374, "label": "MISC", "start": 188371, "text": "JER"}
+{"end": 188569, "label": "ORG", "start": 188551, "text": "Cámara de Comercio"}
+{"end": 188707, "label": "PER", "start": 188701, "text": "Hermes"}
+{"end": 188739, "label": "MISC", "start": 188718, "text": "Hermes Intervenciones"}
+{"end": 189555, "label": "ORG", "start": 189537, "text": "Cámara de Comercio"}
+{"end": 189762, "label": "ORG", "start": 189752, "text": "Secretaría"}
+{"end": 189806, "label": "ORG", "start": 189783, "text": "Secretaría de Educación"}
+{"end": 190208, "label": "ORG", "start": 190195, "text": "Secretaría \nP"}
+{"end": 190257, "label": "ORG", "start": 190247, "text": "Secretaría"}
+{"end": 190464, "label": "MISC", "start": 190450, "text": "Estrategia JER"}
+{"end": 190510, "label": "ORG", "start": 190506, "text": "UNED"}
+{"end": 191912, "label": "ORG", "start": 191889, "text": "Secretaría de Educación"}
+{"end": 192076, "label": "MISC", "start": 192062, "text": "NOMBRE PERSONA"}
+{"end": 192700, "label": "PER", "start": 192694, "text": "Hermes"}
+{"end": 192792, "label": "PER", "start": 192786, "text": "Hermes"}
+{"end": 192824, "label": "ORG", "start": 192803, "text": "Cámara de Comercio \nP"}
+{"end": 192854, "label": "ORG", "start": 192841, "text": "Secretaría \nP"}
+{"end": 193724, "label": "ORG", "start": 193701, "text": "Secretaría de Educación"}
+{"end": 194546, "label": "MISC", "start": 194532, "text": "NOMBRE PERSONA"}
+{"end": 199356, "label": "MISC", "start": 199348, "text": "ley 1620"}
+{"end": 200102, "label": "MISC", "start": 200100, "text": "OC"}
+{"end": 200132, "label": "MISC", "start": 200130, "text": "OC"}
+{"end": 200221, "label": "PER", "start": 200216, "text": "Baldr"}
+{"end": 201090, "label": "MISC", "start": 201087, "text": "JER"}
+{"end": 203647, "label": "LOC", "start": 203643, "text": "Bosa"}
+{"end": 203705, "label": "LOC", "start": 203701, "text": "Usme"}
+{"end": 204265, "label": "ORG", "start": 204243, "text": "Colegio Unión Colombia"}
+{"end": 210978, "label": "MISC", "start": 210970, "text": "Diálogos"}
+{"end": 210990, "label": "ORG", "start": 210985, "text": "Unión"}
+{"end": 211217, "label": "ORG", "start": 211212, "text": "Unión"}
+{"end": 211238, "label": "MISC", "start": 211230, "text": "Diálogos"}
+{"end": 211250, "label": "ORG", "start": 211245, "text": "Unión"}
+{"end": 211507, "label": "PER", "start": 211499, "text": "Educapaz"}
+{"end": 212520, "label": "ORG", "start": 212517, "text": "GER"}
+{"end": 212532, "label": "PER", "start": 212529, "text": "GER"}
+{"end": 212622, "label": "LOC", "start": 212619, "text": "GER"}
+{"end": 213109, "label": "PER", "start": 213103, "text": "Hermes"}
+{"end": 213267, "label": "MISC", "start": 213259, "text": "Educapaz"}
+{"end": 213288, "label": "MISC", "start": 213280, "text": "Educapaz"}
+{"end": 213955, "label": "PER", "start": 213947, "text": "Educapaz"}
+{"end": 214075, "label": "MISC", "start": 214067, "text": "Educapaz"}
+{"end": 214166, "label": "PER", "start": 214158, "text": "Educapaz"}
+{"end": 215080, "label": "LOC", "start": 215071, "text": "Semillero"}
+{"end": 215304, "label": "LOC", "start": 215289, "text": "Día de la Mujer"}
+{"end": 216265, "label": "LOC", "start": 216258, "text": "Usaquén"}
+{"end": 217314, "label": "ORG", "start": 217296, "text": "Universidad Unicod"}
+{"end": 217350, "label": "PER", "start": 217344, "text": "Unitec"}
+{"end": 217959, "label": "MISC", "start": 217951, "text": "Diálogos"}
+{"end": 217971, "label": "ORG", "start": 217966, "text": "Unión"}
+{"end": 218005, "label": "ORG", "start": 217973, "text": "Semillero  [Nombre de la persona"}
+{"end": 218029, "label": "ORG", "start": 218024, "text": "Unión"}
+{"end": 220405, "label": "PER", "start": 220394, "text": "Doña Pepita"}
+{"end": 220438, "label": "MISC", "start": 220410, "text": "Doña  [Nombre de la persona]"}
+{"end": 220459, "label": "PER", "start": 220455, "text": "Doña"}
+{"end": 220587, "label": "MISC", "start": 220557, "text": "señora  [Nombre de la persona]"}
+{"end": 220869, "label": "PER", "start": 220865, "text": "Doña"}
+{"end": 224107, "label": "PER", "start": 224098, "text": "familia\nP"}
+{"end": 225781, "label": "ORG", "start": 225778, "text": "Che"}
+{"end": 225971, "label": "ORG", "start": 225953, "text": "Cámara de Comercio"}
+{"end": 227373, "label": "ORG", "start": 227345, "text": "Dirección Local de Educación"}
+{"end": 227401, "label": "ORG", "start": 227382, "text": "Secretaría de Salud"}
+{"end": 227432, "label": "ORG", "start": 227410, "text": "Secretaría de Gobierno"}
+{"end": 227998, "label": "PER", "start": 227994, "text": "Luna"}
+{"end": 229899, "label": "PER", "start": 229893, "text": "Perdón"}
+{"end": 229949, "label": "PER", "start": 229942, "text": "Ahorita"}
+{"end": 231662, "label": "PER", "start": 231650, "text": "señora Diana"}
+{"end": 231808, "label": "PER", "start": 231804, "text": "Luna"}
+{"end": 233103, "label": "ORG", "start": 233080, "text": "Secretaría de Educación"}
+{"end": 237921, "label": "MISC", "start": 237901, "text": "Nombre de la persona"}
+{"end": 239629, "label": "ORG", "start": 239626, "text": "JER"}
+{"end": 240589, "label": "PER", "start": 240577, "text": "señora Diana"}
+{"end": 240694, "label": "MISC", "start": 240689, "text": "ERMES"}
+{"end": 240704, "label": "ORG", "start": 240696, "text": "EDUCAPAS"}
+{"end": 241216, "label": "ORG", "start": 241213, "text": "JER"}
+{"end": 241227, "label": "ORG", "start": 241224, "text": "JER"}
+{"end": 243425, "label": "MISC", "start": 243399, "text": "La Semana de la Fertilidad"}
+{"end": 244118, "label": "ORG", "start": 244095, "text": "Secretaría de Educación"}
+{"end": 250925, "label": "PER", "start": 250923, "text": "Ay"}
+{"end": 251841, "label": "MISC", "start": 251838, "text": "JER"}
+{"end": 251878, "label": "MISC", "start": 251849, "text": "Justicia Escolar Restaurativa"}
+{"end": 251989, "label": "MISC", "start": 251986, "text": "JER"}
+{"end": 252222, "label": "PER", "start": 252218, "text": "Chao"}
+{"end": 252246, "label": "MISC", "start": 252226, "text": "Nombre de la persona"}
+{"end": 252372, "label": "ORG", "start": 252369, "text": "JER"}
+{"end": 252562, "label": "PER", "start": 252556, "text": "Anitta"}
+{"end": 252572, "label": "PER", "start": 252565, "text": "Ricardo"}
+{"end": 252923, "label": "PER", "start": 252916, "text": "Ayúdame"}
+{"end": 253615, "label": "PER", "start": 253613, "text": "Ay"}
+{"end": 254235, "label": "MISC", "start": 254206, "text": "Justicia Escolar Restaurativa"}
+{"end": 257515, "label": "ORG", "start": 257492, "text": "Secretaría de Educación"}
+{"end": 263797, "label": "PER", "start": 263792, "text": "Marta"}
+{"end": 265223, "label": "MISC", "start": 265221, "text": "U."}
+{"end": 267628, "label": "ORG", "start": 267605, "text": "Secretaría de Educación"}
+{"end": 268508, "label": "ORG", "start": 268485, "text": "Secretaría de Educación"}
+{"end": 268550, "label": "MISC", "start": 268540, "text": "Secretaría"}
+{"end": 268752, "label": "PER", "start": 268739, "text": "Claudia López"}
+{"end": 268909, "label": "LOC", "start": 268892, "text": "Luis Ángel Arango"}
+{"end": 268975, "label": "ORG", "start": 268954, "text": "Banco de la República"}
+{"end": 269304, "label": "MISC", "start": 269294, "text": "Secretaría"}
+{"end": 269509, "label": "ORG", "start": 269499, "text": "Secretaría"}
+{"end": 269742, "label": "MISC", "start": 269739, "text": "SIA"}
+{"end": 269757, "label": "ORG", "start": 269747, "text": "Secretaría"}
+{"end": 269771, "label": "ORG", "start": 269762, "text": "Comisaría"}
+{"end": 269834, "label": "ORG", "start": 269813, "text": "Comité de Convivencia"}
+{"end": 270429, "label": "ORG", "start": 270419, "text": "Secretaría"}
+{"end": 270613, "label": "ORG", "start": 270603, "text": "Secretaría"}
+{"end": 272719, "label": "ORG", "start": 272675, "text": "Secretaría Distrital de Planeación de Bogotá"}
+{"end": 272756, "label": "MISC", "start": 272737, "text": "Economía Urbana SAS"}
+{"end": 272885, "label": "ORG", "start": 272882, "text": "JER"}
+{"end": 272909, "label": "ORG", "start": 272906, "text": "SED"}
+{"end": 273932, "label": "ORG", "start": 273898, "text": "Secretaría Distrital de Planeación"}
+{"end": 274016, "label": "PER", "start": 273999, "text": "Juan Felipe Gómez"}
+{"end": 274164, "label": "ORG", "start": 274130, "text": "Secretaría Distrital de Planeación"}
+{"end": 275992, "label": "MISC", "start": 275978, "text": "NOMBRE PERSONA"}
+{"end": 277269, "label": "MISC", "start": 277255, "text": "NOMBRE PERSONA"}
+{"end": 277752, "label": "MISC", "start": 277737, "text": "“NOMBRE PERSONA"}
+{"end": 277979, "label": "MISC", "start": 277964, "text": "“NOMBRE PERSONA"}
+{"end": 278495, "label": "MISC", "start": 278480, "text": "“NOMBRE PERSONA"}
+{"end": 278612, "label": "MISC", "start": 278608, "text": "Dios"}
+{"end": 278618, "label": "MISC", "start": 278614, "text": "Dios"}
+{"end": 280170, "label": "MISC", "start": 280167, "text": "SED"}
+{"end": 280841, "label": "MISC", "start": 280827, "text": "NOMBRE PERSONA"}
+{"end": 281176, "label": "MISC", "start": 281173, "text": "JER"}
+{"end": 281370, "label": "MISC", "start": 281367, "text": "JER"}
+{"end": 283514, "label": "MISC", "start": 283511, "text": "JER"}
+{"end": 284344, "label": "MISC", "start": 284328, "text": "“NOMBRE PERSONA”"}
+{"end": 284376, "label": "ORG", "start": 284373, "text": "SED"}
+{"end": 287285, "label": "MISC", "start": 287282, "text": "SED"}
+{"end": 291252, "label": "MISC", "start": 291238, "text": "NOMBRE PERSONA"}
+{"end": 292701, "label": "PER", "start": 292695, "text": "Rosita"}
+{"end": 292737, "label": "MISC", "start": 292721, "text": "“NOMBRE PERSONA”"}
+{"end": 292785, "label": "PER", "start": 292779, "text": "Rosita"}
+{"end": 292969, "label": "MISC", "start": 292953, "text": "“ NOMBRE PERSONA"}
+{"end": 293154, "label": "MISC", "start": 293138, "text": "“ NOMBRE PERSONA"}
+{"end": 293536, "label": "MISC", "start": 293522, "text": "NOMBRE PERSONA"}
+{"end": 293659, "label": "MISC", "start": 293645, "text": "NOMBRE PERSONA"}
+{"end": 294861, "label": "PER", "start": 294855, "text": "Rosita"}
+{"end": 295936, "label": "PER", "start": 295932, "text": "Pepe"}
+{"end": 296442, "label": "PER", "start": 296437, "text": "P:ira"}
+{"end": 299571, "label": "PER", "start": 299567, "text": "Dios"}
+{"end": 299837, "label": "PER", "start": 299833, "text": "Pepe"}
+{"end": 300185, "label": "MISC", "start": 300171, "text": "NOMBRE PERSONA"}
+{"end": 301874, "label": "MISC", "start": 301857, "text": "“ NOMBRE PERSONA”"}
+{"end": 302816, "label": "PER", "start": 302808, "text": "Tristeza"}
+{"end": 304222, "label": "PER", "start": 304211, "text": "ProServanda"}
+{"end": 308497, "label": "PER", "start": 308489, "text": "Marciano"}
+{"end": 308507, "label": "PER", "start": 308499, "text": "Fulanito"}
+{"end": 310507, "label": "ORG", "start": 310495, "text": "Estado Mayor"}
+{"end": 310645, "label": "ORG", "start": 310639, "text": "Estado"}
+{"end": 310729, "label": "ORG", "start": 310723, "text": "Estado"}
+{"end": 311208, "label": "ORG", "start": 311202, "text": "Estado"}
+{"end": 311571, "label": "PER", "start": 311567, "text": "Pepe"}
+{"end": 320427, "label": "PER", "start": 320419, "text": "Marciano"}
+{"end": 322563, "label": "MISC", "start": 322558, "text": "Troya"}
+{"end": 323659, "label": "MISC", "start": 323645, "text": "NOMBRE PERSONA"}
+{"end": 326876, "label": "PER", "start": 326866, "text": "Carpe Diem"}
+{"end": 326911, "label": "PER", "start": 326901, "text": "Carpe Diem"}
+{"end": 327113, "label": "ORG", "start": 327103, "text": "Carpe Diem"}
+{"end": 327312, "label": "ORG", "start": 327302, "text": "Carpe Diem"}
+{"end": 327817, "label": "PER", "start": 327807, "text": "Carpe Diem"}
+{"end": 328344, "label": "PER", "start": 328334, "text": "Carpe Diem"}
+{"end": 328482, "label": "PER", "start": 328472, "text": "Carpe Diem"}
+{"end": 333329, "label": "MISC", "start": 333315, "text": "NOMBRE PERSONA"}
+{"end": 334144, "label": "PER", "start": 334139, "text": "Carpe"}
+{"end": 334840, "label": "MISC", "start": 334839, "text": "E"}
+{"end": 335253, "label": "LOC", "start": 335245, "text": "Colombia"}
+{"end": 335849, "label": "ORG", "start": 335846, "text": "ELN"}
+{"end": 338654, "label": "PER", "start": 338652, "text": "Ok"}
+{"end": 340887, "label": "MISC", "start": 340873, "text": "NOMBRE PERSONA"}
+{"end": 341552, "label": "ORG", "start": 341549, "text": "ABC"}
+{"end": 345367, "label": "MISC", "start": 345363, "text": "E:ok"}
+{"end": 345680, "label": "PER", "start": 345670, "text": "Carpe Diem"}
+{"end": 345733, "label": "ORG", "start": 345730, "text": "PEI"}
+{"end": 345826, "label": "PER", "start": 345805, "text": "Carpe Diem Carpe Diem"}
+{"end": 346185, "label": "MISC", "start": 346175, "text": "Carpe Diem"}
+{"end": 347488, "label": "MISC", "start": 347487, "text": "E"}
+{"end": 347623, "label": "PER", "start": 347617, "text": "Hermes"}
+{"end": 348001, "label": "MISC", "start": 347985, "text": "“NOMBRE PERSONA”"}
+{"end": 349021, "label": "ORG", "start": 349011, "text": "Carpe Diem"}
+{"end": 349119, "label": "ORG", "start": 349096, "text": "Secretaría de Educación"}
+{"end": 350059, "label": "ORG", "start": 350049, "text": "Secretaría"}
+{"end": 350136, "label": "PER", "start": 350126, "text": "Carpe Diem"}
+{"end": 350998, "label": "MISC", "start": 350984, "text": "NOMBRE PERSONA"}
+{"end": 351521, "label": "ORG", "start": 351518, "text": "SED"}
+{"end": 352151, "label": "ORG", "start": 352148, "text": "SED"}
+{"end": 352853, "label": "MISC", "start": 352847, "text": "Hermes"}
+{"end": 353755, "label": "MISC", "start": 353745, "text": "Carpe Diem"}
+{"end": 354121, "label": "ORG", "start": 354116, "text": "ICFES"}
+{"end": 354840, "label": "ORG", "start": 354830, "text": "Secretaría"}
+{"end": 358503, "label": "PER", "start": 358495, "text": "Muchacho"}
+{"end": 358709, "label": "MISC", "start": 358695, "text": "NOMBRE PERSONA"}
+{"end": 359035, "label": "PER", "start": 359030, "text": "Labov"}
+{"end": 359043, "label": "PER", "start": 359038, "text": "Labov"}
+{"end": 359479, "label": "PER", "start": 359474, "text": "Labov"}
+{"end": 360484, "label": "MISC", "start": 360470, "text": "NOMBRE PERSONA"}
+{"end": 361591, "label": "MISC", "start": 361577, "text": "NOMBRE PERSONA"}
+{"end": 364088, "label": "MISC", "start": 364074, "text": "NOMBRE PERSONA"}
+{"end": 364104, "label": "MISC", "start": 364090, "text": "NOMBRE PERSONA"}
+{"end": 364938, "label": "LOC", "start": 364933, "text": "Baños"}
+{"end": 365217, "label": "LOC", "start": 365212, "text": "Baños"}
+{"end": 365564, "label": "PER", "start": 365557, "text": "Armemos"}
+{"end": 365638, "label": "MISC", "start": 365624, "text": "NOMBRE PERSONA"}
+{"end": 367299, "label": "ORG", "start": 367295, "text": "Once"}
+{"end": 368159, "label": "MISC", "start": 368145, "text": "NOMBRE PERSONA"}
+{"end": 376932, "label": "MISC", "start": 376918, "text": "NOMBRE PERSONA"}
+{"end": 377636, "label": "PER", "start": 377632, "text": "Sela"}
+{"end": 386405, "label": "MISC", "start": 386391, "text": "NOMBRE PERSONA"}
+{"end": 387174, "label": "MISC", "start": 387160, "text": "NOMBRE PERSONA"}
+{"end": 387567, "label": "ORG", "start": 387557, "text": "Secretaría"}
+{"end": 388007, "label": "ORG", "start": 387984, "text": "Secretaría de Educación"}
+{"end": 389234, "label": "MISC", "start": 389220, "text": "NOMBRE PERSONA"}
+{"end": 390203, "label": "ORG", "start": 390180, "text": "Secretaría de Educación"}
+{"end": 390272, "label": "ORG", "start": 390249, "text": "Secretaría de Educación"}
+{"end": 390397, "label": "ORG", "start": 390374, "text": "Secretaría de Educación"}
+{"end": 390417, "label": "MISC", "start": 390409, "text": "Economía"}
+{"end": 390439, "label": "MISC", "start": 390433, "text": "Urbana"}
+{"end": 391978, "label": "ORG", "start": 391955, "text": "Secretaría de Educación"}
+{"end": 392071, "label": "ORG", "start": 392053, "text": "Universidad Andina"}
+{"end": 397319, "label": "MISC", "start": 397305, "text": "NOMBRE PERSONA"}
+{"end": 397646, "label": "MISC", "start": 397634, "text": "Adolescencia"}
+{"end": 397698, "label": "LOC", "start": 397688, "text": "Inglaterra"}
+{"end": 397838, "label": "ORG", "start": 397835, "text": "BBC"}
+{"end": 397848, "label": "ORG", "start": 397845, "text": "BBC"}
+{"end": 397859, "label": "LOC", "start": 397852, "text": "Londres"}
+{"end": 398701, "label": "MISC", "start": 398687, "text": "NOMBRE PERSONA"}
+{"end": 398740, "label": "MISC", "start": 398731, "text": "Instagram"}
+{"end": 399158, "label": "PER", "start": 399152, "text": "Veneco"}
+{"end": 399189, "label": "LOC", "start": 399182, "text": "Cáceres"}
+{"end": 403399, "label": "MISC", "start": 403394, "text": "ICFES"}
+{"end": 403881, "label": "PER", "start": 403869, "text": "Don Bosco \nP"}
+{"end": 403896, "label": "PER", "start": 403887, "text": "Don Bosco"}
+{"end": 403917, "label": "PER", "start": 403908, "text": "Don Bosco"}
+{"end": 404019, "label": "MISC", "start": 404017, "text": "VO"}
+{"end": 404772, "label": "ORG", "start": 404766, "text": "Estado"}
+{"end": 404859, "label": "MISC", "start": 404845, "text": "NOMBRE PERSONA"}
+{"end": 404935, "label": "ORG", "start": 404929, "text": "Estado"}
+{"end": 404988, "label": "MISC", "start": 404976, "text": "Constitución"}
+{"end": 405134, "label": "ORG", "start": 405128, "text": "Estado"}
+{"end": 406085, "label": "MISC", "start": 406082, "text": "JER"}
+{"end": 406162, "label": "ORG", "start": 406159, "text": "JER"}
+{"end": 406186, "label": "MISC", "start": 406183, "text": "JER"}
+{"end": 406588, "label": "ORG", "start": 406585, "text": "JER"}
+{"end": 406865, "label": "MISC", "start": 406851, "text": "NOMBRE PERSONA"}
+{"end": 407137, "label": "MISC", "start": 407134, "text": "JER"}
+{"end": 408623, "label": "PER", "start": 408616, "text": "Ahorita"}
+{"end": 409800, "label": "MISC", "start": 409797, "text": "JER"}
+{"end": 409818, "label": "ORG", "start": 409815, "text": "JER"}
+{"end": 409851, "label": "MISC", "start": 409848, "text": "JER"}
+{"end": 409890, "label": "MISC", "start": 409887, "text": "JER"}
+{"end": 410694, "label": "MISC", "start": 410691, "text": "JER"}
+{"end": 411354, "label": "MISC", "start": 411340, "text": "NOMBRE PERSONA"}
+{"end": 411714, "label": "MISC", "start": 411711, "text": "JER"}
+{"end": 411749, "label": "MISC", "start": 411735, "text": "NOMBRE PERSONA"}
+{"end": 412230, "label": "MISC", "start": 412216, "text": "NOMBRE PERSONA"}
+{"end": 412548, "label": "LOC", "start": 412538, "text": "Sudamérica"}
+{"end": 412603, "label": "MISC", "start": 412593, "text": "Sociedades"}
+{"end": 413174, "label": "ORG", "start": 413173, "text": "P"}
+{"end": 413757, "label": "ORG", "start": 413734, "text": "Secretaría de Educación"}
+{"end": 413831, "label": "MISC", "start": 413825, "text": "Yomasa"}
+{"end": 413919, "label": "LOC", "start": 413912, "text": "Tejares"}
+{"end": 413937, "label": "LOC", "start": 413930, "text": "Mazuren"}
+{"end": 414033, "label": "ORG", "start": 414010, "text": "Secretaría de Educación"}
+{"end": 414449, "label": "ORG", "start": 414446, "text": "JER"}
+{"end": 415548, "label": "MISC", "start": 415534, "text": "NOMBRE PERSONA"}
+{"end": 415785, "label": "PER", "start": 415779, "text": "Hermes"}
+{"end": 416111, "label": "PER", "start": 416105, "text": "Hermes"}
+{"end": 417362, "label": "MISC", "start": 417348, "text": "NOMBRE PERSONA"}
+{"end": 417394, "label": "MISC", "start": 417391, "text": "JER"}
+{"end": 417437, "label": "MISC", "start": 417434, "text": "JER"}
+{"end": 418730, "label": "ORG", "start": 418727, "text": "JER"}
+{"end": 418794, "label": "PER", "start": 418788, "text": "Hermes"}
+{"end": 418837, "label": "PER", "start": 418831, "text": "Hermes"}
+{"end": 419119, "label": "MISC", "start": 419116, "text": "JER"}
+{"end": 419145, "label": "MISC", "start": 419142, "text": "JER"}
+{"end": 419334, "label": "MISC", "start": 419331, "text": "JER"}
+{"end": 419631, "label": "PER", "start": 419625, "text": "Hermes"}
+{"end": 419639, "label": "PER", "start": 419633, "text": "Hermes"}
+{"end": 420396, "label": "MISC", "start": 420382, "text": "NOMBRE PERSONA"}
+{"end": 420939, "label": "ORG", "start": 420916, "text": "colegio Gustavo Morales"}
+{"end": 421051, "label": "LOC", "start": 421026, "text": "Colegio Compartir de Suba"}
+{"end": 421082, "label": "ORG", "start": 421059, "text": "Grupo Focal de Docentes"}
+{"end": 421507, "label": "PER", "start": 421498, "text": "Yo. Bueno"}
+{"end": 421735, "label": "ORG", "start": 421691, "text": "Secretaría Distrital de Planeación de Bogotá"}
+{"end": 421878, "label": "MISC", "start": 421835, "text": "Estrategia de Justicia Escolar Restaurativa"}
+{"end": 421888, "label": "LOC", "start": 421882, "text": "Bogotá"}
+{"end": 422835, "label": "ORG", "start": 422825, "text": "Secretaría"}
+{"end": 422965, "label": "ORG", "start": 422918, "text": "Dirección de Evaluaciones de Políticas Públicas"}
+{"end": 423005, "label": "ORG", "start": 422972, "text": "Secretaría de Educación Distrital"}
+{"end": 423037, "label": "MISC", "start": 423009, "text": "Servicio al Ciudadano Género"}
+{"end": 423258, "label": "ORG", "start": 423234, "text": "Secretaría de Planeación"}
+{"end": 423308, "label": "ORG", "start": 423305, "text": "JER"}
+{"end": 423318, "label": "LOC", "start": 423312, "text": "Bogotá"}
+{"end": 423422, "label": "MISC", "start": 423407, "text": "Economía Urbana"}
+{"end": 423439, "label": "MISC", "start": 423424, "text": "Economía Urbana"}
+{"end": 423725, "label": "LOC", "start": 423719, "text": "Bogotá"}
+{"end": 424211, "label": "ORG", "start": 424201, "text": "Secretaría"}
+{"end": 425115, "label": "PER", "start": 425111, "text": "Lavo"}
+{"end": 425356, "label": "PER", "start": 425352, "text": "Lavo"}
+{"end": 425835, "label": "MISC", "start": 425821, "text": "NOMBRE PERSONA"}
+{"end": 425863, "label": "MISC", "start": 425849, "text": "NOMBRE PERSONA"}
+{"end": 425976, "label": "MISC", "start": 425962, "text": "NOMBRE PERSONA"}
+{"end": 426054, "label": "MISC", "start": 426040, "text": "NOMBRE PERSONA"}
+{"end": 426087, "label": "MISC", "start": 426081, "text": "Volver"}
+{"end": 426100, "label": "MISC", "start": 426093, "text": "Escuela"}
+{"end": 426190, "label": "MISC", "start": 426176, "text": "NOMBRE PERSONA"}
+{"end": 426342, "label": "MISC", "start": 426328, "text": "NOMBRE PERSONA"}
+{"end": 426664, "label": "PER", "start": 426654, "text": "Resarcillo"}
+{"end": 426909, "label": "MISC", "start": 426898, "text": "Aprendizaje"}
+{"end": 427274, "label": "PER", "start": 427269, "text": "Micho"}
+{"end": 427392, "label": "MISC", "start": 427389, "text": "JER"}
+{"end": 427890, "label": "MISC", "start": 427884, "text": "Volver"}
+{"end": 427903, "label": "MISC", "start": 427896, "text": "Escuela"}
+{"end": 429193, "label": "ORG", "start": 429190, "text": "PEI"}
+{"end": 429323, "label": "MISC", "start": 429309, "text": "NOMBRE PERSONA"}
+{"end": 430615, "label": "MISC", "start": 430609, "text": "Volver"}
+{"end": 430628, "label": "MISC", "start": 430621, "text": "Escuela"}
+{"end": 430956, "label": "MISC", "start": 430950, "text": "Volver"}
+{"end": 430969, "label": "ORG", "start": 430962, "text": "Escuela"}
+{"end": 433528, "label": "ORG", "start": 433525, "text": "JEP"}
+{"end": 435544, "label": "MISC", "start": 435542, "text": "D."}
+{"end": 436374, "label": "MISC", "start": 436360, "text": "NOMBRE PERSONA"}
+{"end": 438021, "label": "PER", "start": 438014, "text": "Indagar"}
+{"end": 442549, "label": "ORG", "start": 442541, "text": "Whatsapp"}
+{"end": 442745, "label": "ORG", "start": 442737, "text": "Whatsapp"}
+{"end": 444229, "label": "ORG", "start": 444221, "text": "WhatsApp"}
+{"end": 447771, "label": "ORG", "start": 447748, "text": "Colegio de Organización"}
+{"end": 450042, "label": "PER", "start": 450039, "text": "Van"}
+{"end": 450133, "label": "PER", "start": 450128, "text": "Profe"}
+{"end": 450858, "label": "MISC", "start": 450844, "text": "NOMBRE PERSONA"}
+{"end": 450957, "label": "ORG", "start": 450949, "text": "WhatsApp"}
+{"end": 452819, "label": "MISC", "start": 452805, "text": "NOMBRE PERSONA"}
+{"end": 453967, "label": "MISC", "start": 453961, "text": "Noveno"}
+{"end": 455535, "label": "PER", "start": 455529, "text": "Perdón"}
+{"end": 456041, "label": "ORG", "start": 456038, "text": "BAE"}
+{"end": 457723, "label": "PER", "start": 457714, "text": "Cuéntenme"}
+{"end": 460535, "label": "MISC", "start": 460521, "text": "NOMBRE PERSONA"}
+{"end": 460879, "label": "ORG", "start": 460876, "text": "BAE"}
+{"end": 460939, "label": "ORG", "start": 460936, "text": "BAE"}
+{"end": 470255, "label": "LOC", "start": 470251, "text": "Usme"}
+{"end": 471026, "label": "MISC", "start": 471012, "text": "NOMBRE PERSONA"}
+{"end": 474774, "label": "MISC", "start": 474771, "text": "JER"}
+{"end": 476251, "label": "MISC", "start": 476237, "text": "NOMBRE PERSONA"}
+{"end": 476687, "label": "ORG", "start": 476684, "text": "BAE"}
+{"end": 477181, "label": "LOC", "start": 477173, "text": "Colombia"}
+{"end": 479892, "label": "MISC", "start": 479889, "text": "JER"}
+{"end": 481403, "label": "LOC", "start": 481398, "text": "Colón"}
+{"end": 481684, "label": "ORG", "start": 481666, "text": "Centro Democrático"}
+{"end": 481753, "label": "MISC", "start": 481737, "text": "NOMBRE PERSONAlo"}
+{"end": 481789, "label": "ORG", "start": 481783, "text": "Estado"}
+{"end": 481845, "label": "MISC", "start": 481831, "text": "NOMBRE PERSONA"}
+{"end": 482604, "label": "ORG", "start": 482586, "text": "Centro Democrático"}
+{"end": 483473, "label": "ORG", "start": 483450, "text": "Secretaría de Educación"}
+{"end": 483593, "label": "ORG", "start": 483583, "text": "Secretaría"}
+{"end": 484284, "label": "ORG", "start": 484254, "text": "Colegio Juan Evangelista Gómez"}
+{"end": 484436, "label": "ORG", "start": 484392, "text": "Secretaría Distrital de Planeación de Bogotá"}
+{"end": 484476, "label": "MISC", "start": 484454, "text": "Economía Urbana S.A.S."}
+{"end": 484603, "label": "MISC", "start": 484589, "text": "Estrategia JER"}
+{"end": 484627, "label": "ORG", "start": 484624, "text": "SED"}
+{"end": 485654, "label": "ORG", "start": 485620, "text": "Secretaría Distrital de Planeación"}
+{"end": 485845, "label": "ORG", "start": 485786, "text": "Dirección de Evaluaciones de Políticas Públicas Distritales"}
+{"end": 485885, "label": "ORG", "start": 485852, "text": "Secretaría Distrital de Planación"}
+{"end": 486837, "label": "PER", "start": 486833, "text": "Toca"}
+{"end": 488425, "label": "MISC", "start": 488409, "text": "Educación Básica"}
+{"end": 488458, "label": "MISC", "start": 488441, "text": "Ciencias Sociales"}
+{"end": 488542, "label": "MISC", "start": 488525, "text": "Ciencias Sociales"}
+{"end": 488696, "label": "MISC", "start": 488678, "text": "[Nombre de persona"}
+{"end": 488733, "label": "MISC", "start": 488713, "text": "Educación Preescolar"}
+{"end": 488756, "label": "MISC", "start": 488747, "text": "Educación"}
+{"end": 489040, "label": "MISC", "start": 489031, "text": "Filosofía"}
+{"end": 489069, "label": "MISC", "start": 489061, "text": "Nacional"}
+{"end": 489092, "label": "MISC", "start": 489083, "text": "Educación"}
+{"end": 489115, "label": "MISC", "start": 489107, "text": "Nacional"}
+{"end": 489253, "label": "MISC", "start": 489242, "text": "Lingüística"}
+{"end": 489266, "label": "MISC", "start": 489256, "text": "Literatura"}
+{"end": 489294, "label": "ORG", "start": 489273, "text": "Universidad Distrital"}
+{"end": 489403, "label": "MISC", "start": 489396, "text": "Química"}
+{"end": 489425, "label": "MISC", "start": 489417, "text": "Docencia"}
+{"end": 489439, "label": "MISC", "start": 489432, "text": "Química"}
+{"end": 489664, "label": "ORG", "start": 489642, "text": "Universidad Pedagógica"}
+{"end": 489684, "label": "MISC", "start": 489668, "text": "Educación Física"}
+{"end": 489724, "label": "MISC", "start": 489712, "text": "Bachillerato"}
+{"end": 489805, "label": "MISC", "start": 489802, "text": "JER"}
+{"end": 490221, "label": "MISC", "start": 490218, "text": "JER"}
+{"end": 490749, "label": "ORG", "start": 490746, "text": "JER"}
+{"end": 490856, "label": "PER", "start": 490845, "text": "Juanchistas"}
+{"end": 490884, "label": "PER", "start": 490877, "text": "Juancho"}
+{"end": 490896, "label": "PER", "start": 490887, "text": "Juanchita"}
+{"end": 490949, "label": "PER", "start": 490943, "text": "Jarabe"}
+{"end": 490976, "label": "ORG", "start": 490973, "text": "Onu"}
+{"end": 490988, "label": "PER", "start": 490982, "text": "Simono"}
+{"end": 491003, "label": "PER", "start": 490997, "text": "Simono"}
+{"end": 491085, "label": "PER", "start": 491079, "text": "Simono"}
+{"end": 491117, "label": "PER", "start": 491108, "text": "Juanchito"}
+{"end": 491129, "label": "PER", "start": 491120, "text": "Juanchita"}
+{"end": 491205, "label": "PER", "start": 491199, "text": "Jarabe"}
+{"end": 491786, "label": "MISC", "start": 491782, "text": "LAVO"}
+{"end": 492578, "label": "ORG", "start": 492555, "text": "Secretaría de Educación"}
+{"end": 493106, "label": "PER", "start": 493102, "text": "Boca"}
+{"end": 497222, "label": "MISC", "start": 497217, "text": "Claro"}
+{"end": 497410, "label": "MISC", "start": 497403, "text": "Docente"}
+{"end": 498670, "label": "MISC", "start": 498663, "text": "Catorce"}
+{"end": 498796, "label": "PER", "start": 498783, "text": "Hostil Hostil"}
+{"end": 513751, "label": "MISC", "start": 513748, "text": "JER"}
+{"end": 514151, "label": "MISC", "start": 514148, "text": "JER"}
+{"end": 514714, "label": "MISC", "start": 514711, "text": "JER"}
+{"end": 516178, "label": "MISC", "start": 516175, "text": "JER"}
+{"end": 524181, "label": "PER", "start": 524174, "text": "Juancho"}
+{"end": 529793, "label": "ORG", "start": 529790, "text": "…\nP"}
+{"end": 530700, "label": "ORG", "start": 530697, "text": "JER"}
+{"end": 531370, "label": "ORG", "start": 531367, "text": "JER"}
+{"end": 533483, "label": "ORG", "start": 533480, "text": "SED"}
+{"end": 533769, "label": "ORG", "start": 533766, "text": "SED"}
+{"end": 534581, "label": "MISC", "start": 534578, "text": "JER"}
+{"end": 536139, "label": "MISC", "start": 536136, "text": "JER"}
+{"end": 537162, "label": "ORG", "start": 537159, "text": "SED"}
+{"end": 537931, "label": "PER", "start": 537909, "text": "Juan Evangelista Gómez"}
+{"end": 538065, "label": "ORG", "start": 538037, "text": "Colegio Guillermo Cano Vamos"}
+{"end": 538515, "label": "MISC", "start": 538500, "text": "“NOMBRE PERSONA"}
+{"end": 538779, "label": "MISC", "start": 538763, "text": "“NOMBRE PERSONA”"}
+{"end": 539665, "label": "MISC", "start": 539649, "text": "“NOMBRE PERSONA”"}
+{"end": 542006, "label": "MISC", "start": 541994, "text": "Método Labov"}
+{"end": 544350, "label": "PER", "start": 544345, "text": "Bueno"}
+{"end": 545367, "label": "MISC", "start": 545358, "text": "Compañero"}
+{"end": 545438, "label": "MISC", "start": 545429, "text": "Conflicto"}
+{"end": 545847, "label": "MISC", "start": 545840, "text": "Jornada"}
+{"end": 545932, "label": "MISC", "start": 545916, "text": "“NOMBRE PERSONA”"}
+{"end": 545974, "label": "ORG", "start": 545968, "text": "Comité"}
+{"end": 546026, "label": "MISC", "start": 546021, "text": "Ética"}
+{"end": 547326, "label": "PER", "start": 547321, "text": "Justo"}
+{"end": 547370, "label": "PER", "start": 547361, "text": "Mire Tuve"}
+{"end": 548003, "label": "PER", "start": 547997, "text": "Perdón"}
+{"end": 548076, "label": "MISC", "start": 548064, "text": "Bachillerato"}
+{"end": 548161, "label": "MISC", "start": 548149, "text": "Bachillerato"}
+{"end": 548384, "label": "MISC", "start": 548372, "text": "Bachillerato"}
+{"end": 548614, "label": "MISC", "start": 548606, "text": "Solución"}
+{"end": 549512, "label": "MISC", "start": 549505, "text": "Séptimo"}
+{"end": 549702, "label": "MISC", "start": 549697, "text": "Mejor"}
+{"end": 550827, "label": "MISC", "start": 550818, "text": "Conflicto"}
+{"end": 552041, "label": "MISC", "start": 552034, "text": "Séptimo"}
+{"end": 552807, "label": "MISC", "start": 552802, "text": "Sexto"}
+{"end": 552925, "label": "MISC", "start": 552908, "text": "Vocabulario Bueno"}
+{"end": 553335, "label": "MISC", "start": 553326, "text": "Autoridad"}
+{"end": 553668, "label": "MISC", "start": 553662, "text": "Físico"}
+{"end": 556165, "label": "MISC", "start": 556151, "text": "NOMBRE PERSONA"}
+{"end": 556962, "label": "MISC", "start": 556951, "text": "Apabullados"}
+{"end": 557675, "label": "MISC", "start": 557670, "text": "Poder"}
+{"end": 559148, "label": "MISC", "start": 559136, "text": "Interactuado"}
+{"end": 559194, "label": "MISC", "start": 559187, "text": "Actores"}
+{"end": 560364, "label": "PER", "start": 560360, "text": "Ella"}
+{"end": 561680, "label": "MISC", "start": 561672, "text": "Grabense"}
+{"end": 562648, "label": "MISC", "start": 562633, "text": "“NOMBRE PERSONA"}
+{"end": 562704, "label": "PER", "start": 562701, "text": "Era"}
+{"end": 562844, "label": "PER", "start": 562841, "text": "Más"}
+{"end": 562864, "label": "PER", "start": 562859, "text": "Claro"}
+{"end": 562984, "label": "PER", "start": 562980, "text": "Salí"}
+{"end": 563368, "label": "PER", "start": 563363, "text": "Miren"}
+{"end": 566426, "label": "MISC", "start": 566419, "text": "Presión"}
+{"end": 566502, "label": "MISC", "start": 566493, "text": "Corazones"}
+{"end": 566955, "label": "PER", "start": 566949, "text": "Tirado"}
+{"end": 567047, "label": "MISC", "start": 567040, "text": "Corazón"}
+{"end": 567343, "label": "MISC", "start": 567327, "text": "“NOMBRE PERSONA”"}
+{"end": 568265, "label": "ORG", "start": 568259, "text": "Al Ser"}
+{"end": 568694, "label": "MISC", "start": 568689, "text": "Sexto"}
+{"end": 570353, "label": "PER", "start": 570349, "text": "Iban"}
+{"end": 570382, "label": "PER", "start": 570377, "text": "Profe"}
+{"end": 570530, "label": "MISC", "start": 570522, "text": "Siéntate"}
+{"end": 571239, "label": "ORG", "start": 571220, "text": "Curtiendo Curtiendo"}
+{"end": 571889, "label": "PER", "start": 571886, "text": "Era"}
+{"end": 572074, "label": "PER", "start": 572065, "text": "Pasquilla"}
+{"end": 572325, "label": "MISC", "start": 572320, "text": "Rumbo"}
+{"end": 572485, "label": "MISC", "start": 572480, "text": "Pare!"}
+{"end": 573556, "label": "PER", "start": 573551, "text": "Rabia"}
+{"end": 573998, "label": "PER", "start": 573993, "text": "Quién"}
+{"end": 575255, "label": "MISC", "start": 575249, "text": "Octavo"}
+{"end": 575536, "label": "MISC", "start": 575527, "text": "Situación"}
+{"end": 576892, "label": "MISC", "start": 576886, "text": "Octavo"}
+{"end": 577289, "label": "MISC", "start": 577278, "text": "Positivismo"}
+{"end": 577576, "label": "MISC", "start": 577569, "text": "Directa"}
+{"end": 577628, "label": "MISC", "start": 577613, "text": "Sensibilización"}
+{"end": 577818, "label": "MISC", "start": 577810, "text": "Acuerdos"}
+{"end": 578063, "label": "MISC", "start": 578049, "text": "NOMBRE PERSONA"}
+{"end": 578482, "label": "MISC", "start": 578466, "text": "“NOMBRE PERSONA”"}
+{"end": 579058, "label": "PER", "start": 579054, "text": "Vino"}
+{"end": 579480, "label": "ORG", "start": 579469, "text": "Encubren No"}
+{"end": 579538, "label": "PER", "start": 579534, "text": "Mira"}
+{"end": 579953, "label": "PER", "start": 579944, "text": "di Inglés"}
+{"end": 579979, "label": "PER", "start": 579975, "text": "Ella"}
+{"end": 580054, "label": "PER", "start": 580050, "text": "Ella"}
+{"end": 580123, "label": "PER", "start": 580121, "text": "Ay"}
+{"end": 580551, "label": "PER", "start": 580546, "text": "Bueno"}
+{"end": 580904, "label": "MISC", "start": 580898, "text": "Grande"}
+{"end": 582992, "label": "MISC", "start": 582985, "text": "Segunda"}
+{"end": 583229, "label": "MISC", "start": 583222, "text": "Tráfico"}
+{"end": 584399, "label": "MISC", "start": 584388, "text": "Observación"}
+{"end": 586276, "label": "MISC", "start": 586264, "text": "Restaurativa"}
+{"end": 586463, "label": "MISC", "start": 586453, "text": "Disciplina"}
+{"end": 586902, "label": "MISC", "start": 586893, "text": "Despacito"}
+{"end": 587279, "label": "MISC", "start": 587272, "text": "Diarias"}
+{"end": 587440, "label": "MISC", "start": 587432, "text": "Justicia"}
+{"end": 588522, "label": "PER", "start": 588517, "text": "Miren"}
+{"end": 589406, "label": "PER", "start": 589400, "text": "Soacha"}
+{"end": 589924, "label": "LOC", "start": 589916, "text": "Colombia"}
+{"end": 590042, "label": "MISC", "start": 590036, "text": "Juegos"}
+{"end": 590088, "label": "MISC", "start": 590079, "text": "Mitoverso"}
+{"end": 590183, "label": "MISC", "start": 590174, "text": "Filosofía"}
+{"end": 590326, "label": "ORG", "start": 590323, "text": "PEI"}
+{"end": 590356, "label": "MISC", "start": 590335, "text": "Justicia Restaurativa"}
+{"end": 590796, "label": "MISC", "start": 590784, "text": "Restaurativa"}
+{"end": 590953, "label": "ORG", "start": 590943, "text": "Secretaría"}
+{"end": 590983, "label": "MISC", "start": 590975, "text": "Procesos"}
+{"end": 591178, "label": "ORG", "start": 591166, "text": "Secretaría A"}
+{"end": 591332, "label": "ORG", "start": 591322, "text": "Secretaría"}
+{"end": 591792, "label": "ORG", "start": 591782, "text": "Secretaría"}
+{"end": 592211, "label": "MISC", "start": 592180, "text": "Juegos Intercolegiados Anterior"}
+{"end": 592401, "label": "ORG", "start": 592397, "text": "Dril"}
+{"end": 592653, "label": "MISC", "start": 592648, "text": "Tocas"}
+{"end": 593103, "label": "LOC", "start": 593094, "text": "Catatumbo"}
+{"end": 593151, "label": "LOC", "start": 593146, "text": "Cauca"}
+{"end": 593216, "label": "MISC", "start": 593208, "text": "Sociales"}
+{"end": 593972, "label": "ORG", "start": 593968, "text": "Fija"}
+{"end": 594466, "label": "MISC", "start": 594460, "text": "Límite"}
+{"end": 595551, "label": "ORG", "start": 595541, "text": "Secretaría"}
+{"end": 596368, "label": "PER", "start": 596358, "text": "Pregúntale"}
+{"end": 596386, "label": "MISC", "start": 596372, "text": "NOMBRE PERSONA"}
+{"end": 596632, "label": "PER", "start": 596627, "text": "Profe"}
+{"end": 597979, "label": "MISC", "start": 597965, "text": "NOMBRE PERSONA"}
+{"end": 598106, "label": "MISC", "start": 598092, "text": "NOMBRE PERSONA"}
+{"end": 598949, "label": "PER", "start": 598947, "text": "Ok"}
+{"end": 599012, "label": "LOC", "start": 599000, "text": "Paulo Freire"}
+{"end": 599725, "label": "ORG", "start": 599704, "text": "Comité de Convivencia"}
+{"end": 603783, "label": "PER", "start": 603777, "text": "Hermes"}
+{"end": 603866, "label": "MISC", "start": 603863, "text": "JER"}
+{"end": 604155, "label": "MISC", "start": 604152, "text": "JER"}
+{"end": 605240, "label": "ORG", "start": 605230, "text": "Secretaría"}
+{"end": 605471, "label": "ORG", "start": 605461, "text": "Secretaría"}
+{"end": 605994, "label": "ORG", "start": 605991, "text": "JER"}
+{"end": 608974, "label": "PER", "start": 608968, "text": "Hermes"}
+{"end": 609059, "label": "PER", "start": 609053, "text": "Hermes"}
+{"end": 609214, "label": "PER", "start": 609208, "text": "Hermes"}
+{"end": 609258, "label": "PER", "start": 609252, "text": "Hermes"}
+{"end": 609314, "label": "ORG", "start": 609296, "text": "Cámara de Comercio"}
+{"end": 609749, "label": "ORG", "start": 609731, "text": "Cámara de Comercio"}
+{"end": 610421, "label": "PER", "start": 610418, "text": "JER"}
+{"end": 610598, "label": "PER", "start": 610592, "text": "Hermes"}
+{"end": 610625, "label": "ORG", "start": 610622, "text": "JER"}
+{"end": 610670, "label": "ORG", "start": 610652, "text": "Cámara de Comercio"}
+{"end": 610775, "label": "LOC", "start": 610769, "text": "Bogotá"}
+{"end": 611236, "label": "ORG", "start": 611230, "text": "Cámara"}
+{"end": 611507, "label": "PER", "start": 611501, "text": "Hermes"}
+{"end": 611597, "label": "PER", "start": 611591, "text": "Hermes"}
+{"end": 612289, "label": "MISC", "start": 612275, "text": "Mundo Aventura"}
+{"end": 612373, "label": "ORG", "start": 612359, "text": "Mundo Aventura"}
+{"end": 613038, "label": "ORG", "start": 613035, "text": "JER"}
+{"end": 613266, "label": "ORG", "start": 613263, "text": "JER"}
+{"end": 613315, "label": "ORG", "start": 613305, "text": "Secretaría"}
+{"end": 613821, "label": "ORG", "start": 613818, "text": "JER"}
+{"end": 614107, "label": "PER", "start": 614104, "text": "JER"}
+{"end": 614142, "label": "PER", "start": 614136, "text": "HERMES"}
+{"end": 614903, "label": "PER", "start": 614897, "text": "Métalo"}
+{"end": 614985, "label": "ORG", "start": 614982, "text": "CIE"}
+{"end": 615877, "label": "MISC", "start": 615874, "text": "JER"}
+{"end": 615896, "label": "PER", "start": 615890, "text": "HERMES"}
+{"end": 616057, "label": "MISC", "start": 616043, "text": "NOMBRE PERSONA"}
+{"end": 616465, "label": "MISC", "start": 616462, "text": "JER"}
+{"end": 618059, "label": "MISC", "start": 618045, "text": "NOMBRE PERSONA"}
+{"end": 618649, "label": "PER", "start": 618643, "text": "Hermes"}
+{"end": 618660, "label": "PER", "start": 618657, "text": "Jer"}
+{"end": 618677, "label": "PER", "start": 618668, "text": "Hermes Yo"}
+{"end": 618767, "label": "PER", "start": 618761, "text": "Hermes"}
+{"end": 618788, "label": "PER", "start": 618785, "text": "Jer"}
+{"end": 618890, "label": "PER", "start": 618884, "text": "Hermes"}
+{"end": 618961, "label": "PER", "start": 618955, "text": "Hermes"}
+{"end": 618977, "label": "PER", "start": 618971, "text": "Hermes"}
+{"end": 619099, "label": "ORG", "start": 619076, "text": "Secretaría de Educación"}
+{"end": 619366, "label": "PER", "start": 619359, "text": "Chévere"}
+{"end": 619576, "label": "PER", "start": 619570, "text": "Hermes"}
+{"end": 619605, "label": "PER", "start": 619599, "text": "Hermes"}
+{"end": 619650, "label": "PER", "start": 619644, "text": "Hermes"}
+{"end": 619808, "label": "MISC", "start": 619794, "text": "NOMBRE PERSONA"}
+{"end": 620933, "label": "MISC", "start": 620922, "text": "Convivencia"}
+{"end": 620967, "label": "MISC", "start": 620956, "text": "Convivencia"}
+{"end": 621263, "label": "ORG", "start": 621240, "text": "Secretaría de Educación"}
+{"end": 621771, "label": "MISC", "start": 621768, "text": "JER"}
+{"end": 623559, "label": "PER", "start": 623553, "text": "Hermes"}
+{"end": 624486, "label": "ORG", "start": 624463, "text": "Secretaría de Educación"}
+{"end": 625224, "label": "PER", "start": 625218, "text": "Hermes"}
+{"end": 629710, "label": "LOC", "start": 629704, "text": "Bogotá"}
+{"end": 630357, "label": "ORG", "start": 630354, "text": "JER"}
+{"end": 631234, "label": "LOC", "start": 631211, "text": "Secretaría de Educación"}
+{"end": 631687, "label": "MISC", "start": 631684, "text": "JER"}
+{"end": 634052, "label": "LOC", "start": 634046, "text": "Bogotá"}
+{"end": 636188, "label": "MISC", "start": 636185, "text": "JER"}
+{"end": 636351, "label": "ORG", "start": 636328, "text": "Secretaría de Educación"}
+{"end": 636919, "label": "ORG", "start": 636916, "text": "JER"}
+{"end": 636934, "label": "ORG", "start": 636931, "text": "JER"}
+{"end": 636978, "label": "ORG", "start": 636975, "text": "JER"}
+{"end": 637282, "label": "MISC", "start": 637279, "text": "JER"}
+{"end": 637510, "label": "MISC", "start": 637509, "text": "E"}
+{"end": 637830, "label": "ORG", "start": 637827, "text": "JER"}
+{"end": 638732, "label": "ORG", "start": 638714, "text": "Cámara de Comercio"}
+{"end": 638874, "label": "PER", "start": 638868, "text": "Hermes"}
+{"end": 639585, "label": "ORG", "start": 639562, "text": "Secretaría de Educación"}
+{"end": 639741, "label": "ORG", "start": 639731, "text": "Secretaría"}
+{"end": 639930, "label": "MISC", "start": 639927, "text": "JER"}
+{"end": 639946, "label": "MISC", "start": 639943, "text": "JER"}
+{"end": 640031, "label": "ORG", "start": 640021, "text": "Secretaría"}
+{"end": 640275, "label": "ORG", "start": 640252, "text": "Secretaría de Educación"}
+{"end": 640697, "label": "LOC", "start": 640691, "text": "Bogotá"}
+{"end": 640793, "label": "ORG", "start": 640783, "text": "Secretaría"}
+{"end": 641522, "label": "LOC", "start": 641516, "text": "Bogotá"}
+{"end": 642008, "label": "ORG", "start": 642002, "text": "Cámara"}
+{"end": 642019, "label": "ORG", "start": 642013, "text": "Cámara"}
+{"end": 642363, "label": "MISC", "start": 642360, "text": "Jer"}
+{"end": 642412, "label": "ORG", "start": 642389, "text": "Secretaría de Educación"}
+{"end": 642620, "label": "ORG", "start": 642610, "text": "Secretaría"}
+{"end": 643744, "label": "MISC", "start": 643730, "text": "NOMBRE PERSONA"}
+{"end": 644180, "label": "LOC", "start": 644174, "text": "Bogotá"}
+{"end": 644319, "label": "ORG", "start": 644296, "text": "Secretaría de Educación"}
+{"end": 644880, "label": "PER", "start": 644874, "text": "Hermes"}
+{"end": 644933, "label": "ORG", "start": 644930, "text": "JER"}
+{"end": 645145, "label": "MISC", "start": 645142, "text": "JER"}
+{"end": 645282, "label": "PER", "start": 645279, "text": "JER"}
+{"end": 645334, "label": "MISC", "start": 645328, "text": "JER \nE"}
+{"end": 645560, "label": "MISC", "start": 645546, "text": "NOMBRE PERSONA"}
+{"end": 646256, "label": "MISC", "start": 646242, "text": "NOMBRE PERSONA"}
+{"end": 646507, "label": "ORG", "start": 646486, "text": "Universidad Distrital"}
+{"end": 646808, "label": "ORG", "start": 646805, "text": "SED"}
+{"end": 646842, "label": "MISC", "start": 646836, "text": "Hermes"}
+{"end": 646852, "label": "LOC", "start": 646846, "text": "Bogotá"}
+{"end": 647002, "label": "ORG", "start": 646999, "text": "SED"}
+{"end": 647493, "label": "LOC", "start": 647487, "text": "Bogotá"}
+{"end": 647519, "label": "MISC", "start": 647505, "text": "NOMBRE PERSONA"}
+{"end": 648313, "label": "LOC", "start": 648278, "text": "Colegio Ciudadela Educativa de Bosa"}
+{"end": 648439, "label": "MISC", "start": 648425, "text": "NOMBRE PERSONA"}
+{"end": 648642, "label": "MISC", "start": 648634, "text": "Nacional"}
+{"end": 648681, "label": "MISC", "start": 648673, "text": "Nacional"}
+{"end": 649040, "label": "MISC", "start": 649026, "text": "NOMBRE PERSONA"}
+{"end": 649908, "label": "MISC", "start": 649894, "text": "NOMBRE PERSONA"}
+{"end": 650121, "label": "PER", "start": 650118, "text": "JER"}
+{"end": 650492, "label": "MISC", "start": 650478, "text": "NOMBRE PERSONA"}
+{"end": 651018, "label": "PER", "start": 651013, "text": "Labov"}
+{"end": 651026, "label": "PER", "start": 651021, "text": "Labov"}
+{"end": 652325, "label": "PER", "start": 652317, "text": "Sutanito"}
+{"end": 653564, "label": "MISC", "start": 653550, "text": "NOMBRE PERSONA"}
+{"end": 653873, "label": "ORG", "start": 653870, "text": "JER"}
+{"end": 653992, "label": "PER", "start": 653984, "text": "Sutanito"}
+{"end": 654070, "label": "MISC", "start": 654056, "text": "Venga Sutanito"}
+{"end": 654100, "label": "PER", "start": 654092, "text": "Sutanito"}
+{"end": 654411, "label": "MISC", "start": 654396, "text": "NOMBRE PERSONAl"}
+{"end": 654545, "label": "PER", "start": 654543, "text": "Ok"}
+{"end": 654723, "label": "PER", "start": 654715, "text": "Sutanito"}
+{"end": 654754, "label": "PER", "start": 654746, "text": "Sutanito"}
+{"end": 654772, "label": "PER", "start": 654764, "text": "Sutanito"}
+{"end": 654798, "label": "PER", "start": 654790, "text": "Sutanito"}
+{"end": 655187, "label": "MISC", "start": 655173, "text": "NOMBRE PERSONA"}
+{"end": 655357, "label": "MISC", "start": 655352, "text": "Ya.\nP"}
+{"end": 655399, "label": "MISC", "start": 655385, "text": "NOMBRE PERSONA"}
+{"end": 655838, "label": "MISC", "start": 655824, "text": "NOMBRE PERSONA"}
+{"end": 656152, "label": "MISC", "start": 656138, "text": "NOMBRE PERSONA"}
+{"end": 656192, "label": "PER", "start": 656187, "text": "Guiro"}
+{"end": 656201, "label": "MISC", "start": 656195, "text": "Guiro!"}
+{"end": 656296, "label": "MISC", "start": 656282, "text": "NOMBRE PERSONA"}
+{"end": 656330, "label": "MISC", "start": 656316, "text": "NOMBRE PERSONA"}
+{"end": 656757, "label": "MISC", "start": 656743, "text": "NOMBRE PERSONA"}
+{"end": 656810, "label": "MISC", "start": 656796, "text": "NOMBRE PERSONA"}
+{"end": 656848, "label": "MISC", "start": 656834, "text": "NOMBRE PERSONA"}
+{"end": 656978, "label": "LOC", "start": 656970, "text": "Santa Fe"}
+{"end": 657574, "label": "MISC", "start": 657560, "text": "NOMBRE PERSONA"}
+{"end": 657593, "label": "MISC", "start": 657579, "text": "NOMBRE PERSONA"}
+{"end": 657687, "label": "LOC", "start": 657683, "text": "Bosa"}
+{"end": 657714, "label": "LOC", "start": 657710, "text": "Bosa"}
+{"end": 657746, "label": "MISC", "start": 657732, "text": "NOMBRE PERSONA"}
+{"end": 657811, "label": "MISC", "start": 657797, "text": "NOMBRE PERSONA"}
+{"end": 658129, "label": "PER", "start": 658127, "text": "Ja"}
+{"end": 658290, "label": "MISC", "start": 658276, "text": "NOMBRE PERSONA"}
+{"end": 658446, "label": "MISC", "start": 658432, "text": "NOMBRE PERSONA"}
+{"end": 658524, "label": "MISC", "start": 658510, "text": "NOMBRE PERSONA"}
+{"end": 658546, "label": "MISC", "start": 658532, "text": "NOMBRE PERSONA"}
+{"end": 658600, "label": "MISC", "start": 658586, "text": "NOMBRE PERSONA"}
+{"end": 658623, "label": "MISC", "start": 658609, "text": "NOMBRE PERSONA"}
+{"end": 658749, "label": "MISC", "start": 658735, "text": "NOMBRE PERSONA"}
+{"end": 659230, "label": "MISC", "start": 659216, "text": "NOMBRE PERSONA"}
+{"end": 659402, "label": "MISC", "start": 659388, "text": "NOMBRE PERSONA"}
+{"end": 659899, "label": "MISC", "start": 659885, "text": "NOMBRE PERSONA"}
+{"end": 660424, "label": "MISC", "start": 660410, "text": "NOMBRE PERSONA"}
+{"end": 660618, "label": "MISC", "start": 660604, "text": "NOMBRE PERSONA"}
+{"end": 660807, "label": "MISC", "start": 660793, "text": "NOMBRE PERSONA"}
+{"end": 661387, "label": "MISC", "start": 661373, "text": "NOMBRE PERSONA"}
+{"end": 662572, "label": "MISC", "start": 662558, "text": "NOMBRE PERSONA"}
+{"end": 664768, "label": "ORG", "start": 664754, "text": "NOMBRE PERSONA"}
+{"end": 664925, "label": "PER", "start": 664908, "text": "De NOMBRE PERSONA"}
+{"end": 664944, "label": "MISC", "start": 664930, "text": "NOMBRE PERSONA"}
+{"end": 664963, "label": "MISC", "start": 664949, "text": "NOMBRE PERSONA"}
+{"end": 664982, "label": "MISC", "start": 664968, "text": "NOMBRE PERSONA"}
+{"end": 665021, "label": "MISC", "start": 665007, "text": "NOMBRE PERSONA"}
+{"end": 667682, "label": "MISC", "start": 667668, "text": "NOMBRE PERSONA"}
+{"end": 667999, "label": "MISC", "start": 667985, "text": "NOMBRE PERSONA"}
+{"end": 669090, "label": "LOC", "start": 669078, "text": "Cundinamarca"}
+{"end": 669841, "label": "MISC", "start": 669827, "text": "NOMBRE PERSONA"}
+{"end": 670554, "label": "PER", "start": 670540, "text": "Pablo Escobar,"}
+{"end": 670614, "label": "MISC", "start": 670600, "text": "NOMBRE PERSONA"}
+{"end": 670791, "label": "MISC", "start": 670777, "text": "NOMBRE PERSONA"}
+{"end": 670839, "label": "MISC", "start": 670825, "text": "NOMBRE PERSONA"}
+{"end": 671243, "label": "PER", "start": 671235, "text": "Raymundo"}
+{"end": 672543, "label": "MISC", "start": 672529, "text": "NOMBRE PERSONA"}
+{"end": 672563, "label": "MISC", "start": 672549, "text": "NOMBRE PERSONA"}
+{"end": 672583, "label": "MISC", "start": 672569, "text": "NOMBRE PERSONA"}
+{"end": 672603, "label": "MISC", "start": 672589, "text": "NOMBRE PERSONA"}
+{"end": 672638, "label": "MISC", "start": 672624, "text": "NOMBRE PERSONA"}
+{"end": 672829, "label": "MISC", "start": 672815, "text": "NOMBRE PERSONA"}
+{"end": 673859, "label": "MISC", "start": 673845, "text": "NOMBRE PERSONA"}
+{"end": 675637, "label": "MISC", "start": 675623, "text": "NOMBRE PERSONA"}
+{"end": 675680, "label": "MISC", "start": 675666, "text": "NOMBRE PERSONA"}
+{"end": 675886, "label": "MISC", "start": 675883, "text": "JER"}
+{"end": 675943, "label": "MISC", "start": 675940, "text": "JER"}
+{"end": 677450, "label": "MISC", "start": 677447, "text": "JER"}
+{"end": 677726, "label": "PER", "start": 677723, "text": "JER"}
+{"end": 678254, "label": "MISC", "start": 678240, "text": "NOMBRE PERSONA"}
+{"end": 678275, "label": "MISC", "start": 678261, "text": "NOMBRE PERSONA"}
+{"end": 678308, "label": "MISC", "start": 678294, "text": "NOMBRE PERSONA"}
+{"end": 678330, "label": "MISC", "start": 678316, "text": "NOMBRE PERSONA"}
+{"end": 678472, "label": "ORG", "start": 678469, "text": "JER"}
+{"end": 678525, "label": "MISC", "start": 678511, "text": "NOMBRE PERSONA"}
+{"end": 678627, "label": "ORG", "start": 678613, "text": "NOMBRE PERSONA"}
+{"end": 678668, "label": "MISC", "start": 678654, "text": "NOMBRE PERSONA"}
+{"end": 678748, "label": "MISC", "start": 678745, "text": "JER"}
+{"end": 679233, "label": "MISC", "start": 679219, "text": "NOMBRE PERSONA"}
+{"end": 679265, "label": "MISC", "start": 679251, "text": "NOMBRE PERSONA"}
+{"end": 679296, "label": "MISC", "start": 679282, "text": "NOMBRE PERSONA"}
+{"end": 679531, "label": "MISC", "start": 679517, "text": "NOMBRE PERSONA"}
+{"end": 679569, "label": "MISC", "start": 679566, "text": "OCE"}
+{"end": 679655, "label": "ORG", "start": 679652, "text": "SED"}
+{"end": 679730, "label": "MISC", "start": 679727, "text": "SED"}
+{"end": 679786, "label": "ORG", "start": 679783, "text": "JER"}
+{"end": 679933, "label": "MISC", "start": 679919, "text": "NOMBRE PERSONA"}
+{"end": 679949, "label": "MISC", "start": 679935, "text": "NOMBRE PERSONA"}
+{"end": 680618, "label": "MISC", "start": 680615, "text": "JER"}
+{"end": 680839, "label": "MISC", "start": 680836, "text": "JER"}
+{"end": 682863, "label": "MISC", "start": 682860, "text": "JER"}
+{"end": 683479, "label": "MISC", "start": 683465, "text": "NOMBRE PERSONA"}
+{"end": 683527, "label": "MISC", "start": 683513, "text": "NOMBRE PERSONA"}
+{"end": 686393, "label": "MISC", "start": 686379, "text": "NOMBRE PERSONA"}
+{"end": 686642, "label": "MISC", "start": 686628, "text": "NOMBRE PERSONA"}
+{"end": 686967, "label": "MISC", "start": 686964, "text": "JER"}
+{"end": 687201, "label": "ORG", "start": 687198, "text": "JER"}
+{"end": 687334, "label": "PER", "start": 687328, "text": "Hermes"}
+{"end": 687349, "label": "PER", "start": 687343, "text": "Hermes"}
+{"end": 687560, "label": "MISC", "start": 687546, "text": "NOMBRE PERSONA"}
+{"end": 687618, "label": "MISC", "start": 687604, "text": "NOMBRE PERSONA"}
+{"end": 687658, "label": "MISC", "start": 687644, "text": "NOMBRE PERSONA"}
+{"end": 687680, "label": "PER", "start": 687675, "text": "Simón"}
+{"end": 687753, "label": "PER", "start": 687748, "text": "Simón"}
+{"end": 687795, "label": "ORG", "start": 687780, "text": "Naciones Unidas"}
+{"end": 687814, "label": "LOC", "start": 687808, "text": "Bogotá"}
+{"end": 687933, "label": "MISC", "start": 687919, "text": "NOMBRE PERSONA"}
+{"end": 688428, "label": "MISC", "start": 688414, "text": "NOMBRE PERSONA"}
+{"end": 688447, "label": "MISC", "start": 688433, "text": "NOMBRE PERSONA"}
+{"end": 688521, "label": "MISC", "start": 688507, "text": "NOMBRE PERSONA"}
+{"end": 688538, "label": "MISC", "start": 688524, "text": "NOMBRE PERSONA"}
+{"end": 688739, "label": "ORG", "start": 688736, "text": "SED"}
+{"end": 689277, "label": "MISC", "start": 689263, "text": "NOMBRE PERSONA"}
+{"end": 689322, "label": "MISC", "start": 689318, "text": "O.C."}
+{"end": 689358, "label": "MISC", "start": 689355, "text": "JER"}
+{"end": 689427, "label": "MISC", "start": 689413, "text": "NOMBRE PERSONA"}
+{"end": 689669, "label": "MISC", "start": 689655, "text": "NOMBRE PERSONA"}
+{"end": 689858, "label": "MISC", "start": 689844, "text": "NOMBRE PERSONA"}
+{"end": 690000, "label": "ORG", "start": 689997, "text": "SED"}
+{"end": 690019, "label": "MISC", "start": 690005, "text": "NOMBRE PERSONA"}
+{"end": 690039, "label": "MISC", "start": 690025, "text": "NOMBRE PERSONA"}
+{"end": 690069, "label": "MISC", "start": 690055, "text": "NOMBRE PERSONA"}
+{"end": 690091, "label": "MISC", "start": 690077, "text": "NOMBRE PERSONA"}
+{"end": 690569, "label": "PER", "start": 690563, "text": "Hermes"}
+{"end": 690585, "label": "MISC", "start": 690571, "text": "NOMBRE PERSONA"}
+{"end": 690610, "label": "MISC", "start": 690596, "text": "NOMBRE PERSONA"}
+{"end": 690623, "label": "PER", "start": 690617, "text": "Hermes"}
+{"end": 690723, "label": "PER", "start": 690717, "text": "Hermes"}
+{"end": 690757, "label": "PER", "start": 690751, "text": "Hermes"}
+{"end": 690983, "label": "MISC", "start": 690969, "text": "NOMBRE PERSONA"}
+{"end": 691018, "label": "MISC", "start": 691004, "text": "NOMBRE PERSONA"}
+{"end": 691136, "label": "MISC", "start": 691133, "text": "JER"}
+{"end": 691376, "label": "MISC", "start": 691362, "text": "NOMBRE PERSONA"}
+{"end": 691431, "label": "ORG", "start": 691411, "text": "Universidad Nacional"}
+{"end": 691524, "label": "MISC", "start": 691503, "text": "Manual de Convivencia"}
+{"end": 691745, "label": "MISC", "start": 691731, "text": "NOMBRE PERSONA"}
+{"end": 691803, "label": "PER", "start": 691798, "text": "Simón"}
+{"end": 691853, "label": "LOC", "start": 691838, "text": "Orlando Higuita"}
+{"end": 691909, "label": "MISC", "start": 691906, "text": "O.C"}
+{"end": 692179, "label": "PER", "start": 692175, "text": "Bosa"}
+{"end": 692211, "label": "LOC", "start": 692207, "text": "Usme"}
+{"end": 692673, "label": "MISC", "start": 692659, "text": "NOMBRE PERSONA"}
+{"end": 692867, "label": "LOC", "start": 692858, "text": "Ciudadela"}
+{"end": 693109, "label": "MISC", "start": 693095, "text": "NOMBRE PERSONA"}
+{"end": 693783, "label": "MISC", "start": 693769, "text": "NOMBRE PERSONA"}
+{"end": 695734, "label": "PER", "start": 695729, "text": "Ok.\nP"}
+{"end": 696350, "label": "MISC", "start": 696347, "text": "JER"}
+{"end": 696986, "label": "MISC", "start": 696983, "text": "JER"}
+{"end": 697195, "label": "MISC", "start": 697181, "text": "NOMBRE PERSONA"}
+{"end": 697213, "label": "MISC", "start": 697199, "text": "NOMBRE PERSONA"}
+{"end": 697247, "label": "MISC", "start": 697233, "text": "NOMBRE PERSONA"}
+{"end": 698005, "label": "MISC", "start": 697991, "text": "NOMBRE PERSONA"}
+{"end": 698030, "label": "MISC", "start": 698016, "text": "NOMBRE PERSONA"}
+{"end": 698356, "label": "MISC", "start": 698342, "text": "NOMBRE PERSONA"}
+{"end": 699113, "label": "MISC", "start": 699110, "text": "JER"}
+{"end": 699532, "label": "MISC", "start": 699518, "text": "NOMBRE PERSONA"}
+{"end": 700489, "label": "MISC", "start": 700486, "text": "JER"}
+{"end": 700852, "label": "ORG", "start": 700849, "text": "JER"}
+{"end": 700944, "label": "PER", "start": 700941, "text": "Paz"}
+{"end": 701056, "label": "PER", "start": 701053, "text": "Paz"}
+{"end": 701948, "label": "MISC", "start": 701947, "text": "H"}
+{"end": 701960, "label": "MISC", "start": 701959, "text": "J"}
+{"end": 702428, "label": "MISC", "start": 702414, "text": "NOMBRE PERSONA"}
+{"end": 703124, "label": "PER", "start": 703118, "text": "Freire"}
+{"end": 703282, "label": "PER", "start": 703276, "text": "Freire"}
+{"end": 703734, "label": "MISC", "start": 703731, "text": "JER"}
+{"end": 704308, "label": "ORG", "start": 704305, "text": "SED"}
+{"end": 704320, "label": "MISC", "start": 704317, "text": "SED"}
+{"end": 705148, "label": "MISC", "start": 705145, "text": "JER"}
+{"end": 705757, "label": "MISC", "start": 705754, "text": "JER"}
+{"end": 705953, "label": "MISC", "start": 705950, "text": "JER"}
+{"end": 706445, "label": "MISC", "start": 706431, "text": "NOMBRE PERSONA"}
+{"end": 706462, "label": "MISC", "start": 706448, "text": "NOMBRE PERSONA"}
+{"end": 706696, "label": "ORG", "start": 706675, "text": "Escuela Abraza la Paz"}
+{"end": 706726, "label": "ORG", "start": 706705, "text": "Escuela Abraza la Paz"}
+{"end": 707120, "label": "ORG", "start": 707117, "text": "JER"}
+{"end": 707284, "label": "MISC", "start": 707281, "text": "JER"}
+{"end": 707812, "label": "MISC", "start": 707809, "text": "JER"}
+{"end": 707875, "label": "MISC", "start": 707872, "text": "JER"}
+{"end": 707987, "label": "LOC", "start": 707979, "text": "Colombia"}
+{"end": 708541, "label": "MISC", "start": 708527, "text": "NOMBRE PERSONA"}
+{"end": 709091, "label": "ORG", "start": 709077, "text": "NOMBRE PERSONA"}
+{"end": 709154, "label": "MISC", "start": 709151, "text": "JER"}
+{"end": 709263, "label": "MISC", "start": 709260, "text": "JER"}
+{"end": 709980, "label": "MISC", "start": 709966, "text": "NOMBRE PERSONA"}
+{"end": 710438, "label": "MISC", "start": 710424, "text": "NOMBRE PERSONA"}
+{"end": 710994, "label": "MISC", "start": 710991, "text": "JER"}
+{"end": 711078, "label": "MISC", "start": 711075, "text": "JER"}
+{"end": 711410, "label": "MISC", "start": 711407, "text": "JER"}
+{"end": 711536, "label": "LOC", "start": 711527, "text": "Ciudadela"}
+{"end": 711578, "label": "LOC", "start": 711572, "text": "Bogotá"}
+{"end": 711675, "label": "PER", "start": 711669, "text": "Freire"}
+{"end": 711871, "label": "MISC", "start": 711868, "text": "SED"}
+{"end": 711990, "label": "ORG", "start": 711977, "text": "Bogotá Humana"}
+{"end": 712086, "label": "PER", "start": 712073, "text": "Claudia López"}
+{"end": 712121, "label": "PER", "start": 712116, "text": "Galán"}
+{"end": 712139, "label": "PER", "start": 712134, "text": "Galán"}
+{"end": 712915, "label": "MISC", "start": 712901, "text": "NOMBRE PERSONA"}
+{"end": 713159, "label": "ORG", "start": 713156, "text": "JER"}
+{"end": 714312, "label": "MISC", "start": 714309, "text": "JER"}
+{"end": 715074, "label": "ORG", "start": 715071, "text": "JER"}
+{"end": 715113, "label": "MISC", "start": 715110, "text": "JER"}
+{"end": 715192, "label": "ORG", "start": 715189, "text": "SED"}
+{"end": 715255, "label": "ORG", "start": 715245, "text": "Secretaría"}
+{"end": 715338, "label": "ORG", "start": 715335, "text": "OCE"}
+{"end": 715382, "label": "MISC", "start": 715379, "text": "OCE"}
+{"end": 715404, "label": "ORG", "start": 715401, "text": "OCE"}
+{"end": 715491, "label": "MISC", "start": 715477, "text": "NOMBRE PERSONA"}
+{"end": 715790, "label": "LOC", "start": 715784, "text": "Bogotá"}
+{"end": 716448, "label": "ORG", "start": 716445, "text": "SED"}
+{"end": 716461, "label": "ORG", "start": 716458, "text": "SED"}
+{"end": 716765, "label": "ORG", "start": 716755, "text": "Secretaría"}
+{"end": 717377, "label": "ORG", "start": 717374, "text": "JER"}
+{"end": 718141, "label": "MISC", "start": 718138, "text": "JER"}
+{"end": 718771, "label": "MISC", "start": 718768, "text": "JER"}
+{"end": 718784, "label": "LOC", "start": 718775, "text": "Ciudadela"}
+{"end": 719084, "label": "MISC", "start": 719070, "text": "NOMBRE PERSONA"}
+{"end": 719115, "label": "MISC", "start": 719101, "text": "NOMBRE PERSONA"}
+{"end": 719143, "label": "MISC", "start": 719129, "text": "NOMBRE PERSONA"}
+{"end": 719389, "label": "MISC", "start": 719375, "text": "NOMBRE PERSONA"}
+{"end": 719420, "label": "MISC", "start": 719406, "text": "NOMBRE PERSONA"}
+{"end": 719857, "label": "ORG", "start": 719855, "text": "PI"}
+{"end": 719909, "label": "ORG", "start": 719906, "text": "PEI"}
+{"end": 720509, "label": "ORG", "start": 720506, "text": "PEI"}
+{"end": 720564, "label": "ORG", "start": 720561, "text": "PEI"}
+{"end": 720593, "label": "ORG", "start": 720590, "text": "PEI"}
+{"end": 721272, "label": "MISC", "start": 721269, "text": "PEI"}
+{"end": 721931, "label": "ORG", "start": 721902, "text": "Colegio San José Sur Oriental"}
+{"end": 721962, "label": "ORG", "start": 721939, "text": "Grupo Focal de Docentes"}
+{"end": 722116, "label": "ORG", "start": 722070, "text": "Secretaría Digital de Implementación de Bogotá"}
+{"end": 722156, "label": "ORG", "start": 722153, "text": "SAS"}
+{"end": 722311, "label": "MISC", "start": 722268, "text": "Estrategia de Justicia Escolar Restaurativa"}
+{"end": 722363, "label": "ORG", "start": 722332, "text": "Secretaría de Educación Digital"}
+{"end": 723382, "label": "ORG", "start": 723348, "text": "Secretaría Distrital de Planeación"}
+{"end": 723566, "label": "ORG", "start": 723509, "text": "Dirección de Evaluación de Políticas Públicas Distritales"}
+{"end": 723607, "label": "ORG", "start": 723573, "text": "Secretaría Distrital de Planeación"}
+{"end": 723656, "label": "ORG", "start": 723641, "text": "@cedegel.gov.co"}
+{"end": 724424, "label": "MISC", "start": 724410, "text": "NOMBRE PERSONA"}
+{"end": 724928, "label": "MISC", "start": 724914, "text": "NOMBRE PERSONA"}
+{"end": 725489, "label": "MISC", "start": 725475, "text": "NOMBRE PERSONA"}
+{"end": 726102, "label": "MISC", "start": 726088, "text": "NOMBRE PERSONA"}
+{"end": 726392, "label": "LOC", "start": 726376, "text": "María Montessori"}
+{"end": 727007, "label": "ORG", "start": 726984, "text": "Secretaría de Educación"}
+{"end": 727084, "label": "LOC", "start": 727056, "text": "salón de Taller de Emociones"}
+{"end": 728735, "label": "MISC", "start": 728721, "text": "NOMBRE PERSONA"}
+{"end": 730051, "label": "PER", "start": 730045, "text": "Andrea"}
+{"end": 730144, "label": "PER", "start": 730140, "text": "Mamá"}
+{"end": 731394, "label": "MISC", "start": 731380, "text": "NOMBRE PERSONA"}
+{"end": 733263, "label": "MISC", "start": 733249, "text": "NOMBRE PERSONA"}
+{"end": 734381, "label": "PER", "start": 734376, "text": "Profe"}
+{"end": 734410, "label": "PER", "start": 734405, "text": "Profe"}
+{"end": 734498, "label": "PER", "start": 734493, "text": "Profe"}
+{"end": 735348, "label": "MISC", "start": 735340, "text": "WhatsApp"}
+{"end": 735406, "label": "PER", "start": 735397, "text": "Instagram"}
+{"end": 737079, "label": "MISC", "start": 737065, "text": "NOMBRE PERSONA"}
+{"end": 737482, "label": "MISC", "start": 737468, "text": "NOMBRE PERSONA"}
+{"end": 740507, "label": "MISC", "start": 740493, "text": "NOMBRE PERSONA"}
+{"end": 743260, "label": "MISC", "start": 743246, "text": "NOMBRE PERSONA"}
+{"end": 744717, "label": "MISC", "start": 744703, "text": "NOMBRE PERSONA"}
+{"end": 745271, "label": "MISC", "start": 745257, "text": "NOMBRE PERSONA"}
+{"end": 746487, "label": "MISC", "start": 746473, "text": "NOMBRE PERSONA"}
+{"end": 747278, "label": "MISC", "start": 747264, "text": "NOMBRE PERSONA"}
+{"end": 748676, "label": "LOC", "start": 748653, "text": "Parque Altamira Peñalos"}
+{"end": 749500, "label": "MISC", "start": 749489, "text": "Orientación"}
+{"end": 755002, "label": "MISC", "start": 754988, "text": "NOMBRE PERSONA"}
+{"end": 755350, "label": "MISC", "start": 755336, "text": "NOMBRE PERSONA"}
+{"end": 765710, "label": "PER", "start": 765702, "text": "Valentín"}
+{"end": 767142, "label": "LOC", "start": 767134, "text": "Santa Fe"}
+{"end": 767162, "label": "ORG", "start": 767151, "text": "Millonarios"}
+{"end": 767369, "label": "LOC", "start": 767361, "text": "San José"}
+{"end": 768512, "label": "MISC", "start": 768498, "text": "NOMBRE PERSONA"}
+{"end": 769333, "label": "MISC", "start": 769319, "text": "NOMBRE PERSONA"}
+{"end": 777117, "label": "LOC", "start": 777108, "text": "Palestina"}
+{"end": 777566, "label": "ORG", "start": 777563, "text": "PEI"}
+{"end": 777633, "label": "MISC", "start": 777630, "text": "JER"}
+{"end": 777668, "label": "MISC", "start": 777639, "text": "Justicia Escolar Restaurativa"}
+{"end": 777697, "label": "MISC", "start": 777694, "text": "JER"}
+{"end": 778210, "label": "MISC", "start": 778181, "text": "Justicia Escolar Restaurativa"}
+{"end": 778847, "label": "ORG", "start": 778818, "text": "Justicia Escolar Restaurativa"}
+{"end": 779007, "label": "MISC", "start": 778999, "text": "LGTBI Q+"}
+{"end": 779186, "label": "MISC", "start": 779157, "text": "Justicia Escolar Restaurativa"}
+{"end": 779372, "label": "ORG", "start": 779362, "text": "Secretaría"}
+{"end": 779388, "label": "ORG", "start": 779385, "text": "JER"}
+{"end": 779458, "label": "ORG", "start": 779455, "text": "JER"}
+{"end": 779871, "label": "MISC", "start": 779842, "text": "Justicia Escolar Restaurativa"}
+{"end": 780274, "label": "ORG", "start": 780271, "text": "JER"}
+{"end": 780413, "label": "MISC", "start": 780384, "text": "Justicia Escolar Restaurativa"}
+{"end": 780715, "label": "ORG", "start": 780686, "text": "Justicia Escolar Restaurativa"}
+{"end": 780991, "label": "MISC", "start": 780962, "text": "Justicia Escolar Restaurativa"}
+{"end": 781416, "label": "MISC", "start": 781387, "text": "Justicia Escolar Restaurativa"}
+{"end": 785020, "label": "ORG", "start": 784997, "text": "Secretaría de Educación"}
+{"end": 785160, "label": "ORG", "start": 785150, "text": "Secretaría"}
+{"end": 785317, "label": "ORG", "start": 785311, "text": "Comité"}
+{"end": 785476, "label": "ORG", "start": 785470, "text": "Comité"}
+{"end": 787663, "label": "MISC", "start": 787649, "text": "NOMBRE PERSONA"}
+{"end": 789658, "label": "MISC", "start": 789644, "text": "NOMBRE PERSONA"}
+{"end": 789859, "label": "MISC", "start": 789845, "text": "NOMBRE PERSONA"}
+{"end": 791480, "label": "LOC", "start": 791463, "text": "Colegio Tom Adams"}
+{"end": 791507, "label": "LOC", "start": 791500, "text": "Kennedy"}
+{"end": 791894, "label": "MISC", "start": 791851, "text": "Estrategia de Justicia Escolar Restaurativa"}
+{"end": 791950, "label": "ORG", "start": 791927, "text": "Secretaría de Educación"}
+{"end": 792613, "label": "MISC", "start": 792599, "text": "NOMBRE PERSONA"}
+{"end": 792671, "label": "MISC", "start": 792657, "text": "NOMBRE PERSONA"}
+{"end": 793397, "label": "PER", "start": 793392, "text": "Profe"}
+{"end": 793585, "label": "MISC", "start": 793571, "text": "NOMBRE PERSONA"}
+{"end": 794157, "label": "MISC", "start": 794143, "text": "NOMBRE PERSONA"}
+{"end": 794254, "label": "MISC", "start": 794240, "text": "NOMBRE PERSONA"}
+{"end": 794964, "label": "MISC", "start": 794950, "text": "NOMBRE PERSONA"}
+{"end": 795245, "label": "MISC", "start": 795242, "text": "PIN"}
+{"end": 796394, "label": "MISC", "start": 796380, "text": "NOMBRE PERSONA"}
+{"end": 797291, "label": "ORG", "start": 797268, "text": "Secretaría de Educación"}
+{"end": 798552, "label": "MISC", "start": 798538, "text": "NOMBRE PERSONA"}
+{"end": 800453, "label": "MISC", "start": 800439, "text": "NOMBRE PERSONA"}
+{"end": 800492, "label": "MISC", "start": 800476, "text": "Educación Física"}
+{"end": 800504, "label": "MISC", "start": 800494, "text": "Recreación"}
+{"end": 800515, "label": "MISC", "start": 800507, "text": "Deportes"}
+{"end": 800559, "label": "MISC", "start": 800550, "text": "Educación"}
+{"end": 801072, "label": "MISC", "start": 801056, "text": "Educación Física"}
+{"end": 801595, "label": "MISC", "start": 801579, "text": "Educación Física"}
+{"end": 802660, "label": "MISC", "start": 802646, "text": "NOMBRE PERSONA"}
+{"end": 803280, "label": "MISC", "start": 803253, "text": "Restauradores de la Memoria"}
+{"end": 803438, "label": "ORG", "start": 803417, "text": "Colegio Autónoma AMSA"}
+{"end": 803499, "label": "ORG", "start": 803482, "text": "Consejo Académico"}
+{"end": 803584, "label": "MISC", "start": 803557, "text": "Restauradores de la Memoria"}
+{"end": 803611, "label": "MISC", "start": 803608, "text": "JER"}
+{"end": 803730, "label": "MISC", "start": 803713, "text": "Semana por la Paz"}
+{"end": 803758, "label": "MISC", "start": 803738, "text": "35 Semana por la Paz"}
+{"end": 804039, "label": "ORG", "start": 804018, "text": "Comisión de la Verdad"}
+{"end": 804096, "label": "ORG", "start": 804088, "text": "Comisión"}
+{"end": 804358, "label": "LOC", "start": 804352, "text": "Bogotá"}
+{"end": 804716, "label": "ORG", "start": 804689, "text": "Museo Escolar de la Memoria"}
+{"end": 804889, "label": "MISC", "start": 804872, "text": "Ciencias Sociales"}
+{"end": 805086, "label": "MISC", "start": 805069, "text": "Ciencias Sociales"}
+{"end": 805215, "label": "MISC", "start": 805208, "text": "Memoria"}
+{"end": 806287, "label": "MISC", "start": 806273, "text": "NOMBRE PERSONA"}
+{"end": 806585, "label": "LOC", "start": 806577, "text": "Colombia"}
+{"end": 807595, "label": "MISC", "start": 807581, "text": "NOMBRE PERSONA"}
+{"end": 809268, "label": "ORG", "start": 809254, "text": "NOMBRE PERSONA"}
+{"end": 809371, "label": "MISC", "start": 809357, "text": "NOMBRE PERSONA"}
+{"end": 809650, "label": "MISC", "start": 809636, "text": "NOMBRE PERSONA"}
+{"end": 810803, "label": "MISC", "start": 810800, "text": "JER"}
+{"end": 811025, "label": "MISC", "start": 811022, "text": "JER"}
+{"end": 811265, "label": "ORG", "start": 811262, "text": "JER"}
+{"end": 811381, "label": "LOC", "start": 811373, "text": "Colombia"}
+{"end": 811558, "label": "MISC", "start": 811555, "text": "JEP"}
+{"end": 811960, "label": "LOC", "start": 811952, "text": "Colombia"}
+{"end": 812711, "label": "MISC", "start": 812706, "text": "LABOV"}
+{"end": 815565, "label": "LOC", "start": 815560, "text": "Japón"}
+{"end": 816021, "label": "PER", "start": 816018, "text": "Ajá"}
+{"end": 817103, "label": "MISC", "start": 817089, "text": "NOMBRE PERSONA"}
+{"end": 817128, "label": "MISC", "start": 817114, "text": "NOMBRE PERSONA"}
+{"end": 817223, "label": "MISC", "start": 817209, "text": "NOMBRE PERSONA"}
+{"end": 817475, "label": "ORG", "start": 817460, "text": "colegio Tonamsi"}
+{"end": 817494, "label": "ORG", "start": 817481, "text": "colegio Japón"}
+{"end": 817785, "label": "ORG", "start": 817781, "text": "SENA"}
+{"end": 817879, "label": "ORG", "start": 817866, "text": "colegio Japón"}
+{"end": 817954, "label": "LOC", "start": 817950, "text": "SENA"}
+{"end": 818285, "label": "LOC", "start": 818280, "text": "Japón"}
+{"end": 818299, "label": "ORG", "start": 818292, "text": "Tonamsi"}
+{"end": 818532, "label": "PER", "start": 818525, "text": "Tonamsi"}
+{"end": 818547, "label": "ORG", "start": 818542, "text": "Japón"}
+{"end": 819990, "label": "PER", "start": 819983, "text": "Ahorita"}
+{"end": 821014, "label": "ORG", "start": 821001, "text": "Colegio Japón"}
+{"end": 821093, "label": "LOC", "start": 821088, "text": "Japón"}
+{"end": 824767, "label": "MISC", "start": 824753, "text": "NOMBRE PERSONA"}
+{"end": 825491, "label": "ORG", "start": 825470, "text": "Comité de Convivencia"}
+{"end": 825845, "label": "ORG", "start": 825832, "text": "Colegio Japón"}
+{"end": 825868, "label": "ORG", "start": 825851, "text": "Colegio Don Adams"}
+{"end": 826454, "label": "ORG", "start": 826431, "text": "Secretaría de Educación"}
+{"end": 826558, "label": "MISC", "start": 826544, "text": "NOMBRE PERSONA"}
+{"end": 826663, "label": "LOC", "start": 826643, "text": "Parque de la Amistad"}
+{"end": 826717, "label": "ORG", "start": 826703, "text": "NOMBRE PERSONA"}
+{"end": 826914, "label": "MISC", "start": 826900, "text": "NOMBRE PERSONA"}
+{"end": 827303, "label": "MISC", "start": 827289, "text": "NOMBRE PERSONA"}
+{"end": 828488, "label": "MISC", "start": 828474, "text": "NOMBRE PEROSNA"}
+{"end": 828580, "label": "MISC", "start": 828566, "text": "NOMBRE PERSONA"}
+{"end": 828640, "label": "PER", "start": 828633, "text": "Barsila"}
+{"end": 829414, "label": "MISC", "start": 829400, "text": "NOMBRE PERSONA"}
+{"end": 829490, "label": "MISC", "start": 829476, "text": "NOMBRE PERSONA"}
+{"end": 829668, "label": "MISC", "start": 829654, "text": "NOMBRE PERSONA"}
+{"end": 829803, "label": "MISC", "start": 829789, "text": "NOMBRE PERSONA"}
+{"end": 829914, "label": "MISC", "start": 829900, "text": "NOMBRE PERSONA"}
+{"end": 829998, "label": "PER", "start": 829992, "text": "Hermes"}
+{"end": 830063, "label": "MISC", "start": 830049, "text": "NOMBRE PERSONA"}
+{"end": 830519, "label": "MISC", "start": 830505, "text": "NOMBRE PERSONA"}
+{"end": 830821, "label": "PER", "start": 830816, "text": "Tomas"}
+{"end": 830835, "label": "ORG", "start": 830830, "text": "Japón"}
+{"end": 831234, "label": "PER", "start": 831228, "text": "Piedra"}
+{"end": 831250, "label": "MISC", "start": 831241, "text": "Identidad"}
+{"end": 831622, "label": "MISC", "start": 831608, "text": "NOMBRE PERSONA"}
+{"end": 832726, "label": "ORG", "start": 832718, "text": "Alcaldía"}
+{"end": 832739, "label": "ORG", "start": 832731, "text": "Alcaldía"}
+{"end": 832912, "label": "MISC", "start": 832883, "text": "Proyecto Restaurar la Memoria"}
+{"end": 833181, "label": "ORG", "start": 833158, "text": "Colegio Inén de Kennedy"}
+{"end": 833204, "label": "ORG", "start": 833186, "text": "Colegio San Rafael"}
+{"end": 833222, "label": "ORG", "start": 833209, "text": "Colegio Japón"}
+{"end": 833317, "label": "ORG", "start": 833300, "text": "Colegio Tom Adams"}
+{"end": 833686, "label": "LOC", "start": 833681, "text": "Japón"}
+{"end": 833701, "label": "LOC", "start": 833696, "text": "Japón"}
+{"end": 833722, "label": "PER", "start": 833711, "text": "Anton Adams"}
+{"end": 833986, "label": "ORG", "start": 833967, "text": "Colegio Anton Adams"}
+{"end": 834061, "label": "LOC", "start": 834057, "text": "Inén"}
+{"end": 834234, "label": "ORG", "start": 834229, "text": "Japón"}
+{"end": 834379, "label": "ORG", "start": 834374, "text": "Japón"}
+{"end": 834691, "label": "ORG", "start": 834672, "text": "Colegio Anton Adams"}
+{"end": 834866, "label": "LOC", "start": 834849, "text": "Colegio del Japón"}
+{"end": 835070, "label": "PER", "start": 835059, "text": "Anton Adams"}
+{"end": 835484, "label": "LOC", "start": 835467, "text": "Colegio del Japón"}
+{"end": 835696, "label": "LOC", "start": 835680, "text": "Colegio de Minem"}
+{"end": 835938, "label": "ORG", "start": 835934, "text": "INEM"}
+{"end": 836290, "label": "ORG", "start": 836286, "text": "INEM"}
+{"end": 836301, "label": "PER", "start": 836292, "text": "Tom Adams"}
+{"end": 836308, "label": "LOC", "start": 836303, "text": "Japón"}
+{"end": 836321, "label": "LOC", "start": 836311, "text": "San Rafael"}
+{"end": 836528, "label": "ORG", "start": 836514, "text": "NOMBRE PERSONA"}
+{"end": 838593, "label": "ORG", "start": 838589, "text": "INEM"}
+{"end": 839243, "label": "MISC", "start": 839229, "text": "NOMBRE PERSONA"}
+{"end": 839449, "label": "ORG", "start": 839436, "text": "colegio Japón"}
+{"end": 839468, "label": "ORG", "start": 839455, "text": "colegio Tomas"}
+{"end": 839936, "label": "MISC", "start": 839922, "text": "NOMBRE PERSONA"}
+{"end": 840011, "label": "PER", "start": 840001, "text": "Juan David"}
+{"end": 842080, "label": "PER", "start": 842071, "text": "Tom Adams"}
+{"end": 842101, "label": "LOC", "start": 842096, "text": "Japón"}
+{"end": 842890, "label": "MISC", "start": 842876, "text": "NOMBRE PERSONA"}
+{"end": 843985, "label": "MISC", "start": 843971, "text": "NOMBRE PERSONA"}
+{"end": 844008, "label": "MISC", "start": 843994, "text": "NOMBRE PERSONA"}
+{"end": 845548, "label": "MISC", "start": 845534, "text": "NOMBRE PERSONA"}
+{"end": 847316, "label": "MISC", "start": 847310, "text": "Hermes"}
+{"end": 848023, "label": "MISC", "start": 848015, "text": "ley 1620"}
+{"end": 848364, "label": "MISC", "start": 848350, "text": "NOMBRE PERSONA"}
+{"end": 849052, "label": "MISC", "start": 849038, "text": "NOMBRE PERSONA"}
+{"end": 849070, "label": "PER", "start": 849064, "text": "Hermes"}
+{"end": 850559, "label": "MISC", "start": 850553, "text": "Hermes"}
+{"end": 850627, "label": "MISC", "start": 850621, "text": "Hermes"}
+{"end": 850646, "label": "MISC", "start": 850632, "text": "NOMBRE PERSONA"}
+{"end": 850697, "label": "PER", "start": 850691, "text": "Hermes"}
+{"end": 851134, "label": "MISC", "start": 851120, "text": "NOMBRE PERSONA"}
+{"end": 851617, "label": "MISC", "start": 851603, "text": "NOMBRE PERSONA"}
+{"end": 851644, "label": "PER", "start": 851638, "text": "Hermes"}
+{"end": 853520, "label": "MISC", "start": 853506, "text": "NOMBRE PERSONA"}
+{"end": 854760, "label": "PER", "start": 854746, "text": "NOMBRE PERSONA"}
+{"end": 855520, "label": "PER", "start": 855514, "text": "Hermes"}
+{"end": 856164, "label": "MISC", "start": 856161, "text": "JER"}
+{"end": 856172, "label": "PER", "start": 856166, "text": "Hermes"}
+{"end": 858179, "label": "MISC", "start": 858165, "text": "NOMBRE PERSONA"}
+{"end": 859441, "label": "MISC", "start": 859427, "text": "NOMBRE PERSONA"}
+{"end": 859454, "label": "PER", "start": 859448, "text": "Hermes"}
+{"end": 859847, "label": "MISC", "start": 859841, "text": "Hermes"}
+{"end": 860227, "label": "LOC", "start": 860219, "text": "Colombia"}
+{"end": 860244, "label": "LOC", "start": 860236, "text": "Colombia"}
+{"end": 860744, "label": "MISC", "start": 860730, "text": "NOMBRE PERSONA"}
+{"end": 861125, "label": "ORG", "start": 861102, "text": "Secretaría de Educación"}
+{"end": 862915, "label": "MISC", "start": 862912, "text": "JER"}
+{"end": 863004, "label": "ORG", "start": 863001, "text": "CED"}
+{"end": 863033, "label": "MISC", "start": 863030, "text": "JER"}
+{"end": 865280, "label": "MISC", "start": 865266, "text": "NOMBRE PERSONA"}
+{"end": 865955, "label": "MISC", "start": 865941, "text": "NOMBRE PERSONA"}
+{"end": 866037, "label": "MISC", "start": 866023, "text": "NOMBRE PERSONA"}
+{"end": 866236, "label": "MISC", "start": 866222, "text": "NOMBRE PERSONA"}
+{"end": 866491, "label": "MISC", "start": 866477, "text": "NOMBRE PERSONA"}
+{"end": 866518, "label": "MISC", "start": 866504, "text": "NOMBRE PERSONA"}
+{"end": 866981, "label": "MISC", "start": 866967, "text": "NOMBRE PERSONA"}
+{"end": 867346, "label": "PER", "start": 867340, "text": "Ernest"}
+{"end": 867548, "label": "PER", "start": 867542, "text": "Ernest"}
+{"end": 869539, "label": "MISC", "start": 869525, "text": "NOMBRE PERSONA"}
+{"end": 870504, "label": "MISC", "start": 870501, "text": "JER"}
+{"end": 870539, "label": "MISC", "start": 870533, "text": "HERMES"}
+{"end": 870717, "label": "MISC", "start": 870714, "text": "PEI"}
+{"end": 870919, "label": "MISC", "start": 870916, "text": "JER"}
+{"end": 871097, "label": "MISC", "start": 871094, "text": "JER"}
+{"end": 871145, "label": "MISC", "start": 871139, "text": "HERMES"}
+{"end": 871336, "label": "MISC", "start": 871330, "text": "HERMES"}
+{"end": 871971, "label": "ORG", "start": 871953, "text": "Cámara de Comercio"}
+{"end": 871981, "label": "LOC", "start": 871975, "text": "Bogotá"}
+{"end": 872021, "label": "MISC", "start": 872015, "text": "HERMES"}
+{"end": 872389, "label": "MISC", "start": 872375, "text": "NOMBRE PERSONA"}
+{"end": 873421, "label": "ORG", "start": 873418, "text": "PEI"}
+{"end": 873434, "label": "ORG", "start": 873431, "text": "PEI"}
+{"end": 873961, "label": "PER", "start": 873950, "text": "Profe Bueno"}
+{"end": 874142, "label": "ORG", "start": 874132, "text": "Secretaría"}
+{"end": 874463, "label": "ORG", "start": 874460, "text": "PEI"}
+{"end": 874662, "label": "ORG", "start": 874639, "text": "Secretaría de Educación"}
+{"end": 875425, "label": "ORG", "start": 875422, "text": "JER"}
+{"end": 875759, "label": "MISC", "start": 875745, "text": "NOMBRE PERSONA"}
+{"end": 876407, "label": "MISC", "start": 876404, "text": "JER"}
+{"end": 876649, "label": "MISC", "start": 876643, "text": "HERMES"}
+{"end": 877205, "label": "MISC", "start": 877198, "text": "Escuela"}
+{"end": 877245, "label": "MISC", "start": 877238, "text": "Escuela"}
+{"end": 878670, "label": "MISC", "start": 878656, "text": "NOMBRE PERSONA"}
+{"end": 878714, "label": "PER", "start": 878709, "text": "Profe"}
+{"end": 878742, "label": "MISC", "start": 878739, "text": "JER"}
+{"end": 878822, "label": "MISC", "start": 878819, "text": "JER"}
+{"end": 880047, "label": "ORG", "start": 880020, "text": "Restauradores de la Memoria"}
+{"end": 882257, "label": "MISC", "start": 882243, "text": "NOMBRE PERSONA"}
+{"end": 882822, "label": "MISC", "start": 882808, "text": "NOMBRE PERSONA"}
+{"end": 882888, "label": "ORG", "start": 882874, "text": "NOMBRE PERSONA"}
+{"end": 882969, "label": "MISC", "start": 882955, "text": "NOMBRE PERSONA"}
+{"end": 883026, "label": "ORG", "start": 883012, "text": "Museo Nacional"}
+{"end": 883250, "label": "MISC", "start": 883236, "text": "NOMBRE PERSONA"}
+{"end": 883378, "label": "PER", "start": 883372, "text": "Ángela"}
+{"end": 884009, "label": "MISC", "start": 883995, "text": "NOMBRE PERSONA"}
+{"end": 885213, "label": "MISC", "start": 885199, "text": "NOMBRE PERSONA"}
+{"end": 885665, "label": "LOC", "start": 885656, "text": "Tom Adams"}
+{"end": 885865, "label": "MISC", "start": 885851, "text": "NOMBRE PERSONA"}
+{"end": 886294, "label": "MISC", "start": 886280, "text": "NOMBRE PERSONA"}

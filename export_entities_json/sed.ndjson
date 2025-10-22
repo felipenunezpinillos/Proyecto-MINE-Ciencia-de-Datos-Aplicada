@@ -1,0 +1,429 @@
+{"end": 172, "label": "ORG", "start": 146, "text": "Dirección de Participación"}
+{"end": 209, "label": "ORG", "start": 175, "text": "Relacionamiento Interinstitucional"}
+{"end": 219, "label": "ORG", "start": 214, "text": "DIPRI"}
+{"end": 416, "label": "MISC", "start": 392, "text": "Economía Urbana Limitada"}
+{"end": 446, "label": "MISC", "start": 432, "text": "NOMBRE PERSONA"}
+{"end": 617, "label": "MISC", "start": 608, "text": "Logística"}
+{"end": 692, "label": "ORG", "start": 668, "text": "Secretaría de Planeación"}
+{"end": 724, "label": "ORG", "start": 700, "text": "Secretaría de Planeación"}
+{"end": 1029, "label": "MISC", "start": 1014, "text": "Economía Urbana"}
+{"end": 1483, "label": "ORG", "start": 1480, "text": "JER"}
+{"end": 1514, "label": "ORG", "start": 1485, "text": "Justicia Escolar Restaurativa"}
+{"end": 1632, "label": "MISC", "start": 1629, "text": "JER"}
+{"end": 2723, "label": "ORG", "start": 2720, "text": "JER"}
+{"end": 3100, "label": "ORG", "start": 3063, "text": "La Secretaría Distrital de Planeación"}
+{"end": 3281, "label": "MISC", "start": 3251, "text": "Justicias Escolar Restaurativa"}
+{"end": 3286, "label": "MISC", "start": 3283, "text": "JER"}
+{"end": 3341, "label": "ORG", "start": 3308, "text": "Secretaría de Educación Distrital"}
+{"end": 4333, "label": "ORG", "start": 4299, "text": "Secretaría Distrital de Planeación"}
+{"end": 4446, "label": "MISC", "start": 4433, "text": "NOMBREPERSONA"}
+{"end": 4487, "label": "MISC", "start": 4473, "text": "NOMBRE PERSONA"}
+{"end": 4588, "label": "ORG", "start": 4531, "text": "Dirección de Evaluación de Políticas Públicas Distritales"}
+{"end": 4619, "label": "ORG", "start": 4595, "text": "Secretaría de Planeación"}
+{"end": 5663, "label": "MISC", "start": 5660, "text": "JER"}
+{"end": 5788, "label": "PER", "start": 5784, "text": "Luis"}
+{"end": 5853, "label": "PER", "start": 5842, "text": "Luis Cortés"}
+{"end": 5886, "label": "MISC", "start": 5869, "text": "Ciencias Sociales"}
+{"end": 5914, "label": "ORG", "start": 5893, "text": "Universidad Distrital"}
+{"end": 5942, "label": "ORG", "start": 5939, "text": "JER"}
+{"end": 6008, "label": "MISC", "start": 5958, "text": "Sistema de Responsabilidad Penal para Adolescentes"}
+{"end": 6096, "label": "ORG", "start": 6074, "text": "Universidad de Ginebra"}
+{"end": 6105, "label": "LOC", "start": 6100, "text": "Suiza"}
+{"end": 6564, "label": "MISC", "start": 6508, "text": "Encuentro Internacional de Justicia Escolar Restaurativa"}
+{"end": 9980, "label": "MISC", "start": 9963, "text": "Ciencias Sociales"}
+{"end": 10009, "label": "ORG", "start": 9987, "text": "Universidad Pedagógica"}
+{"end": 10035, "label": "ORG", "start": 10012, "text": "Tecnológica de Colombia"}
+{"end": 10097, "label": "MISC", "start": 10054, "text": "Estrategia de Justicia Escolar Restaurativa"}
+{"end": 10586, "label": "LOC", "start": 10573, "text": "San Cristóbal"}
+{"end": 10685, "label": "LOC", "start": 10671, "text": "Ciudad Bolívar"}
+{"end": 10697, "label": "LOC", "start": 10687, "text": "Tunjuelito"}
+{"end": 10737, "label": "PER", "start": 10727, "text": "Tunjuelito"}
+{"end": 10764, "label": "LOC", "start": 10760, "text": "Usme"}
+{"end": 11444, "label": "MISC", "start": 11430, "text": "NOMBRE PERSONA"}
+{"end": 11966, "label": "ORG", "start": 11947, "text": "Comunidad Educativa"}
+{"end": 11983, "label": "LOC", "start": 11970, "text": "San Cristóbal"}
+{"end": 12427, "label": "MISC", "start": 12409, "text": "Pedagogía Infantil"}
+{"end": 12469, "label": "MISC", "start": 12461, "text": "Infancia"}
+{"end": 12484, "label": "MISC", "start": 12472, "text": "Adolescencia"}
+{"end": 12543, "label": "ORG", "start": 12520, "text": "Secretaría de Educación"}
+{"end": 12647, "label": "ORG", "start": 12628, "text": "Cátedra para la Paz"}
+{"end": 13068, "label": "ORG", "start": 13049, "text": "Cátedra para la Paz"}
+{"end": 13240, "label": "ORG", "start": 13221, "text": "Incitar para la Paz"}
+{"end": 13551, "label": "ORG", "start": 13538, "text": "Human Partner"}
+{"end": 13699, "label": "MISC", "start": 13695, "text": "ICBF"}
+{"end": 14355, "label": "MISC", "start": 14340, "text": "NOMBRE  PERSONA"}
+{"end": 14763, "label": "MISC", "start": 14749, "text": "NOMBRE PERSONA"}
+{"end": 14846, "label": "ORG", "start": 14843, "text": "SOS"}
+{"end": 15806, "label": "MISC", "start": 15803, "text": "JER"}
+{"end": 15955, "label": "ORG", "start": 15945, "text": "Secretaría"}
+{"end": 16773, "label": "MISC", "start": 16770, "text": "JER"}
+{"end": 20484, "label": "ORG", "start": 20481, "text": "JER"}
+{"end": 20515, "label": "LOC", "start": 20509, "text": "Bogotá"}
+{"end": 20760, "label": "MISC", "start": 20757, "text": "JER"}
+{"end": 20837, "label": "MISC", "start": 20834, "text": "JER"}
+{"end": 21057, "label": "MISC", "start": 21049, "text": "Escuelas"}
+{"end": 21071, "label": "MISC", "start": 21062, "text": "Emociones"}
+{"end": 21177, "label": "MISC", "start": 21162, "text": "Fortalecimiento"}
+{"end": 21197, "label": "MISC", "start": 21188, "text": "Educación"}
+{"end": 21229, "label": "MISC", "start": 21225, "text": "Aula"}
+{"end": 21278, "label": "MISC", "start": 21257, "text": "Entornos inspiradores"}
+{"end": 22464, "label": "ORG", "start": 22461, "text": "JER"}
+{"end": 23144, "label": "MISC", "start": 23141, "text": "JER"}
+{"end": 23508, "label": "LOC", "start": 23497, "text": "Nueva Delhi"}
+{"end": 23521, "label": "LOC", "start": 23510, "text": "Nueva Delhi"}
+{"end": 24750, "label": "MISC", "start": 24743, "text": "Escuela"}
+{"end": 24880, "label": "MISC", "start": 24854, "text": "Construcción de Ciudadanía"}
+{"end": 25110, "label": "MISC", "start": 25107, "text": "JER"}
+{"end": 25140, "label": "PER", "start": 25136, "text": "Tata"}
+{"end": 25204, "label": "MISC", "start": 25178, "text": "Construcción de Ciudadanía"}
+{"end": 25635, "label": "MISC", "start": 25632, "text": "JER"}
+{"end": 26298, "label": "MISC", "start": 26295, "text": "JER"}
+{"end": 26353, "label": "MISC", "start": 26350, "text": "JER"}
+{"end": 26828, "label": "MISC", "start": 26814, "text": "NOMBRE PERSONA"}
+{"end": 27597, "label": "MISC", "start": 27592, "text": "DIPRI"}
+{"end": 28562, "label": "MISC", "start": 28557, "text": "Ideas"}
+{"end": 28736, "label": "MISC", "start": 28731, "text": "Ideas"}
+{"end": 28762, "label": "MISC", "start": 28754, "text": "Pensarse"}
+{"end": 28896, "label": "MISC", "start": 28874, "text": "Reconstruyendo Saberes"}
+{"end": 28932, "label": "MISC", "start": 28929, "text": "IAP"}
+{"end": 29798, "label": "MISC", "start": 29795, "text": "IAP"}
+{"end": 31088, "label": "MISC", "start": 31083, "text": "Ideas"}
+{"end": 31947, "label": "ORG", "start": 31932, "text": "Catedral de Paz"}
+{"end": 32184, "label": "MISC", "start": 32181, "text": "JER"}
+{"end": 32199, "label": "MISC", "start": 32196, "text": "JER"}
+{"end": 32343, "label": "MISC", "start": 32339, "text": "REAP"}
+{"end": 32523, "label": "ORG", "start": 32513, "text": "Secretaría"}
+{"end": 32567, "label": "MISC", "start": 32557, "text": "Secretaría"}
+{"end": 33052, "label": "MISC", "start": 33049, "text": "JER"}
+{"end": 33453, "label": "LOC", "start": 33447, "text": "Bogotá"}
+{"end": 34392, "label": "LOC", "start": 34374, "text": "Quintero de Turbay"}
+{"end": 34628, "label": "LOC", "start": 34617, "text": "Nueva Delhi"}
+{"end": 36001, "label": "PER", "start": 35995, "text": "Hermes"}
+{"end": 36031, "label": "MISC", "start": 36013, "text": "Cámara de Comercio"}
+{"end": 36055, "label": "PER", "start": 36049, "text": "Hermes"}
+{"end": 38177, "label": "MISC", "start": 38174, "text": "JER"}
+{"end": 41581, "label": "MISC", "start": 41574, "text": "Pandora"}
+{"end": 43934, "label": "LOC", "start": 43925, "text": "El Olalla"}
+{"end": 44304, "label": "ORG", "start": 44294, "text": "Secretaría"}
+{"end": 44341, "label": "ORG", "start": 44315, "text": "Dirección de Participación"}
+{"end": 45192, "label": "ORG", "start": 45178, "text": "Cátedra de Paz"}
+{"end": 45639, "label": "MISC", "start": 45625, "text": "NOMBRE PERSONA"}
+{"end": 45751, "label": "ORG", "start": 45737, "text": "Cátedra de Paz"}
+{"end": 45917, "label": "ORG", "start": 45907, "text": "Secretaría"}
+{"end": 45985, "label": "ORG", "start": 45965, "text": "Mi Barrio Mi Escuela"}
+{"end": 46131, "label": "MISC", "start": 46128, "text": "JER"}
+{"end": 47389, "label": "ORG", "start": 47368, "text": "Comisión de la Verdad"}
+{"end": 47421, "label": "ORG", "start": 47403, "text": "Unidad de Búsqueda"}
+{"end": 47439, "label": "ORG", "start": 47435, "text": "ICBF"}
+{"end": 47714, "label": "ORG", "start": 47704, "text": "Secretaría"}
+{"end": 47763, "label": "ORG", "start": 47753, "text": "Secretaría"}
+{"end": 47870, "label": "PER", "start": 47867, "text": "JER"}
+{"end": 47902, "label": "MISC", "start": 47899, "text": "JER"}
+{"end": 48777, "label": "ORG", "start": 48774, "text": "JER"}
+{"end": 49024, "label": "MISC", "start": 49021, "text": "JER"}
+{"end": 50339, "label": "LOC", "start": 50335, "text": "Usmi"}
+{"end": 50895, "label": "MISC", "start": 50881, "text": "NOMBRE PERSONA"}
+{"end": 50920, "label": "LOC", "start": 50907, "text": "San Cristóbal"}
+{"end": 50935, "label": "LOC", "start": 50927, "text": "Engativá"}
+{"end": 56031, "label": "ORG", "start": 56008, "text": "Colegio Gran Colombiano"}
+{"end": 56043, "label": "LOC", "start": 56035, "text": "Fontibón"}
+{"end": 56193, "label": "MISC", "start": 56190, "text": "JER"}
+{"end": 56726, "label": "ORG", "start": 56720, "text": "Estado"}
+{"end": 58259, "label": "ORG", "start": 58247, "text": "colegio UNSA"}
+{"end": 58295, "label": "MISC", "start": 58290, "text": "UNSUA"}
+{"end": 60225, "label": "LOC", "start": 60217, "text": "Mártires"}
+{"end": 62349, "label": "LOC", "start": 62345, "text": "Suba"}
+{"end": 62457, "label": "MISC", "start": 62454, "text": "JER"}
+{"end": 62731, "label": "MISC", "start": 62717, "text": "NOMBRE PERSONA"}
+{"end": 63203, "label": "MISC", "start": 63195, "text": "Mártires"}
+{"end": 63478, "label": "ORG", "start": 63462, "text": "Colegio Ricaurte"}
+{"end": 63596, "label": "MISC", "start": 63576, "text": "Carnaval por la Vida"}
+{"end": 63612, "label": "MISC", "start": 63598, "text": "NOMBRE PERSONA"}
+{"end": 63816, "label": "ORG", "start": 63806, "text": "Secretaría"}
+{"end": 64648, "label": "MISC", "start": 64634, "text": "NOMBRE PERSONA"}
+{"end": 64798, "label": "PER", "start": 64790, "text": "Martínez"}
+{"end": 64904, "label": "MISC", "start": 64890, "text": "NOMBRE PERSONA"}
+{"end": 67996, "label": "LOC", "start": 67978, "text": "Nueva Constitución"}
+{"end": 68522, "label": "MISC", "start": 68519, "text": "JER"}
+{"end": 68640, "label": "ORG", "start": 68637, "text": "JER"}
+{"end": 69532, "label": "ORG", "start": 69526, "text": "Estado"}
+{"end": 71409, "label": "LOC", "start": 71403, "text": "Europa"}
+{"end": 71582, "label": "LOC", "start": 71576, "text": "Europa"}
+{"end": 71665, "label": "LOC", "start": 71657, "text": "Colombia"}
+{"end": 72747, "label": "LOC", "start": 72729, "text": "Rafael Uribe Uribe"}
+{"end": 78312, "label": "MISC", "start": 78298, "text": "NOMBRE PERSONA"}
+{"end": 78323, "label": "PER", "start": 78317, "text": "Caldas"}
+{"end": 78588, "label": "ORG", "start": 78562, "text": "Jóvenes por la Convivencia"}
+{"end": 78607, "label": "MISC", "start": 78593, "text": "NOMBRE PERSONA"}
+{"end": 78671, "label": "MISC", "start": 78657, "text": "NOMBRE PERSONA"}
+{"end": 78798, "label": "MISC", "start": 78785, "text": "Facebook Live"}
+{"end": 79067, "label": "MISC", "start": 79064, "text": "JER"}
+{"end": 80254, "label": "MISC", "start": 80251, "text": "JER"}
+{"end": 80742, "label": "ORG", "start": 80732, "text": "Secretaría"}
+{"end": 81650, "label": "MISC", "start": 81634, "text": "[NOMBRE PERSONA]"}
+{"end": 82486, "label": "ORG", "start": 82483, "text": "JER"}
+{"end": 83993, "label": "ORG", "start": 83990, "text": "JEP"}
+{"end": 84517, "label": "MISC", "start": 84514, "text": "SBF"}
+{"end": 86736, "label": "ORG", "start": 86733, "text": "SED"}
+{"end": 86771, "label": "ORG", "start": 86738, "text": "Secretaría de Educación Distrital"}
+{"end": 89897, "label": "LOC", "start": 89884, "text": "San Cristóbal"}
+{"end": 89919, "label": "LOC", "start": 89911, "text": "Engativá"}
+{"end": 94338, "label": "ORG", "start": 94315, "text": "Secretaría de Educación"}
+{"end": 94801, "label": "ORG", "start": 94784, "text": "Centro de Memoria"}
+{"end": 94831, "label": "ORG", "start": 94810, "text": "Comisión de la Verdad"}
+{"end": 95806, "label": "MISC", "start": 95792, "text": "NOMBRE PERSONA"}
+{"end": 95952, "label": "ORG", "start": 95929, "text": "Secretaría de Educación"}
+{"end": 99278, "label": "ORG", "start": 99266, "text": "Cultivar Paz"}
+{"end": 99376, "label": "ORG", "start": 99366, "text": "Secretaría"}
+{"end": 99420, "label": "ORG", "start": 99410, "text": "Secretaría"}
+{"end": 99904, "label": "ORG", "start": 99901, "text": "JER"}
+{"end": 106557, "label": "MISC", "start": 106543, "text": "NOMBRE PERSONA"}
+{"end": 106858, "label": "LOC", "start": 106849, "text": "Chapinero"}
+{"end": 107856, "label": "LOC", "start": 107843, "text": "San Cristóbal"}
+{"end": 108484, "label": "MISC", "start": 108481, "text": "JER"}
+{"end": 111281, "label": "MISC", "start": 111278, "text": "JER"}
+{"end": 111976, "label": "MISC", "start": 111962, "text": "NOMBRE PERSONA"}
+{"end": 114714, "label": "PER", "start": 114710, "text": "Luis"}
+{"end": 114984, "label": "PER", "start": 114980, "text": "Luis"}
+{"end": 115095, "label": "LOC", "start": 115071, "text": "San Cristóbal “Vitaminas"}
+{"end": 115136, "label": "LOC", "start": 115116, "text": "colegio Juan Escobar"}
+{"end": 115628, "label": "MISC", "start": 115624, "text": "RIAB"}
+{"end": 115643, "label": "MISC", "start": 115639, "text": "RIAB"}
+{"end": 115787, "label": "MISC", "start": 115783, "text": "RIAB"}
+{"end": 116487, "label": "MISC", "start": 116484, "text": "JER"}
+{"end": 116595, "label": "MISC", "start": 116592, "text": "JER"}
+{"end": 116721, "label": "MISC", "start": 116718, "text": "JER"}
+{"end": 116821, "label": "MISC", "start": 116818, "text": "JER"}
+{"end": 117192, "label": "ORG", "start": 117181, "text": "colegio “X”"}
+{"end": 117229, "label": "ORG", "start": 117226, "text": "JER"}
+{"end": 118548, "label": "LOC", "start": 118535, "text": "San Cristóbal"}
+{"end": 118650, "label": "ORG", "start": 118627, "text": "Secretaría de Seguridad"}
+{"end": 118663, "label": "MISC", "start": 118652, "text": "Convivencia"}
+{"end": 118674, "label": "MISC", "start": 118666, "text": "Justicia"}
+{"end": 119609, "label": "LOC", "start": 119601, "text": "Colombia"}
+{"end": 120376, "label": "MISC", "start": 120373, "text": "JER"}
+{"end": 120410, "label": "PER", "start": 120407, "text": "JER"}
+{"end": 123552, "label": "MISC", "start": 123544, "text": "ley 1098"}
+{"end": 124137, "label": "MISC", "start": 124134, "text": "JER"}
+{"end": 124329, "label": "ORG", "start": 124326, "text": "JER"}
+{"end": 124352, "label": "PER", "start": 124349, "text": "JER"}
+{"end": 124370, "label": "PER", "start": 124367, "text": "JER"}
+{"end": 124984, "label": "MISC", "start": 124981, "text": "JER"}
+{"end": 125620, "label": "ORG", "start": 125614, "text": "Estado"}
+{"end": 125642, "label": "ORG", "start": 125632, "text": "Secretaría"}
+{"end": 126097, "label": "ORG", "start": 126087, "text": "Secretaría"}
+{"end": 128252, "label": "MISC", "start": 128249, "text": "JER"}
+{"end": 128400, "label": "ORG", "start": 128397, "text": "JER"}
+{"end": 129800, "label": "LOC", "start": 129796, "text": "Suba"}
+{"end": 130701, "label": "MISC", "start": 130698, "text": "JER"}
+{"end": 131634, "label": "MISC", "start": 131631, "text": "JER"}
+{"end": 131743, "label": "ORG", "start": 131740, "text": "JER"}
+{"end": 133202, "label": "MISC", "start": 133199, "text": "JER"}
+{"end": 134457, "label": "MISC", "start": 134454, "text": "JER"}
+{"end": 134698, "label": "MISC", "start": 134695, "text": "JER"}
+{"end": 136601, "label": "MISC", "start": 136598, "text": "PQR"}
+{"end": 136848, "label": "MISC", "start": 136845, "text": "PQR"}
+{"end": 137088, "label": "PER", "start": 137084, "text": "Ufff"}
+{"end": 137299, "label": "LOC", "start": 137288, "text": "Nueva Delhi"}
+{"end": 138246, "label": "LOC", "start": 138235, "text": "Nueva Delhi"}
+{"end": 138350, "label": "MISC", "start": 138347, "text": "JER"}
+{"end": 139119, "label": "ORG", "start": 139097, "text": "Secretaría de la Mujer"}
+{"end": 139298, "label": "ORG", "start": 139279, "text": "Escuela de Violetas"}
+{"end": 139308, "label": "ORG", "start": 139301, "text": "Colores"}
+{"end": 139375, "label": "ORG", "start": 139355, "text": "Escuelas de Violetas"}
+{"end": 139385, "label": "ORG", "start": 139378, "text": "Colores"}
+{"end": 139427, "label": "ORG", "start": 139410, "text": "Mujeres de Pueblo"}
+{"end": 139515, "label": "MISC", "start": 139507, "text": "Violetas"}
+{"end": 139525, "label": "MISC", "start": 139518, "text": "Colores"}
+{"end": 139544, "label": "PER", "start": 139536, "text": "Violetas"}
+{"end": 139554, "label": "PER", "start": 139547, "text": "Colores"}
+{"end": 139882, "label": "ORG", "start": 139862, "text": "Escuelas de Violetas"}
+{"end": 139892, "label": "ORG", "start": 139885, "text": "Colores"}
+{"end": 140562, "label": "LOC", "start": 140558, "text": "Suba"}
+{"end": 140606, "label": "LOC", "start": 140599, "text": "Gaitana"}
+{"end": 140907, "label": "LOC", "start": 140884, "text": "Colegio Restrepo Millán"}
+{"end": 141116, "label": "LOC", "start": 141101, "text": "Restrepo Millán"}
+{"end": 141537, "label": "MISC", "start": 141534, "text": "JER"}
+{"end": 141612, "label": "MISC", "start": 141609, "text": "JER"}
+{"end": 142496, "label": "MISC", "start": 142493, "text": "JER"}
+{"end": 143217, "label": "ORG", "start": 143207, "text": "Secretaría"}
+{"end": 145864, "label": "ORG", "start": 145841, "text": "Secretaría de Seguridad"}
+{"end": 145878, "label": "MISC", "start": 145867, "text": "Convivencia"}
+{"end": 146179, "label": "ORG", "start": 146169, "text": "Secretaría"}
+{"end": 146187, "label": "ORG", "start": 146184, "text": "JER"}
+{"end": 146307, "label": "MISC", "start": 146293, "text": "NOMBRE PERSONA"}
+{"end": 148894, "label": "ORG", "start": 148891, "text": "SED"}
+{"end": 151388, "label": "MISC", "start": 151374, "text": "NOMBRE PERSONA"}
+{"end": 151614, "label": "PER", "start": 151612, "text": "Ay"}
+{"end": 154570, "label": "PER", "start": 154555, "text": "García Canclini"}
+{"end": 154580, "label": "PER", "start": 154572, "text": "Canclini"}
+{"end": 154699, "label": "PER", "start": 154693, "text": "Piaget"}
+{"end": 155264, "label": "MISC", "start": 155253, "text": "La Venganza"}
+{"end": 155286, "label": "MISC", "start": 155266, "text": "La Venganza de Analí"}
+{"end": 155498, "label": "MISC", "start": 155491, "text": "Netflix"}
+{"end": 155597, "label": "PER", "start": 155590, "text": "Shakira"}
+{"end": 155753, "label": "PER", "start": 155740, "text": "Diomedes Díaz"}
+{"end": 156274, "label": "MISC", "start": 156265, "text": "María paz"}
+{"end": 156298, "label": "LOC", "start": 156288, "text": "Santa Rosa"}
+{"end": 158820, "label": "ORG", "start": 158814, "text": "Estado"}
+{"end": 159472, "label": "MISC", "start": 159469, "text": "JER"}
+{"end": 159657, "label": "MISC", "start": 159654, "text": "JER"}
+{"end": 163735, "label": "PER", "start": 163726, "text": "Max Weber"}
+{"end": 164421, "label": "MISC", "start": 164404, "text": "Ciencias Sociales"}
+{"end": 168445, "label": "MISC", "start": 168442, "text": "JER"}
+{"end": 169989, "label": "MISC", "start": 169974, "text": "Economía Urbana"}
+{"end": 170124, "label": "ORG", "start": 170090, "text": "Secretaría Distrital de Planeación"}
+{"end": 170165, "label": "ORG", "start": 170142, "text": "Secretaría de Educación"}
+{"end": 176486, "label": "MISC", "start": 176483, "text": "JER"}
+{"end": 176522, "label": "ORG", "start": 176519, "text": "JER"}
+{"end": 184260, "label": "MISC", "start": 184255, "text": "Niñas"}
+{"end": 184268, "label": "MISC", "start": 184263, "text": "Niños"}
+{"end": 189463, "label": "LOC", "start": 189457, "text": "Bogotá"}
+{"end": 191820, "label": "MISC", "start": 191816, "text": "DPRI"}
+{"end": 192286, "label": "ORG", "start": 192264, "text": "Secretaría de Acciones"}
+{"end": 192449, "label": "LOC", "start": 192443, "text": "Bogotá"}
+{"end": 192690, "label": "MISC", "start": 192684, "text": "Spring"}
+{"end": 192699, "label": "LOC", "start": 192695, "text": "Suba"}
+{"end": 192732, "label": "LOC", "start": 192728, "text": "Loma"}
+{"end": 192750, "label": "LOC", "start": 192736, "text": "Ciudad Bolívar"}
+{"end": 194201, "label": "MISC", "start": 194153, "text": "Encuentro Internacional de Justicia Restaurativa"}
+{"end": 196509, "label": "ORG", "start": 196506, "text": "JER"}
+{"end": 198869, "label": "ORG", "start": 198859, "text": "Ministerio"}
+{"end": 198918, "label": "ORG", "start": 198908, "text": "Secretaría"}
+{"end": 199080, "label": "PER", "start": 199072, "text": "Llámenlo"}
+{"end": 199497, "label": "LOC", "start": 199491, "text": "Bogotá"}
+{"end": 199674, "label": "LOC", "start": 199668, "text": "Bogotá"}
+{"end": 200004, "label": "LOC", "start": 199998, "text": "Nación"}
+{"end": 200096, "label": "LOC", "start": 200090, "text": "Bogotá"}
+{"end": 201038, "label": "LOC", "start": 201032, "text": "Bogotá"}
+{"end": 206354, "label": "PER", "start": 206342, "text": "Digámonoslas"}
+{"end": 209195, "label": "MISC", "start": 209187, "text": "Escuelas"}
+{"end": 209218, "label": "ORG", "start": 209201, "text": "Territorio de Paz"}
+{"end": 209438, "label": "ORG", "start": 209435, "text": "ADE"}
+{"end": 209487, "label": "ORG", "start": 209479, "text": "Escuelas"}
+{"end": 209510, "label": "LOC", "start": 209493, "text": "Territorio de Paz"}
+{"end": 209656, "label": "LOC", "start": 209639, "text": "Territorio de Paz"}
+{"end": 209827, "label": "LOC", "start": 209810, "text": "Territorio de Paz"}
+{"end": 209910, "label": "LOC", "start": 209893, "text": "Territorio de Paz"}
+{"end": 210346, "label": "LOC", "start": 210338, "text": "Colombia"}
+{"end": 211279, "label": "MISC", "start": 211263, "text": "“NOMBRE PERSONA”"}
+{"end": 211306, "label": "MISC", "start": 211291, "text": "NOMBRE PERSONA”"}
+{"end": 211357, "label": "MISC", "start": 211341, "text": "“NOMBRE PERSONA”"}
+{"end": 211854, "label": "MISC", "start": 211840, "text": "NOMBRE PERSONA"}
+{"end": 212777, "label": "MISC", "start": 212774, "text": "JER"}
+{"end": 212958, "label": "MISC", "start": 212954, "text": "PEIS"}
+{"end": 213266, "label": "ORG", "start": 213248, "text": "Secretaría General"}
+{"end": 213285, "label": "ORG", "start": 213274, "text": "Secretarías"}
+{"end": 213312, "label": "MISC", "start": 213294, "text": "Rector Coordinador"}
+{"end": 213629, "label": "PER", "start": 213619, "text": "Chao Claro"}
+{"end": 216687, "label": "MISC", "start": 216678, "text": "Javeriana"}
+{"end": 216699, "label": "LOC", "start": 216694, "text": "Andes"}
+{"end": 222061, "label": "MISC", "start": 222060, "text": "E"}
+{"end": 224256, "label": "MISC", "start": 224252, "text": "DPRI"}
+{"end": 224392, "label": "MISC", "start": 224388, "text": "DPRI"}
+{"end": 224553, "label": "ORG", "start": 224550, "text": "OCE"}
+{"end": 224998, "label": "MISC", "start": 224995, "text": "OCE"}
+{"end": 225017, "label": "ORG", "start": 225010, "text": "Oficina"}
+{"end": 225045, "label": "ORG", "start": 225026, "text": "Convivencia Escolar"}
+{"end": 225295, "label": "ORG", "start": 225292, "text": "OCE"}
+{"end": 225327, "label": "MISC", "start": 225324, "text": "JER"}
+{"end": 225415, "label": "MISC", "start": 225412, "text": "JER"}
+{"end": 225665, "label": "ORG", "start": 225639, "text": "Dirección de Participación"}
+{"end": 225699, "label": "MISC", "start": 225668, "text": "Relaciones Interinstitucionales"}
+{"end": 225776, "label": "ORG", "start": 225750, "text": "Dirección de Participación"}
+{"end": 225806, "label": "ORG", "start": 225780, "text": "Dirección de Participación"}
+{"end": 225921, "label": "ORG", "start": 225895, "text": "Dirección de Participación"}
+{"end": 226015, "label": "MISC", "start": 226010, "text": "RIOPE"}
+{"end": 226041, "label": "MISC", "start": 226023, "text": "Respuesta Integral"}
+{"end": 226069, "label": "MISC", "start": 226050, "text": "Orientación Escolar"}
+{"end": 227700, "label": "MISC", "start": 227697, "text": "OCE"}
+{"end": 228323, "label": "MISC", "start": 228315, "text": "Atención"}
+{"end": 228959, "label": "MISC", "start": 228951, "text": "Escuelas"}
+{"end": 228973, "label": "MISC", "start": 228964, "text": "Emociones"}
+{"end": 229048, "label": "MISC", "start": 229040, "text": "Escuelas"}
+{"end": 229062, "label": "MISC", "start": 229053, "text": "Emociones"}
+{"end": 229276, "label": "ORG", "start": 229237, "text": "Comité Distrital de Convivencia Escolar"}
+{"end": 229329, "label": "ORG", "start": 229310, "text": "Secretaría de Salud"}
+{"end": 229342, "label": "ORG", "start": 229334, "text": "Gobierno"}
+{"end": 229356, "label": "MISC", "start": 229347, "text": "Seguridad"}
+{"end": 229368, "label": "MISC", "start": 229361, "text": "Cultura"}
+{"end": 229383, "label": "MISC", "start": 229374, "text": "Educación"}
+{"end": 229570, "label": "ORG", "start": 229547, "text": "Secretaría de Educación"}
+{"end": 229686, "label": "MISC", "start": 229681, "text": "Salud"}
+{"end": 230142, "label": "MISC", "start": 230137, "text": "Aulas"}
+{"end": 231436, "label": "LOC", "start": 231422, "text": "Villa de Leyva"}
+{"end": 231476, "label": "LOC", "start": 231462, "text": "Villa de Leyva"}
+{"end": 231908, "label": "ORG", "start": 231903, "text": "Aulas"}
+{"end": 231915, "label": "LOC", "start": 231912, "text": "Paz"}
+{"end": 232618, "label": "LOC", "start": 232604, "text": "Villa de Leyva"}
+{"end": 232660, "label": "MISC", "start": 232644, "text": "“NOMBRE PERSONA”"}
+{"end": 232791, "label": "MISC", "start": 232786, "text": "Aulas"}
+{"end": 233905, "label": "MISC", "start": 233895, "text": "Culturales"}
+{"end": 234051, "label": "MISC", "start": 234039, "text": "Restaurativo"}
+{"end": 234371, "label": "MISC", "start": 234364, "text": "Gracias"}
+{"end": 234523, "label": "MISC", "start": 234508, "text": "Fortalecimiento"}
+{"end": 235024, "label": "PER", "start": 235015, "text": "Cambiemos"}
+{"end": 235265, "label": "MISC", "start": 235262, "text": "COF"}
+{"end": 235769, "label": "MISC", "start": 235757, "text": "Terapéuticos"}
+{"end": 235814, "label": "ORG", "start": 235795, "text": "Secretaría de Salud"}
+{"end": 236872, "label": "LOC", "start": 236858, "text": "Ciudad Bolívar"}
+{"end": 237650, "label": "MISC", "start": 237647, "text": "JER"}
+{"end": 237833, "label": "MISC", "start": 237830, "text": "JER"}
+{"end": 237979, "label": "MISC", "start": 237971, "text": "Escuelas"}
+{"end": 239556, "label": "PER", "start": 239547, "text": "Sacámonos"}
+{"end": 239973, "label": "PER", "start": 239966, "text": "Llámelo"}
+{"end": 240847, "label": "PER", "start": 240842, "text": "Marta"}
+{"end": 241774, "label": "ORG", "start": 241771, "text": "JER"}
+{"end": 242087, "label": "MISC", "start": 242084, "text": "OCE"}
+{"end": 242131, "label": "MISC", "start": 242128, "text": "JER"}
+{"end": 242202, "label": "MISC", "start": 242199, "text": "JER"}
+{"end": 242383, "label": "MISC", "start": 242378, "text": "Ok \nP"}
+{"end": 242662, "label": "MISC", "start": 242644, "text": "Oculto Pregúntenle"}
+{"end": 242927, "label": "MISC", "start": 242898, "text": "Justicia Escolar Restaurativa"}
+{"end": 243002, "label": "ORG", "start": 242999, "text": "JER"}
+{"end": 243500, "label": "ORG", "start": 243494, "text": "La JER"}
+{"end": 243711, "label": "PER", "start": 243709, "text": "Ay"}
+{"end": 243737, "label": "MISC", "start": 243734, "text": "JER"}
+{"end": 244075, "label": "ORG", "start": 244072, "text": "JER"}
+{"end": 244294, "label": "ORG", "start": 244291, "text": "OCE"}
+{"end": 244303, "label": "ORG", "start": 244300, "text": "JER"}
+{"end": 244471, "label": "ORG", "start": 244466, "text": "JER\nP"}
+{"end": 244476, "label": "ORG", "start": 244473, "text": "JER"}
+{"end": 244567, "label": "MISC", "start": 244558, "text": "Ok \nP:Por"}
+{"end": 244866, "label": "MISC", "start": 244863, "text": "JER"}
+{"end": 245157, "label": "PER", "start": 245144, "text": "Subsecretario"}
+{"end": 245871, "label": "MISC", "start": 245869, "text": "OK"}
+{"end": 246434, "label": "ORG", "start": 246431, "text": "JER"}
+{"end": 247050, "label": "LOC", "start": 247022, "text": "colegio  Ciudadela Educativa"}
+{"end": 247657, "label": "MISC", "start": 247641, "text": "Justicia Escolar"}
+{"end": 247905, "label": "ORG", "start": 247889, "text": "Justicia Escolar"}
+{"end": 248521, "label": "ORG", "start": 248511, "text": "Secretaría"}
+{"end": 248555, "label": "LOC", "start": 248549, "text": "Bogotá"}
+{"end": 248739, "label": "LOC", "start": 248733, "text": "Bogotá"}
+{"end": 248813, "label": "MISC", "start": 248810, "text": "JER"}
+{"end": 248878, "label": "MISC", "start": 248871, "text": "Escuela"}
+{"end": 248892, "label": "MISC", "start": 248883, "text": "Emociones"}
+{"end": 248948, "label": "MISC", "start": 248945, "text": "JER"}
+{"end": 248990, "label": "MISC", "start": 248983, "text": "Escuela"}
+{"end": 249022, "label": "ORG", "start": 249019, "text": "JER"}
+{"end": 249143, "label": "MISC", "start": 249141, "text": "Ok"}
+{"end": 249363, "label": "MISC", "start": 249352, "text": "Estrategias"}
+{"end": 249422, "label": "LOC", "start": 249416, "text": "Bogotá"}
+{"end": 249655, "label": "MISC", "start": 249651, "text": "OCSE"}
+{"end": 249908, "label": "MISC", "start": 249898, "text": "Secundaria"}
+{"end": 250184, "label": "MISC", "start": 250179, "text": "Ok No"}
+{"end": 250669, "label": "MISC", "start": 250654, "text": "Epistemológicos"}
+{"end": 252506, "label": "MISC", "start": 252502, "text": "OSIT"}
+{"end": 252663, "label": "MISC", "start": 252651, "text": "Restaurativa"}
+{"end": 253289, "label": "MISC", "start": 253277, "text": "Aprendizajes"}
+{"end": 253330, "label": "MISC", "start": 253325, "text": "Poder"}
+{"end": 253867, "label": "MISC", "start": 253862, "text": "Pagos"}
+{"end": 255086, "label": "LOC", "start": 255074, "text": "San Bernardo"}
+{"end": 255108, "label": "PER", "start": 255099, "text": "María Paz"}
+{"end": 255391, "label": "MISC", "start": 255376, "text": "Institucionales"}
+{"end": 256737, "label": "PER", "start": 256733, "text": "Nafi"}
+{"end": 256853, "label": "MISC", "start": 256846, "text": "Ahorita"}
+{"end": 257022, "label": "MISC", "start": 257019, "text": "JER"}
+{"end": 257113, "label": "MISC", "start": 257110, "text": "JER"}
+{"end": 257246, "label": "MISC", "start": 257231, "text": "Interpersonales"}
+{"end": 257926, "label": "PER", "start": 257906, "text": "Stephanie Terminamos"}
