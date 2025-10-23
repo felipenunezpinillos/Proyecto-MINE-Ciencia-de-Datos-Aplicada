@@ -1,5 +1,8 @@
 # Proyecto-MINE-Ciencia-de-Datos-Aplicada
 
+# Enlace Primera Entrega video:
+https://youtu.be/t_MDMMDuakw
+
 # Integrantes del equipo:
 - Felipe Nuñez
 - Juan Manuel Pérez
