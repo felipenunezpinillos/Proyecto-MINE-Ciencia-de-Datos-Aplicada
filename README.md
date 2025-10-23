@@ -17,6 +17,13 @@ Estimar, con rigor y trazabilidad, la satisfacción de la comunidad educativa y 
   - Documento ejecutivo
 
 # Insights EDA
+- Insight 1:
+- Insight 2:
+- Insight 3:“Conflicto” es el negativo dominante; el resto apunta a problemas operativos y tensión/emoción.
+  |Palabras especificas|conflicto, problema, dificultades, falta, daño,  tensión, violencia, pelea, chisme, mal, rabia.|
+- Insight 4: Es necesario hacer una segunda normalizacion dado que hay exceso de muletillas, dado que estas palabras pueden agregar ruido en el analisis.
+  
+
 
 # Instrucciones de ejecución
 ## EDA:
